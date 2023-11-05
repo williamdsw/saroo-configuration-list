@@ -1,0 +1,12 @@
+# How to use: 
+# Add these 3 lines below to your saroocfg.txt
+# DO NOT add THIS file to your SAROO root, it won't work!
+
+# Game Name
+# [Product Number + (Space if needed) + Version]
+## It needs to be 16 characters in brackets, otherwise it won't work!
+# attribute=value (not applicable for exmem_1M and exmem_4M)
+
+# STREET FIGHTER ZERO3 (J)
+[T-1246G   V1.002]
+sector_delay=1000
