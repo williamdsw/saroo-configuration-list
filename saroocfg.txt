@@ -5,7 +5,7 @@
 ## 0 = Chinese
 ## 1 = English 
 ## 2 = Brazilian Portuguese
-## 3: Japanese
+## 3 = Japanese
 # lang_id=x
 
 ## Various debugging options ##
@@ -142,3 +142,18 @@ sector_delay=1000
 # KOF '96 HACK (JAP)
 # [T-3108G   V1.001]
 # exmem_4M
+
+
+# THUNDER FORCE GOLD PACK 2 (J)
+# [T-1808G   V1.003]
+# sector_delay=10000
+
+
+# GO GO GOAL
+[T-3602G   V1.004]
+sector_delay=4000
+
+
+# INITIAL D
+# [T-25503G  V1.003]
+# sector_delay=8000
