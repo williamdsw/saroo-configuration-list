@@ -6,6 +6,7 @@
 ## 1 = English 
 ## 2 = Brazilian Portuguese
 ## 3 = Japanese
+## 4 = Russian (xvortex build)
 # lang_id=x
 
 ## Various debugging options ##
@@ -36,7 +37,7 @@
 # M_xxxxxxxx=xx
 
 [global]
-lang_id = 2
+lang_id = 1
 
 
 # Asuka120pct BurningFest. Limited
@@ -157,3 +158,8 @@ sector_delay=4000
 # INITIAL D
 # [T-25503G  V1.003]
 # sector_delay=8000
+
+
+# TACTICS_OGRE
+# [T-5306G   V1.003]
+# sector_delay=2000
