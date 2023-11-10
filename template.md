@@ -1,4 +1,4 @@
-# Product Number + Version - Name
+# Product Number (Version) - Game Name (Region)
 
 SAROO's attributes configuration for this game.
 
@@ -20,4 +20,4 @@ attribute=value (not applicable for exmem_1M and exmem_4M)</pre>
 
 ### Evidence (optional)
 
-- [Youtube?]()
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
