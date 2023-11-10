@@ -16,6 +16,6 @@ SAROO's attributes configuration for this game.
 [T-1248G   V1.004]
 sector_delay=2000</pre>
 
-### Evidence (optional)
+### Evidence
 
 [![SAROO 1.32 - Final Fight Revenge](https://img.youtube.com/vi/13zsammNhjM/0.jpg)](https://www.youtube.com/watch?v=13zsammNhjM)
