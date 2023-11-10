@@ -150,16 +150,21 @@ sector_delay=1000
 # sector_delay=10000
 
 
-# GO GO GOAL
+# GO GO GOAL (J)
 [T-3602G   V1.004]
 sector_delay=4000
 
 
-# INITIAL D
+# INITIAL D (J)
 # [T-25503G  V1.003]
 # sector_delay=8000
 
 
-# TACTICS_OGRE
+# TACTICS_OGRE (J)
 # [T-5306G   V1.003]
 # sector_delay=2000
+
+
+# GROOVE ON FIGHT (J)
+[T-14411G  V1.001]
+sector_delay=2000
