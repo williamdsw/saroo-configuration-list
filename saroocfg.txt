@@ -99,17 +99,13 @@ sector_delay=23000
 [T-28001G  V1.000]
 sector_delay=8000
 
-
+# Fixed on 20231111 firmware. Uncomment if your firmware is older than 20231111
 # BOMBERMAN WARS
-[T-14320G  V1.000]
-sector_delay=23000
+# [T-14320G  V1.000]
+# sector_delay=23000
 
 
-# TAROMARU
-[T-4804G   V1.004]
-sector_delay=2000
-
-
+# Fixed on 20231111 firmware
 # ESTO E ZICO
 # [T-18802G  V1.000]
 # sector_delay=23000
