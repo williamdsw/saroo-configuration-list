@@ -19,4 +19,4 @@ sector_delay=1000</pre>
 
 ### Evidence
 
-[![TODO](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![SAROO 1.32 (231111) - Street Fighter Zero 3 (J)](https://img.youtube.com/vi/tC9bezk42ww/0.jpg)](https://youtu.be/tC9bezk42ww)

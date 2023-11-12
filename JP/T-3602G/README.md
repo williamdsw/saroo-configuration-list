@@ -19,4 +19,4 @@ sector_delay=4000</pre>
 
 ### Evidence
 
-[![SAROO 1.32 - J.League Go Go Goal!](https://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=gXqanPZoGLw)
+[![SAROO 1.32 - J.League Go Go Goal!](https://img.youtube.com/vi/gXqanPZoGLw/0.jpg)](https://www.youtube.com/watch?v=gXqanPZoGLw)
