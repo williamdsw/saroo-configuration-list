@@ -59,6 +59,12 @@ lang_id = 1
 # sector_delay=4000
 
 
+# Fixed on 20231111 firmware. Uncomment if your firmware is older than 20231111
+# GROOVE ON FIGHT (J)
+# [T-14411G  V1.001]
+# sector_delay=2000
+
+
 # Asuka120pct BurningFest. Limited
 [T-16708G  V1.003]
 sector_delay=4000
@@ -159,6 +165,3 @@ sector_delay=1000
 # sector_delay=2000
 
 
-# GROOVE ON FIGHT (J)
-[T-14411G  V1.001]
-sector_delay=2000

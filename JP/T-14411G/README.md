@@ -1,6 +1,10 @@
 # T-14411G (V1.001) - GROOVE ON FIGHT (J)
 
-SAROO's attributes configuration for this game.
+SAROO's attributes configuration (prior 20231111 firmware) for this game.
+
+### Edit
+
+- This game was fixed on 20231111 firmware and it runs properly now.
 
 ### Usage
 
