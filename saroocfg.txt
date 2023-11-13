@@ -1,4 +1,5 @@
 ### SAROO config file ###
+## Check more games configurations at: https://github.com/williamdsw/saroo_configurations ##
 ## Available configurations: ##
 
 ## Select menu language: 
@@ -50,6 +51,12 @@ lang_id = 1
 # BOMBERMAN WARS
 # [T-14320G  V1.000]
 # sector_delay=23000
+
+
+# Fixed on 20231111 firmware. Uncomment if your firmware is older than 20231111
+# GO GO GOAL (J)
+# [T-3602G   V1.004]
+# sector_delay=4000
 
 
 # Asuka120pct BurningFest. Limited
@@ -140,11 +147,6 @@ sector_delay=1000
 # THUNDER FORCE GOLD PACK 2 (J)
 # [T-1808G   V1.003]
 # sector_delay=10000
-
-
-# GO GO GOAL (J)
-[T-3602G   V1.004]
-sector_delay=4000
 
 
 # INITIAL D (J)
