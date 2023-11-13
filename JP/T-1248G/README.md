@@ -1,6 +1,10 @@
 # T-1248G (V1.004) - Final Fight Revenge (J)
 
-SAROO's attributes configuration for this game.
+SAROO's attributes configuration (prior 20231111 firmware) for this game.
+
+### Edit
+
+- This game was fixed on 20231111 firmware and it runs properly now.
 
 ### Usage
 
