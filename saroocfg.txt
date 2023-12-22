@@ -172,3 +172,7 @@ sector_delay=2000
 # BUG (U)
 [GM-81004  V1.017]
 sector_delay=2000
+
+# BURNING RANGERS (U)
+[MK-81803  V1.001]
+play_delay=2000

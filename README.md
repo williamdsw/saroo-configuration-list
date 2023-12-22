@@ -14,4 +14,5 @@ Obs: Check my [compatibility list](https://github.com/williamdsw/saroo-compatibi
 
 - [Bug! (E)](./E/MK-81004/README.md)
 - [Bug! (U)](./U/GM-81004/README.md)
+- [Burning Rangers (U)](./U/MK-81803/README.md)
 - [Street Fighter Zero 3 (J)](./J/T-1246G/README.md)
