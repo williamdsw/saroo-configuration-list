@@ -176,3 +176,15 @@ sector_delay=2000
 # BURNING RANGERS (U)
 [MK-81803  V1.001]
 play_delay=2000
+
+# DAYTONA USA (E)
+[MK_8120050V1.000]
+sector_delay=500
+
+# DAYTONA USA (U)
+[MK-81200  V1.000]
+sector_delay=500
+
+# DAYTONA USA (J)
+[GS-9013   V1.000]
+sector_delay=500
