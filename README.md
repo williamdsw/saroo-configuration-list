@@ -14,6 +14,7 @@ Obs: Check my [compatibility list](https://github.com/williamdsw/saroo-compatibi
 
 - [Bug! (E)](./E/MK-81004/README.md)
 - [Bug! (U)](./U/GM-81004/README.md)
+- [Bug! - Jump Shite, Fundzukechatte, Pecchanko (J))](./j/GS-9063/README.md)
 - [Burning Rangers (U)](./U/MK-81803/README.md)
 - [Daytona USA (E)](./E/MK_8120050/README.md)
 - [Daytona USA (J)](./J/GS-9013/README.md)
