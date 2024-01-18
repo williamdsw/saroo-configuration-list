@@ -192,3 +192,7 @@ sector_delay=500
 # DAYTONA USA (J)
 [GS-9013   V1.000]
 sector_delay=500
+
+# ZERO DIVIDE THE FINAL CONFLICT (J)
+[T-31601G  V1.003]
+play_delay=2000

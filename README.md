@@ -20,3 +20,4 @@ Obs: Check my [compatibility list](https://github.com/williamdsw/saroo-compatibi
 - [Daytona USA (J)](./J/GS-9013/README.md)
 - [Daytona USA (U)](./U/MK-81200/README.md)
 - [Street Fighter Zero 3 (J)](./J/T-1246G/README.md)
+- [Zero Divide: The Final Conflict (J)](./J/T-31601G/README.md)
