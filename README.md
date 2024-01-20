@@ -14,10 +14,11 @@ Obs: Check my [compatibility list](https://github.com/williamdsw/saroo-compatibi
 
 - [Bug! (E)](./E/MK-81004/README.md)
 - [Bug! (U)](./U/GM-81004/README.md)
-- [Bug! - Jump Shite, Fundzukechatte, Pecchanko (J))](./j/GS-9063/README.md)
+- [Bug! - Jump Shite, Fundzukechatte, Pecchanko (J)](./J/GS-9063/README.md)
 - [Burning Rangers (U)](./U/MK-81803/README.md)
 - [Daytona USA (E)](./E/MK_8120050/README.md)
 - [Daytona USA (J)](./J/GS-9013/README.md)
 - [Daytona USA (U)](./U/MK-81200/README.md)
 - [Street Fighter Zero 3 (J)](./J/T-1246G/README.md)
+- [Uno DX (J)](./J/T-26414G/README.md)
 - [Zero Divide: The Final Conflict (J)](./J/T-31601G/README.md)
