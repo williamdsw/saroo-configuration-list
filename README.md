@@ -1,4 +1,4 @@
-# Games configurations for SAROO
+# SAROO Configuration List
 
 Multiple configurations files for Sega Saturn Games to working with SAROO. You can copy the global [saroocfg.txt](./saroocfg.txt) values or add from individual games to your **saroocfg.txt**.
 
@@ -6,9 +6,9 @@ Obs: Check my [compatibility list](https://github.com/williamdsw/saroo-compatibi
 
 ### Fixed Games by Firmware Updates
 
-- [Final Fight Revenge (J)](./J/T-1248G/README.md) - Fixed on 20231111
-- [Groove on Fight: Gōketsuji Ichizoku 3 (J)](./J/T-14411G/README.md) - Fixed on 20231111
-- [J.League Go Go Goal! (J)](./J/T-3602G/README.md) - Fixed on 20231111
+- [Final Fight Revenge (J)](./J/T-1248G/README.md) - Fixed on `20231111` firmware
+- [Groove on Fight: Gōketsuji Ichizoku 3 (J)](./J/T-14411G/README.md) - Fixed on `20231111` firmware
+- [J.League Go Go Goal! (J)](./J/T-3602G/README.md) - Fixed on `20231111` firmware
 
 ### Current Games
 
@@ -20,5 +20,6 @@ Obs: Check my [compatibility list](https://github.com/williamdsw/saroo-compatibi
 - [Daytona USA (J)](./J/GS-9013/README.md)
 - [Daytona USA (U)](./U/MK-81200/README.md)
 - [Street Fighter Zero 3 (J)](./J/T-1246G/README.md)
+- [The Incredible Hulk - The Pantheon Saga (U)](./U/T-7905H/README.md)
 - [Uno DX (J)](./J/T-26414G/README.md)
 - [Zero Divide: The Final Conflict (J)](./J/T-31601G/README.md)
