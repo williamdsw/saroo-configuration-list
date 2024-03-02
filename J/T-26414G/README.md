@@ -18,4 +18,4 @@ sector_delay=4000</pre>
 
 ### Evidence
 
-TODO
+[![[Sample] SAROO 1.32 (240118) - Uno DX (J) = Fixed?](https://img.youtube.com/vi/uJZ8sotm9Wg/0.jpg)](https://youtu.be/uJZ8sotm9Wg)
