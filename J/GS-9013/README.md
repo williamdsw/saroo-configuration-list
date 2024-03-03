@@ -1,4 +1,4 @@
-# GS-9013 (V1.000) - DAYTONA USA (J)
+# Daytona USA (J)
 
 SAROO's attributes configuration for this game.
 

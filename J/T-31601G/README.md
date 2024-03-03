@@ -1,4 +1,4 @@
-# ZERO DIVIDE: THE FINAL CONFLICT (J)
+# Zero Divide: The Final Conflict (J)
 
 SAROO's attributes configuration for this game.
 

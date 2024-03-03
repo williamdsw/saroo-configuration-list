@@ -1,4 +1,4 @@
-# UNO DX (J)
+# Uno DX (J)
 
 SAROO's attributes configuration for this game.
 

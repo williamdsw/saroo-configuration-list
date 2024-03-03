@@ -1,4 +1,4 @@
-# GS-9063 (V1.017) - BUG! - JUMP SHITE, FUNZDUKECHATTE, PECCHANKO (J)
+# Bug! - Jump Shite, Funzdukechatte, Pecchanko (J)
 
 SAROO's attributes configuration for this game.
 

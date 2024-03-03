@@ -1,4 +1,4 @@
-# T-1246G (V1.002) - STREET FIGHTER ZERO 3 (J)
+# Street Fighter Zero 3 (J)
 
 SAROO's attributes configuration for this game.
 

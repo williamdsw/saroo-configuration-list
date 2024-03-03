@@ -1,4 +1,4 @@
-# MK_8120050 (V1.000) - DAYTONA USA (E)
+# Daytona USA (E)
 
 SAROO's attributes configuration for this game.
 

@@ -1,4 +1,4 @@
-# GM-81004 (V1.017) - BUG! (E)
+# Bug! (E)
 
 SAROO's attributes configuration for this game.
 

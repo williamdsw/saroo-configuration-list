@@ -1,4 +1,4 @@
-# MK-81803 (V1.001) - BURNING RANGERS (U)
+# Burning Rangers (U)
 
 SAROO's attributes configuration for this game.
 
