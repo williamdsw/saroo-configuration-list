@@ -6,9 +6,10 @@ Obs: Check my [compatibility list](https://github.com/williamdsw/saroo-compatibi
 
 ### Fixed Games by Firmware Updates
 
-- [Final Fight Revenge (J)](./J/T-1248G/README.md) - Fixed on `20231111` firmware
-- [Groove on Fight: Gōketsuji Ichizoku 3 (J)](./J/T-14411G/README.md) - Fixed on `20231111` firmware
-- [J.League Go Go Goal! (J)](./J/T-3602G/README.md) - Fixed on `20231111` firmware
+- [Final Fight Revenge (J)](./J/T-1248G/README.md) - Fixed on `231111` firmware
+- [Groove on Fight: Gōketsuji Ichizoku 3 (J)](./J/T-14411G/README.md) - Fixed on `231111` firmware
+- [Initial D: Koudou Saisoku Densetsu (J)](./J/T-14411G/README.md) - Fixed on `231125` firmware and with proper disc image
+- [J.League Go Go Goal! (J)](./J/T-3602G/README.md) - Fixed on `231111` firmware
 
 ### Current Games
 
