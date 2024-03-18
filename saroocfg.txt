@@ -40,130 +40,73 @@
 [global]
 lang_id = 1
 
-
 # Fixed on 20231111 firmware. Uncomment if your firmware is older than 20231111
 # Final Fight Revenge
 # [T-1248G   V1.004]
 # sector_delay=2000
-
 
 # Fixed on 20231111 firmware. Uncomment if your firmware is older than 20231111
 # BOMBERMAN WARS
 # [T-14320G  V1.000]
 # sector_delay=23000
 
-
 # Fixed on 20231111 firmware. Uncomment if your firmware is older than 20231111
 # GO GO GOAL (J)
 # [T-3602G   V1.004]
 # sector_delay=4000
-
 
 # Fixed on 20231111 firmware. Uncomment if your firmware is older than 20231111
 # GROOVE ON FIGHT (J)
 # [T-14411G  V1.001]
 # sector_delay=2000
 
-
 # Asuka120pct BurningFest. Limited
 [T-16708G  V1.003]
 sector_delay=4000
-
 
 # NINPEN MANMARU
 [T-35502G  V1.001]
 sector_delay=4000
 
-
 # PUYO PUYO SUN
 [T-6603G   V2.000]
 sector_delay=4000
-
 
 # PUZZLE BOBBLE 3
 [T-1109G   V1.002]
 sector_delay=4000
 
-
 # D-XHIRD
 [T-10307G  V1.002]
 sector_delay=1000
-
 
 # TAROMARU
 [T-4804G   V1.004]
 sector_delay=1000
 
-
 # SALAMANDER-DP    
 [T-9520G   V1.010]
 sector_delay=2000
-
 
 # Princess Crown
 [T-14418G  V1.004]
 sector_delay=4000
 
-
 # ROUKA NI ITIDANTOA-RU  
 [GS-9043   V1.002]
 sector_delay=4000
-
 
 # SATURN BOMBERMAN FIGHT
 [T-14321G  V1.000]
 sector_delay=23000
 
-
 # Nonomura Byouin no Hitobito
 [T-28001G  V1.000]
 sector_delay=8000
 
-
-# GUNBIRD
-# [T-14402G  V1.01J]
-# sector_delay=2000
-
-
-# MK TRILOGY (EUR)
-# [T-25414H50V1.000]
-# sector_delay=4000
-
-
-# ULTIMATE MORTAL KOMBAT 3 (EUR)
-# [T-25403H  V2.000]
-# sector_delay=4000
-
-
 # STREET FIGHTER ZERO3 (JAP)
 [T-1246G   V1.002]
 sector_delay=1000
-
-
-# THE KING OF FIGHTERS'95 (JAP)
-# [T-3101G   V1.000]
-# exmem_4M
-
-
-# KOF '96 HACK (JAP)
-# [T-3108G   V1.001]
-# exmem_4M
-
-
-# THUNDER FORCE GOLD PACK 2 (J)
-# [T-1808G   V1.003]
-# sector_delay=10000
-
-
-# INITIAL D (J)
-# [T-25503G  V1.003]
-# sector_delay=8000
-
-
-# TACTICS_OGRE (J)
-# [T-5306G   V1.003]
-# sector_delay=2000
-
 
 # BUG (E)
 [MK-81004  V1.019]
@@ -203,4 +146,8 @@ sector_delay=4000
 
 # The Incredible Hulk - The Pantheon Saga
 [T-7905H   V1.003]
+sector_delay=1000
+
+# LAST GLADIATORS
+[T-4804H   V1.000]
 sector_delay=1000
