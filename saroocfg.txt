@@ -151,3 +151,7 @@ sector_delay=1000
 # LAST GLADIATORS
 [T-4804H   V1.000]
 sector_delay=1000
+
+# Heartbeat Scramble (Japan)
+[T-15014G  V1.000]
+sector_delay=1000

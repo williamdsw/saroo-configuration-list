@@ -28,6 +28,10 @@ Obs: Check my [compatibility list](https://github.com/williamdsw/saroo-compatibi
 - [Daytona USA (U)](./U/MK-81200/README.md)
 - [Digital Pinball: Last Gladiators (U)](./U/T-4804H/README.md)
 
+#### H
+
+- [Heartbeat Scramble (J)](./J/T-15014G/README.md)
+
 #### S
 
 - [Street Fighter Zero 3 (J)](./J/T-1246G/README.md)
