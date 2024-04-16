@@ -32,12 +32,17 @@ Obs: Check my [compatibility list](https://github.com/williamdsw/saroo-compatibi
 
 - [Heartbeat Scramble (J)](./J/T-15014G/README.md)
 
+#### J
+
+- [K-1 Fighting Illusion Shou (J)](./J/T-26102G/README.md)
+
 #### S
 
 - [Street Fighter Zero 3 (J)](./J/T-1246G/README.md)
 
 #### T
 
+- [The Horde (U)](./U/T-15909H50/README.md)
 - [The Incredible Hulk - The Pantheon Saga (U)](./U/T-7905H/README.md)
 
 #### U

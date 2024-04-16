@@ -18,4 +18,4 @@ sector_delay=1000</pre>
 
 ### Evidence
 
-VIDEO TO BE UPLOADED ON YOUTUBE
+[![[Sample] SAROO 1.32 (240316) - Heartbeat Scramble (J) - Fixed?](https://img.youtube.com/vi/XnO39uyaT1U/0.jpg)](https://youtu.be/XnO39uyaT1U)
