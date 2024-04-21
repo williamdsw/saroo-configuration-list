@@ -32,7 +32,7 @@ Obs: Check my [compatibility list](https://github.com/williamdsw/saroo-compatibi
 
 - [Heartbeat Scramble (J)](./J/T-15014G/README.md)
 
-#### J
+#### K
 
 - [K-1 Fighting Illusion Shou (J)](./J/T-26102G/README.md)
 - [Kaitou Saint Tail (J)](./J/T-28201G/README.md)
