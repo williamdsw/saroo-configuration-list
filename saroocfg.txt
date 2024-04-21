@@ -164,3 +164,8 @@ sector_delay=1000
 # Fixes black screen after booting from menu
 [T-26102G  V1.003]
 play_delay=1000
+
+# Kaitou Saint Tail (JP)
+# Fixes black screen after booting from menu
+[T-28201G  V1.010]
+play_delay=1000
