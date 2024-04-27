@@ -169,3 +169,30 @@ play_delay=1000
 # Fixes black screen after booting from menu
 [T-28201G  V1.010]
 play_delay=1000
+
+# Kidou Senkan Nadesico - The Blank of 3 Years (JP)
+# Fixes black screen during some cutscene
+[GS-9195   V1.003]
+sector_delay=1000
+
+# Kidou Senshi Gundam - Gihren no Yabou (JP)
+# Fixes glitches and loud sounds at start
+[T-13327G  V1.003]
+sector_delay=1000
+play_delay=1000
+
+# Kidou Senshi Z Gundam - Zenpen Zeta no Kodou (JP)
+# Fixes black screen at start
+[T-13315G  V1.002]
+sector_delay=5000
+play_delay=5000
+
+# Kekkon - Marriage (JP)
+# Fixes black screen when saving the game
+[T-10501G  V1.200]
+sector_delay=1000
+
+# Keriotosse! (JP)
+# Fixes freeze on gameplay and black screen.
+[T-30306G  V1.003]
+sector_delay=1000

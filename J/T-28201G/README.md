@@ -18,4 +18,4 @@ play_delay=1000</pre>
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (240316) - Kaitou Saint Tail (J) = Fixed?](https://img.youtube.com/vi/ScU_6YyNzKU/0.jpg)](https://youtu.be/ScU_6YyNzKU)
+[![[Sample] SAROO 1.32 (240316) - Kaitou Saint Tail (J) = Fixed?](https://img.youtube.com/vi/ScU_6YyNzKU/0.jpg)](https://youtu.be/ScU_6YyNzKU)
