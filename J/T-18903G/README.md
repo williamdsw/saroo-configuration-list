@@ -1,4 +1,4 @@
-# Digital Pinball: Last Gladiators (U)
+# Digital Pinball: Last Gladiators (J)
 
 SAROO's attributes configuration for this game.
 
