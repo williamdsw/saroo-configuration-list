@@ -196,3 +196,8 @@ sector_delay=1000
 # Fixes freeze on gameplay and black screen.
 [T-30306G  V1.003]
 sector_delay=1000
+
+# Last Gladiators (JP) (Ver. 9.7)
+# Fixes black screen
+[T-18903G  V1.003]
+sector_delay=2000

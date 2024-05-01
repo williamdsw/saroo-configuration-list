@@ -26,6 +26,7 @@ Obs: Check my [compatibility list](https://github.com/williamdsw/saroo-compatibi
 - [Daytona USA (E)](./E/MK_8120050/README.md)
 - [Daytona USA (J)](./J/GS-9013/README.md)
 - [Daytona USA (U)](./U/MK-81200/README.md)
+- [Digital Pinball: Last Gladiators (J)](./J/T-18903G/README.md)
 - [Digital Pinball: Last Gladiators (U)](./U/T-4804H/README.md)
 
 #### H
