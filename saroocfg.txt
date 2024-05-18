@@ -3,12 +3,18 @@
 ## Available configurations: ##
 
 ## Select menu language: 
-## 0 = Chinese
-## 1 = English 
-## 2 = Brazilian Portuguese
-## 3 = Japanese
-## 4 = Russian (xvortex build)
+## 0 = 中文: Chinese
+## 1 = EN: English
+## 2 = PTBR: Português do Brasil
+## 3 = JA: 日本語
+## 4 = FR: Français (v0.4+)
+## 5 = RU: Русский (v0.4+)
+## 6 = 繁中: Traditional Chinese (v0.4+)
+## 7 = DE: Deutsch (v0.4+)
+## 8 = ES: Español (v0.5+)
 # lang_id=x
+
+# [Game ID + Game Version] example: [T-14411G  V1.001]
 
 ## Various debugging options ##
 # debug=xxxxxxxx
@@ -16,11 +22,14 @@
 ## MCU automatically upgrades firmware ##
 # auto_update:
 
-## Delay before PLAY starts. Decimal US units. ##
+## Delay before PLAY starts. Decimal US units. eg 2000 ##
 # play_delay=xxxx
 
-## Delay after each sector is read. Decimal US units. ##
+## Delay after each sector is read. Decimal US units. eg 4000 ##
 # sector_delay=xxxx
+
+## (v0.5+) Delay before PLAY ends. Decimal us units. eg 4000 ##
+# pend_delay=xxxx
 
 ## Use 1M expansion card ##
 # exmem_1M
@@ -37,8 +46,21 @@
 ## Write 8-bit memory ##
 # M_xxxxxxxx=xx
 
+## (v0.4+) Specify the directory format for multi disc games eg "Disc " or "CD". (v0.4+ only)
+# multi_disc="XXX"
+
+## (v0.5+) Custom game categories (up to 12 subfolders). eg "Shmup", "Fighting", "Adventure", "Sports", etc.
+# category="XXX"
+
+## (v0.5+) Alphabetical sorting (only games, not categories)
+## 0 = no sort
+## 1 = sort ASC
+## 2 = sort DESC
+# sort_mode=x
+
 [global]
 lang_id = 1
+sort_mode = 1
 
 # Fixed on 20231111 firmware. Uncomment if your firmware is older than 20231111
 # Final Fight Revenge
@@ -90,11 +112,46 @@ sector_delay=2000
 
 # Princess Crown
 [T-14418G  V1.004]
-sector_delay=4000
+sector_delay=6000
 
 # ROUKA NI ITIDANTOA-RU  
 [GS-9043   V1.002]
 sector_delay=4000
+
+# The Emblem of Justice (Japan)
+[T-21001G  V1.003]
+sector_delay=1000
+
+# Nobunaga's Ambition
+[T-7643G V1.001]
+sector_delay=2000
+
+# Time Bokan
+[T-20607G  V1.003]
+play_delay = 2000
+
+# Gotha - Ismailia SenEki (Japan)
+[GS-9009   V1.000]
+play_delay = 16000
+sector_delay = 5000
+
+# Last Bronx
+[GS-9152   V1.113]
+play_delay = 50000
+
+# Digital Dance Mix Vol.1 Namie Amuro
+[GS-9133   V1.003]
+play_delay = 16000
+sector_delay = 5000
+
+# Falcom Classics II
+[T-31505G  V1.004]
+play_delay = 50000
+
+# Batman Forever - The Arcade Game(Japan)
+[T-8118G   V1.000]
+play_delay = 100000
+sector_delay = 4200
 
 # SATURN BOMBERMAN FIGHT
 [T-14321G  V1.000]
@@ -201,3 +258,25 @@ sector_delay=1000
 # Fixes black screen
 [T-18903G  V1.003]
 sector_delay=2000
+
+# Riglord Saga 2
+[GS-9084   V1.100]
+play_delay = 50000
+sector_delay = 5000
+
+# Hop Step Idol
+[T-20507G  V1.002]
+play_delay = 5000
+pend_delay = 5000
+
+# Thunderhawk II
+[T-6006G   V1.001]
+sector_delay = 8000
+
+# Thunderhawk 2 Firestorm
+[T-11501H00V1.000]
+sector_delay = 8000
+
+# Thunderstrike 2
+[T-7902H   V3.000]
+sector_delay = 8000
