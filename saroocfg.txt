@@ -285,3 +285,8 @@ sector_delay = 8000
 # Thunderstrike 2
 [T-7902H   V3.000]
 sector_delay = 8000
+
+# Battle Monsters (USA)
+[T-8137H   V1.000]
+sector_delay=5000
+play_delay=50000
