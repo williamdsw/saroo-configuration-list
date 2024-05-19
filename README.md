@@ -16,6 +16,7 @@ Obs: Check my [compatibility list](https://github.com/williamdsw/saroo-compatibi
 
 #### B
 
+- [Batman Forever - The Arcade Game (U)](./U/T-8140H/README.md)
 - [Bug! (E)](./E/MK-81004/README.md)
 - [Bug! (U)](./U/GM-81004/README.md)
 - [Bug! - Jump Shite, Fundzukechatte, Pecchanko (J)](./J/GS-9063/README.md)

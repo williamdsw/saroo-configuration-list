@@ -148,10 +148,15 @@ sector_delay = 5000
 [T-31505G  V1.004]
 play_delay = 50000
 
-# Batman Forever - The Arcade Game(Japan)
+# Batman Forever - The Arcade Game (Japan)
 [T-8118G   V1.000]
 play_delay = 100000
 sector_delay = 4200
+
+# Batman Forever - The Arcade Game (USA)
+[T-8140H   V1.000]
+play_delay=65000
+sector_delay=8000
 
 # SATURN BOMBERMAN FIGHT
 [T-14321G  V1.000]
