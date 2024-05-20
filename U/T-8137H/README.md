@@ -20,4 +20,4 @@ play_delay=50000</pre>
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240515) - Battle Monsters (USA) - Fixed?](https://img.youtube.com/vi/dmmcqlI9azk/0.jpg)](https://youtu.be/dmmcqlI9azk)
+[![[Complete] SAROO 1.32 (240515) - Battle Monsters (USA) - Fixed?](https://img.youtube.com/vi/dmmcqlI9azk/0.jpg)](https://youtu.be/dmmcqlI9azk)

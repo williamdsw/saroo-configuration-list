@@ -7,6 +7,7 @@ Obs: Check my [compatibility list](https://github.com/williamdsw/saroo-compatibi
 ### Fixed Games by Firmware Updates
 
 - [Amagi Shien (J)](./J/T-1513G//README.md) - Fixed on `240316` firmware
+- [Bakuretsu Hunter R (J)](./J/T-24903G/README.md) - Fixed on `240515` firmware
 - [Final Fight Revenge (J)](./J/T-1248G/README.md) - Fixed on `231111` firmware
 - [Groove on Fight: Gōketsuji Ichizoku 3 (J)](./J/T-14411G/README.md) - Fixed on `231111` firmware
 - [Initial D: Koudou Saisoku Densetsu (J)](./J/T-25503G//README.md) - Fixed on `231125` firmware and with proper disc image
