@@ -1,4 +1,4 @@
-# Hop Step Idol (J)
+# Riglordsaga 2 (J)
 
 SAROO's attributes configuration for this game.
 
@@ -15,11 +15,11 @@ SAROO's attributes configuration for this game.
 - Update to `240515` firmware.
 - Add this configuration.
 
-<pre># Hop Step Idol
-[T-20507G  V1.002]
-play_delay = 5000
-pend_delay = 5000</pre>
+<pre># Riglordsaga 2
+[GS-9084   V1.100]
+play_delay = 50000
+sector_delay = 5000</pre>
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240515) - Hop Step Idol (Japan) = Fixed?](https://img.youtube.com/vi/RM0k6LuNU5s/0.jpg)](https://youtu.be/RM0k6LuNU5s)
+[![[Sample] SAROO 1.32 (250515) - Riglordsaga 2 (Japan) = Fixed?](https://img.youtube.com/vi/w_AY64Il4vE/0.jpg)](https://youtu.be/w_AY64Il4vE)

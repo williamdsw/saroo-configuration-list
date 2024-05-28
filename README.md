@@ -16,6 +16,7 @@ Obs: Check my [compatibility list](https://github.com/williamdsw/saroo-compatibi
 ### Fixed Games by Firmware + Configuration
 
 - [Hop Step Idol (J)](./J/T-20507G/README.md) - Fixed on `240515` firmware
+- [Riglord Saga 2 (J)](./J/GS-9084/README.md) - Fixed on `240515` firmware
 
 ### Current Games
 
