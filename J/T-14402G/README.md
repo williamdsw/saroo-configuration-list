@@ -13,13 +13,13 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
+[Based on this issue thread on SAROO's official github page](https://github.com/tpunix/SAROO/issues/56#issuecomment-2027796108)
+
 <pre># Gunbird (Japan)
 [T-14402G  V1.01J]
 play_delay=65000
 sector_delay=8000</pre>
 
 ### Evidence
-
-[Issue thread on SAROO's official github page](https://github.com/tpunix/SAROO/issues/56#issuecomment-2027796108)
 
 [![[Complete] SAROO 1.32 (230515) - Gunbird (J) = Fixed?](https://img.youtube.com/vi/mIexnE5nEAw/0.jpg)](https://youtu.be/mIexnE5nEAw)
