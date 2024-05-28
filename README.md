@@ -37,6 +37,10 @@ Obs: Check my [compatibility list](https://github.com/williamdsw/saroo-compatibi
 - [Digital Pinball: Last Gladiators (J)](./J/T-18903G/README.md)
 - [Digital Pinball: Last Gladiators (U)](./U/T-4804H/README.md)
 
+#### G
+
+- [Gunbird (J)](./J/T-14402G/README.md)
+
 #### H
 
 - [Heartbeat Scramble (J)](./J/T-15014G/README.md)
