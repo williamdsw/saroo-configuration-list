@@ -39,6 +39,8 @@ Obs: Check my [compatibility list](https://github.com/williamdsw/saroo-compatibi
 
 #### G
 
+- [Gokujou Parodius Da! Deluxe Pack (J)](./J/T-9501G/V1.001/README.md)
+- [Gokujou Parodius Da! Deluxe Pack (J) (Rev A)](./J/T-9501G/V1.002/README.md)
 - [Gunbird (J)](./J/T-14402G/README.md)
 
 #### H
