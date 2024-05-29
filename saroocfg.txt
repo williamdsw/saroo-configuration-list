@@ -290,3 +290,18 @@ sector_delay = 8000
 [T-8137H   V1.000]
 sector_delay=5000
 play_delay=50000
+
+# Parodius (Europe)
+[T-9501H-50V2.000]
+play_delay=65000 
+sector_delay=8000
+
+# Gokujou Parodius Da! Deluxe Pack (Japan)
+[T-9501G   V1.001]
+play_delay=65000 
+sector_delay=8000
+
+# Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A)
+[T-9501G   V1.002]
+play_delay=65000 
+sector_delay=8000

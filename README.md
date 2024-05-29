@@ -55,6 +55,10 @@ Obs: Check my [compatibility list](https://github.com/williamdsw/saroo-compatibi
 - [Kekkon - Marriage (J)](./J/T-10501G/README.md)
 - [Keriotosse! (J)](./J/T-30306G/README.md)
 
+#### P
+
+- [Parodius (E)](./E/T-9501H-50/README.md)
+
 #### S
 
 - [Street Fighter Zero 3 (J)](./J/T-1246G/README.md)
