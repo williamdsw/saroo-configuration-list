@@ -12,6 +12,10 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
+Based on these issues from SAROO official github:
+[#57](https://github.com/tpunix/SAROO/issues/57)
+[#123](https://github.com/tpunix/SAROO/issues/123)
+
 <pre># Gokujou Parodius Da! Deluxe Pack (Japan)
 [T-9501G   V1.001]
 play_delay=65000 
