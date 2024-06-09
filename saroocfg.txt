@@ -321,3 +321,8 @@ sector_delay=1000
 # Virtua Fighter CG Portrait Series Vol. 2 - Jacky Bryant (Japan)
 [GS-9064   V1.000]
 sector_delay=1000
+
+# Virtuacall S (Japan) (Disc 1) (Game Honpen)
+[T-19718G  V1.003]
+sector_delay=4000
+play_delay=4000
