@@ -305,3 +305,11 @@ sector_delay=8000
 [T-9501G   V1.002]
 play_delay=65000 
 sector_delay=8000
+
+# Virtua Fighter (USA)
+[MK-81005  V1.000]
+sector_delay=1000
+
+# Virtua Fighter (Europe)
+[MK_8100550V1.000]
+sector_delay=1000

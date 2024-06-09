@@ -74,6 +74,11 @@ Obs: Check my [compatibility list](https://github.com/williamdsw/saroo-compatibi
 
 - [Uno DX (J)](./J/T-26414G/README.md)
 
+#### V
+
+- [Virtua Fighter (E)](./E/MK_8100550/README.md)
+- [Virtua Fighter (U)](./U/MK-81005/README.md)
+
 #### Z
 
 - [Zero Divide: The Final Conflict (J)](./J/T-31601G/README.md)
