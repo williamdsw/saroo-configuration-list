@@ -313,3 +313,11 @@ sector_delay=1000
 # Virtua Fighter (Europe)
 [MK_8100550V1.000]
 sector_delay=1000
+
+# Virtua Fighter CG Portrait Series Vol. 1 - Sarah Bryant (Japan) (1M)
+[GS-9062   V1.000]
+sector_delay=1000
+
+# Virtua Fighter CG Portrait Series Vol. 2 - Jacky Bryant (Japan)
+[GS-9064   V1.000]
+sector_delay=1000

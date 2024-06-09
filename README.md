@@ -78,6 +78,8 @@ Obs: Check my [compatibility list](https://github.com/williamdsw/saroo-compatibi
 
 - [Virtua Fighter (E)](./E/MK_8100550/README.md)
 - [Virtua Fighter (U)](./U/MK-81005/README.md)
+- [Virtua Fighter CG Portrait Series Vol. 1 - Sarah Bryant (J)](./J/GS-9062/README.md)
+- [Virtua Fighter CG Portrait Series Vol. 2 - Jacky Bryant (J)](./J/GS-9064/README.md)
 
 #### Z
 
