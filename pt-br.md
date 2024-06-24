@@ -1,32 +1,32 @@
-**English** | [Português](pt-br.md)
+[English](README.md) | **Português**
 
-# SAROO - Configuration List
+# SAROO - Lista de Configurações
 
-### About
+### Sobre
 
-Multiple configurations files for Sega Saturn Games to working with SAROO. You can copy the global [saroocfg.txt](./saroocfg.txt) values or add from individual games to your **saroocfg.txt**.
+Vários arquivos de configurações para funcionamento no cartucho SAROO do Sega Saturn. Você pode copiar o conteúdo do arquivo global [saroocfg.txt](./saroocfg.txt) ou adicionar valores individuais dos jogos para seu arquivo **saroocfg.txt**.
 
-Other repositories related to SAROO:
+Outros repositórios relacionados ao SAROO:
 
-- [Official Repository](https://github.com/tpunix/SAROO)
-- [Compatibility List](https://github.com/williamdsw/saroo-compatibility-list)
-- [Backgrounds for >= v0.5 firmware](https://github.com/williamdsw/saroo-backgrounds)
+- [Repositório Oficial](https://github.com/tpunix/SAROO)
+- [Lista de Compatibilidade](https://github.com/williamdsw/saroo-compatibility-list)
+- [Backgrounds para firmwares >= v0.5](https://github.com/williamdsw/saroo-backgrounds)
 
-### Fixed Games by Firmware Updates
+### Jogos Corrigidos por Atualizações de Firmware
 
-- [Amagi Shien (J)](./J/T-1513G/README.md) - Fixed on `240316` firmware
-- [Bakuretsu Hunter R (J)](./J/T-24903G/README.md) - Fixed on `240515` firmware
-- [Final Fight Revenge (J)](./J/T-1248G/README.md) - Fixed on `231111` firmware
-- [Groove on Fight: Gōketsuji Ichizoku 3 (J)](./J/T-14411G/README.md) - Fixed on `231111` firmware
-- [Initial D: Koudou Saisoku Densetsu (J)](./J/T-25503G//README.md) - Fixed on `231125` firmware and with proper disc image
-- [J.League Go Go Goal! (J)](./J/T-3602G/README.md) - Fixed on `231111` firmware
+- [Amagi Shien (J)](./J/T-1513G/README.md) - Corrigido na firmware `240316`
+- [Bakuretsu Hunter R (J)](./J/T-24903G/README.md) - Corrigido na firmware `240515`
+- [Final Fight Revenge (J)](./J/T-1248G/README.md) - Corrigido na firmware `231111`
+- [Groove on Fight: Gōketsuji Ichizoku 3 (J)](./J/T-14411G/README.md) - Corrigido na firmware `231111`
+- [Initial D: Koudou Saisoku Densetsu (J)](./J/T-25503G//README.md) - Corrigido na firmware `231125` e com imagem de disco adequada
+- [J.League Go Go Goal! (J)](./J/T-3602G/README.md) - Corrigido na firmware `231111`
 
-### Fixed Games by Firmware + Configuration
+### Jogos Corrigidos por Atualizações de Firmware + Configurações
 
-- [Hop Step Idol (J)](./J/T-20507G/README.md) - Fixed on `240515` firmware
-- [Riglord Saga 2 (J)](./J/GS-9084/README.md) - Fixed on `240515` firmware
+- [Hop Step Idol (J)](./J/T-20507G/README.md) - Corrigido na firmware `240515`
+- [Riglord Saga 2 (J)](./J/GS-9084/README.md) - Corrigido na firmware `240515`
 
-### Current Games
+### Jogos Atuais
 
 #### B
 
