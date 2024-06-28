@@ -12,6 +12,7 @@
 ## 6 = 繁中: Traditional Chinese (v0.4+)
 ## 7 = DE: Deutsch (v0.4+)
 ## 8 = ES: Español (v0.5+)
+## 9 = IT: Italiano (v0.6+)
 # lang_id=x
 
 # [Game ID + Game Version] example: [T-14411G  V1.001]
@@ -59,7 +60,9 @@
 # sort_mode=x
 
 [global]
+# English
 lang_id = 1
+# Sort ASC
 sort_mode = 1
 
 # Fixed on 20231111 firmware. Uncomment if your firmware is older than 20231111
@@ -314,6 +317,10 @@ sector_delay=1000
 [MK_8100550V1.000]
 sector_delay=1000
 
+# Virtual Fighter (Japan)
+[GS-9001  V1.000]
+sector_delay=1000
+
 # Virtua Fighter CG Portrait Series Vol. 1 - Sarah Bryant (Japan) (1M)
 [GS-9062   V1.000]
 sector_delay=1000
@@ -326,3 +333,7 @@ sector_delay=1000
 [T-19718G  V1.003]
 sector_delay=4000
 play_delay=4000
+
+# Magical Drop III - Toretate Zoukan-gou! (Japan) (2M)
+[T-1313G   V1.005]
+play_delay=8000
