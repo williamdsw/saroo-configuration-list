@@ -48,6 +48,7 @@ Other repositories related to SAROO:
 #### F
 
 - [(Optional) Fantastep (J)](./J/T-5710G/README.md)
+- [(Optional) Firestorm - Thunderhawk 2 (E)](./E/T-11501H00/README.md)
 - [(Optional) Frank Thomas Big Hurt Baseball (U)](./U/T-8138H/README.md)
 
 #### G

@@ -45,6 +45,12 @@ Outros repositórios relacionados ao SAROO:
 - [Digital Pinball: Last Gladiators (J)](./J/T-18903G/README.md)
 - [Digital Pinball: Last Gladiators (U)](./U/T-4804H/README.md)
 
+#### F
+
+- [(Opcional) Fantastep (J)](./J/T-5710G/README.md)
+- [(Opcional) Firestorm - Thunderhawk 2 (E)](./E/T-11501H00/README.md)
+- [(Opcional) Frank Thomas Big Hurt Baseball (U)](./U/T-8138H/README.md)
+
 #### G
 
 - [Gokujou Parodius Da! Deluxe Pack (J)](./J/T-9501G/V1.001/README.md)
