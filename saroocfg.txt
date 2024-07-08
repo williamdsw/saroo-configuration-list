@@ -337,3 +337,8 @@ play_delay=4000
 # Magical Drop III - Toretate Zoukan-gou! (Japan) (2M)
 [T-1313G   V1.005]
 play_delay=8000
+
+# Optional. Uncomment if the play does shows a black screen in-game.
+# Fantastep (Japan)
+# [T-5710G   V1.002]
+# play_delay=1000
