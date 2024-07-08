@@ -338,7 +338,12 @@ play_delay=4000
 [T-1313G   V1.005]
 play_delay=8000
 
-# Optional. Uncomment if the play does shows a black screen in-game.
+# Optional. Uncomment if shows a black screen in-game.
 # Fantastep (Japan)
 # [T-5710G   V1.002]
 # play_delay=1000
+
+# Optional. Uncomment if the loading screen flicks
+# Frank Thomas Big Hurt Baseball (USA)
+# [T-8138H   V1.000]
+# sector_delay=1000
