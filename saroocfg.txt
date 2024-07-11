@@ -347,3 +347,8 @@ play_delay=8000
 # Frank Thomas Big Hurt Baseball (USA)
 # [T-8138H   V1.000]
 # sector_delay=1000
+
+# Be aware that 610616699 is a generic product number and can conflict with others homebrews/protos/demos!
+# Flash Sega Saturn: Ochikadzuki-hen (Japan)
+# [610616699 V1.001]
+# sector_delay=8000

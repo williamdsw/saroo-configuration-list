@@ -1,0 +1,12 @@
+# How to use: 
+# Add these 3 lines below to your saroocfg.txt
+# DO NOT add THIS file to your SAROO root, it won't work!
+
+# Game Name (Area code)
+# [Product Number + (Space if needed) + Version] (It needs to be 16 characters in brackets, otherwise it won't work!)
+# attribute=value (not applicable for exmem_1M and exmem_4M)
+
+# Be aware that 610616699 is a generic product number and can conflict with others homebrews/protos/demos!
+# Flash Sega Saturn: Ochikadzuki-hen (Japan)
+[610616699 V1.001]
+sector_delay=8000
