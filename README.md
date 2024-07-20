@@ -51,6 +51,7 @@ Other repositories related to SAROO:
 - [(Optional) Firestorm - Thunderhawk 2 (E)](./E/T-11501H00/README.md)
 - [Flash Sega Saturn: Ochikadzuki-hen (J)](./J/610616699/FLASH_SATURN_SP/README.md)
 - [Flash SegaSaturn Vol. 1 (J)](./J/610616601/README.md)
+- [Flash SegaSaturn Vol. 5 (J)](./J/610616605/README.md)
 - [(Optional) Frank Thomas Big Hurt Baseball (U)](./U/T-8138H/README.md)
 
 #### G

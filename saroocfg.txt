@@ -355,11 +355,16 @@ play_delay=8000
 
 # Flash SegaSaturn Vol. 1 (Japan) (2M)
 # [610616601 V1.000]
-# play_delay=30000
-# sector_delay=08000
+play_delay=30000
+sector_delay=08000
 
 # Be aware that SG0000000 is a generic product number and can conflict with others homebrews/protos/demos!
 # Flash SegaSaturn Vol. 1 (Japan) (2M) - Myrient redump
 # [SG0000000 V1.000]
 # play_delay=30000
 # sector_delay=08000
+
+# Flash SegaSaturn Vol. 5 (Japan)
+[610616605 V1.003]
+play_delay=30000
+sector_delay=08000
