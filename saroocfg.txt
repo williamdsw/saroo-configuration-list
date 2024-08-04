@@ -15,7 +15,8 @@
 ## 9 = IT: Italiano (v0.6+)
 # lang_id=x
 
-# [Game ID + Game Version] example: [T-14411G  V1.001]
+# [Game ID + Game Version]
+# example: [T-14411G  V1.001]
 
 ## Various debugging options ##
 # debug=xxxxxxxx
@@ -60,9 +61,7 @@
 # sort_mode=x
 
 [global]
-# English
 lang_id = 1
-# Sort ASC
 sort_mode = 1
 
 # Fixed on 20231111 firmware. Uncomment if your firmware is older than 20231111
@@ -217,7 +216,7 @@ sector_delay=1000
 [T-4804H   V1.000]
 sector_delay=1000
 
-# Heartbeat Scramble (Japan) : Fix black screen
+# Heartbeat Scramble (Japan)
 [T-15014G  V1.000]
 sector_delay=1000
 
@@ -226,39 +225,32 @@ sector_delay=1000
 sector_delay=1000
 
 # K-1 Grand Prix - Fighting Illusion Shou (JP)
-# Fixes black screen after booting from menu
 [T-26102G  V1.003]
 play_delay=1000
 
 # Kaitou Saint Tail (JP)
-# Fixes black screen after booting from menu
 [T-28201G  V1.010]
 play_delay=1000
 
 # Kidou Senkan Nadesico - The Blank of 3 Years (JP)
-# Fixes black screen during some cutscene
 [GS-9195   V1.003]
 sector_delay=1000
 
 # Kidou Senshi Gundam - Gihren no Yabou (JP)
-# Fixes glitches and loud sounds at start
 [T-13327G  V1.003]
 sector_delay=1000
 play_delay=1000
 
 # Kidou Senshi Z Gundam - Zenpen Zeta no Kodou (JP)
-# Fixes black screen at start
 [T-13315G  V1.002]
 sector_delay=5000
 play_delay=5000
 
 # Kekkon - Marriage (JP)
-# Fixes black screen when saving the game
 [T-10501G  V1.200]
 sector_delay=1000
 
 # Keriotosse! (JP)
-# Fixes freeze on gameplay and black screen.
 [T-30306G  V1.003]
 sector_delay=1000
 

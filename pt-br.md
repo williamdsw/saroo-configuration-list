@@ -4,7 +4,7 @@
 
 ### Sobre
 
-Vários arquivos de configurações para funcionamento no cartucho SAROO do Sega Saturn. Você pode copiar o conteúdo do arquivo global [saroocfg.txt](./saroocfg.txt) ou adicionar valores individuais dos jogos para seu arquivo **saroocfg.txt**.
+Vários arquivos de configurações para funcionamento no cartucho SAROO do Sega Saturn. Você pode copiar o conteúdo do arquivo global [saroocfg.txt](./saroocfg/pt-br/saroocfg.txt) ou adicionar valores individuais dos jogos para seu arquivo **saroocfg.txt**.
 
 Outros repositórios relacionados ao SAROO:
 

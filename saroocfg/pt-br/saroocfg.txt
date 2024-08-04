@@ -1,0 +1,374 @@
+### SAROO - Arquivo de Configuração ###
+## Verifique mais configurações no link: https://github.com/williamdsw/saroo_configurations ##
+## Configurações disponíveis: ##
+
+## Escolher idioma do menu: 
+## 0 = 中文: Chinês
+## 1 = EN: Inglês
+## 2 = PTBR: Português do Brasil
+## 3 = JA: Japonês 
+## 4 = FR: Francês (v0.4+)
+## 5 = RU: Russo (v0.4+)
+## 6 = 繁中: Chinês Tradicional (v0.4+)
+## 7 = DE: Alemão (v0.4+)
+## 8 = ES: Espanhol (v0.5+)
+## 9 = IT: Italiano (v0.6+)
+# lang_id=x
+
+# [Id do produto/jogo + Versão do jogo]
+# example: [T-14411G  V1.001]
+
+## Opções de debug ##
+# debug=xxxxxxxx
+
+## Habilitar atualização automática de firmware para MCU ##
+# auto_update:
+
+## Tempo de delay para inicializar o jogo. Valores em casa decimais no padrão US. eg 2000 ##
+# play_delay=xxxx
+
+## Tempo de delay para cada setor lido. Valores em casa decimais no padrão US. eg 2000 ##
+# sector_delay=xxxx
+
+## (v0.5+) Tempo de delay para inicializar o jogo. Valores em casa decimais no padrão US. eg 4000 ##
+# pend_delay=xxxx
+
+## Forçar o uso do cartão de expansão de 1M ##
+# exmem_1M
+
+## Forçar o uso do cartão de expansão de 4M ##
+# exmem_4M
+
+## Escreve um valor 32-bit num endereço de memória especificado ##
+# M_xxxxxxxx=xxxxxxxx
+
+## Escreve um valor 16-bit num endereço de memória especificado ##
+# M_xxxxxxxx=xxxx
+
+## Escreve um valor 8-bit num endereço de memória especificado ##
+# M_xxxxxxxx=xx
+
+## (v0.4+) Especifica o formato de pasta para jogos multi-discos eg "Disc " ou "CD"
+# multi_disc="XXX"
+
+## (v0.5+) Categorias customizáveis (até 12 subfolders). eg "Navinha", "Luta", "Aventura", "Esportes", etc.
+# category="XXX"
+
+## (v0.5+) Alphabetical sorting (only games, not categories)
+## (v0.5+) Classificação alfabética (apenas jogos, não aplicável para categorias)
+## 0 = não organizar
+## 1 = organizar de forma ascendente
+## 2 = organizar de forma decrescente
+# sort_mode=x
+
+[global]
+lang_id = 2
+sort_mode = 1
+
+# Ajustado na firmware 20231111. Descomente se sua firmware atual for menor que 20231111 ou se o jogo ainda apresentar problemas
+# Final Fight Revenge
+# [T-1248G   V1.004]
+# sector_delay=2000
+
+# Ajustado na firmware 20231111. Descomente se sua firmware atual for menor que 20231111 ou se o jogo ainda apresentar problemas
+# BOMBERMAN WARS
+# [T-14320G  V1.000]
+# sector_delay=23000
+
+# Ajustado na firmware 20231111. Descomente se sua firmware atual for menor que 20231111 ou se o jogo ainda apresentar problemas
+# GO GO GOAL (J)
+# [T-3602G   V1.004]
+# sector_delay=4000
+
+# Ajustado na firmware 20231111. Descomente se sua firmware atual for menor que 20231111 ou se o jogo ainda apresentar problemas
+# GROOVE ON FIGHT (J)
+# [T-14411G  V1.001]
+# sector_delay=2000
+
+# Asuka120pct BurningFest. Limited
+[T-16708G  V1.003]
+sector_delay=4000
+
+# NINPEN MANMARU
+[T-35502G  V1.001]
+sector_delay=4000
+
+# PUYO PUYO SUN
+[T-6603G   V2.000]
+sector_delay=4000
+
+# PUZZLE BOBBLE 3
+[T-1109G   V1.002]
+sector_delay=4000
+
+# D-XHIRD
+[T-10307G  V1.002]
+sector_delay=1000
+
+# TAROMARU
+[T-4804G   V1.004]
+sector_delay=1000
+
+# SALAMANDER-DP    
+[T-9520G   V1.010]
+sector_delay=2000
+
+# Princess Crown
+[T-14418G  V1.004]
+sector_delay=6000
+
+# ROUKA NI ITIDANTOA-RU  
+[GS-9043   V1.002]
+sector_delay=4000
+
+# The Emblem of Justice (Japan)
+[T-21001G  V1.003]
+sector_delay=1000
+
+# Nobunaga's Ambition
+[T-7643G V1.001]
+sector_delay=2000
+
+# Time Bokan
+[T-20607G  V1.003]
+play_delay = 2000
+
+# Gotha - Ismailia SenEki (Japan)
+[GS-9009   V1.000]
+play_delay = 16000
+sector_delay = 5000
+
+# Last Bronx
+[GS-9152   V1.113]
+play_delay = 50000
+
+# Digital Dance Mix Vol.1 Namie Amuro
+[GS-9133   V1.003]
+play_delay = 16000
+sector_delay = 5000
+
+# Falcom Classics II
+[T-31505G  V1.004]
+play_delay = 50000
+
+# Batman Forever - The Arcade Game (Japan)
+[T-8118G   V1.000]
+play_delay = 100000
+sector_delay = 4200
+
+# Batman Forever - The Arcade Game (USA)
+[T-8140H   V1.000]
+play_delay=65000
+sector_delay=8000
+
+# SATURN BOMBERMAN FIGHT
+[T-14321G  V1.000]
+sector_delay=23000
+
+# Nonomura Byouin no Hitobito
+[T-28001G  V1.000]
+sector_delay=8000
+
+# STREET FIGHTER ZERO3 (JAP)
+[T-1246G   V1.002]
+sector_delay=1000
+
+# BUG (E)
+[MK-81004  V1.019]
+sector_delay=2000
+
+# BUG (U)
+[GM-81004  V1.017]
+sector_delay=2000
+
+# Bug! - Jump Shite, Fundzukechatte, Pecchanko (J)
+[GS-9063   V1.017]
+sector_delay=2000
+
+# BURNING RANGERS (U)
+[MK-81803  V1.001]
+play_delay=2000
+
+# DAYTONA USA (E)
+[MK_8120050V1.000]
+sector_delay=500
+
+# DAYTONA USA (U)
+[MK-81200  V1.000]
+sector_delay=500
+
+# DAYTONA USA (J)
+[GS-9013   V1.000]
+sector_delay=500
+
+# ZERO DIVIDE THE FINAL CONFLICT (J)
+[T-31601G  V1.003]
+play_delay=2000
+
+# UNO DX (J)
+[T-26414G  V1.001]
+sector_delay=4000
+
+# The Incredible Hulk - The Pantheon Saga
+[T-7905H   V1.003]
+sector_delay=1000
+
+# LAST GLADIATORS
+[T-4804H   V1.000]
+sector_delay=1000
+
+# Heartbeat Scramble (Japan)
+[T-15014G  V1.000]
+sector_delay=1000
+
+# The Horde (USA)
+[T-15909H50V1.000]
+sector_delay=1000
+
+# K-1 Grand Prix - Fighting Illusion Shou (JP)
+[T-26102G  V1.003]
+play_delay=1000
+
+# Kaitou Saint Tail (JP)
+[T-28201G  V1.010]
+play_delay=1000
+
+# Kidou Senkan Nadesico - The Blank of 3 Years (JP)
+[GS-9195   V1.003]
+sector_delay=1000
+
+# Kidou Senshi Gundam - Gihren no Yabou (JP)
+[T-13327G  V1.003]
+sector_delay=1000
+play_delay=1000
+
+# Kidou Senshi Z Gundam - Zenpen Zeta no Kodou (JP)
+[T-13315G  V1.002]
+sector_delay=5000
+play_delay=5000
+
+# Kekkon - Marriage (JP)
+[T-10501G  V1.200]
+sector_delay=1000
+
+# Keriotosse! (JP)
+[T-30306G  V1.003]
+sector_delay=1000
+
+# Last Gladiators (JP) (Ver. 9.7)
+# Fixes black screen
+[T-18903G  V1.003]
+sector_delay=2000
+
+# Riglord Saga 2
+[GS-9084   V1.100]
+play_delay = 50000
+sector_delay = 5000
+
+# Hop Step Idol
+[T-20507G  V1.002]
+play_delay = 5000
+pend_delay = 5000
+
+# Thunderhawk II
+[T-6006G   V1.001]
+sector_delay = 8000
+
+# Thunderhawk 2 Firestorm
+[T-11501H00V1.000]
+sector_delay = 8000
+
+# Thunderstrike 2
+[T-7902H   V3.000]
+sector_delay = 8000
+
+# Battle Monsters (USA)
+[T-8137H   V1.000]
+sector_delay=5000
+play_delay=50000
+
+# Parodius (Europe)
+[T-9501H-50V2.000]
+play_delay=65000 
+sector_delay=8000
+
+# Gokujou Parodius Da! Deluxe Pack (Japan)
+[T-9501G   V1.001]
+play_delay=65000 
+sector_delay=8000
+
+# Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A)
+[T-9501G   V1.002]
+play_delay=65000 
+sector_delay=8000
+
+# Virtua Fighter (USA)
+[MK-81005  V1.000]
+sector_delay=1000
+
+# Virtua Fighter (Europe)
+[MK_8100550V1.000]
+sector_delay=1000
+
+# Virtual Fighter (Japan)
+[GS-9001  V1.000]
+sector_delay=1000
+
+# Virtua Fighter CG Portrait Series Vol. 1 - Sarah Bryant (Japan) (1M)
+[GS-9062   V1.000]
+sector_delay=1000
+
+# Virtua Fighter CG Portrait Series Vol. 2 - Jacky Bryant (Japan)
+[GS-9064   V1.000]
+sector_delay=1000
+
+# Virtuacall S (Japan) (Disc 1) (Game Honpen)
+[T-19718G  V1.003]
+sector_delay=4000
+play_delay=4000
+
+# Magical Drop III - Toretate Zoukan-gou! (Japan) (2M)
+[T-1313G   V1.005]
+play_delay=8000
+
+# Opcional. Descomente se congelar numa tela preta.
+# Fantastep (Japan)
+# [T-5710G   V1.002]
+# play_delay=1000
+
+# Opcional. Descomente se a tela de loading começar a piscar.
+# Frank Thomas Big Hurt Baseball (USA)
+# [T-8138H   V1.000]
+# sector_delay=1000
+
+# Fique atento que 610616699 é um identificador genérico e pode conflicar com outros jogos/demos/protos/homebrews!
+# Flash Sega Saturn: Ochikadzuki-hen (Japan)
+# [610616699 V1.001]
+# sector_delay=8000
+
+# Flash SegaSaturn Vol. 1 (Japan) (2M)
+# [610616601 V1.000]
+play_delay=30000
+sector_delay=08000
+
+# Fique atento que SG0000000 é um identificador genérico e pode conflicar com outros jogos/demos/protos/homebrews!
+# Flash SegaSaturn Vol. 1 (Japan) (2M) - Myrient redump
+# [SG0000000 V1.000]
+# play_delay=30000
+# sector_delay=08000
+
+<pre># Flash SegaSaturn Vol. 2 (Japan) (2M)
+[610616602 V1.000]
+play_delay=30000
+sector_delay=08000</pre>
+
+# Fique atento que SG0000000 é um identificador genérico e pode conflicar com outros jogos/demos/protos/homebrews!
+# Flash SegaSaturn Vol. 2 (Japan) (2M)
+[SG0000000 V1.000]
+play_delay=30000
+sector_delay=08000
+
+# Flash SegaSaturn Vol. 5 (Japan)
+[610616605 V1.003]
+play_delay=30000
+sector_delay=08000
