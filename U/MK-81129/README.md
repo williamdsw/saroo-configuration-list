@@ -20,4 +20,4 @@ play_delay=4000</pre>
 
 ### Evidence
 
-TODO
+[![[Complete] SAROO 1.32 (240627 - v0.6 - exFat) - Winter Heat (USA) = Fixed ?](https://img.youtube.com/vi/pjPoGxevxS8/0.jpg)](https://youtu.be/pjPoGxevxS8)
