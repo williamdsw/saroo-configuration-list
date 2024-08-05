@@ -100,6 +100,12 @@ Other repositories related to SAROO:
 - [Virtua Fighter CG Portrait Series Vol. 1 - Sarah Bryant (J)](./J/GS-9062/README.md)
 - [Virtua Fighter CG Portrait Series Vol. 2 - Jacky Bryant (J)](./J/GS-9064/README.md)
 
+#### W
+
+- [Waku Waku Monster (J)](./J/T-16608G/README.md)
+- [Winter Heat (U)](./U/MK-81129/README.md)
+- [Wizardry Llylgamyn Saga (J)](./J/T-38601G/README.md)
+
 #### Z
 
 - [Zero Divide: The Final Conflict (J)](./J/T-31601G/README.md)

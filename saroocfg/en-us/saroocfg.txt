@@ -370,3 +370,16 @@ sector_delay=08000
 [610616605 V1.003]
 play_delay=30000
 sector_delay=08000
+
+# Waku Waku Monster (Japan)
+[T-16608G  V1.001]
+play_delay=1000
+
+# Winter Heat (USA)
+[MK-81129  V1.001]
+sector_delay=4000
+play_delay=4000
+
+# Wizardry Llylgamyn Saga (Japan)
+[T-38601G  V1.002]
+sector_delay=1000
