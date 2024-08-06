@@ -18,4 +18,4 @@ sector_delay=1000</pre>
 
 ### Evidence
 
-TODO
+[![[Sample] SAROO 1.32 (240627 - v0.6 - exFat) - Wizardry Llylgamyn Saga (Japan) = Fixed ?](https://img.youtube.com/vi/fo9_jg3HVL8/0.jpg)](https://youtu.be/fo9_jg3HVL8)
