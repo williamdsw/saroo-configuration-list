@@ -1,4 +1,4 @@
-# Golden Axe: The Duel
+# Golden Axe: The Duel (U)
 
 SAROO's attributes configuration for this game.
 

@@ -385,3 +385,7 @@ play_delay=4000
 # Wizardry Llylgamyn Saga (Japan)
 [T-38601G  V1.002]
 sector_delay=1000
+
+# Golden Axe - The Duel (USA)
+[MK-81045  V1.000]
+sector_delay=1000
