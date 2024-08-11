@@ -59,6 +59,7 @@ Other repositories related to SAROO:
 
 - [Gokujou Parodius Da! Deluxe Pack (J)](./J/T-9501G/V1.001/README.md)
 - [Gokujou Parodius Da! Deluxe Pack (J) (Rev A)](./J/T-9501G/V1.002/README.md)
+- [Golden Axe: The Duel](./U/MK-81045/README.md)
 - [Gunbird (J)](./J/T-14402G/README.md)
 
 #### H
