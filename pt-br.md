@@ -37,6 +37,10 @@ Outros repositórios relacionados ao SAROO:
 - [Bug! - Jump Shite, Fundzukechatte, Pecchanko (J)](./J/GS-9063/README.md)
 - [Burning Rangers (U)](./U/MK-81803/README.md)
 
+#### C
+
+- [Cross Romance - Koi to Mahjong to Hanafuda to (J)](./J/T-7103G/README.md)
+
 #### D
 
 - [Daytona USA (E)](./E/MK_8120050/README.md)
