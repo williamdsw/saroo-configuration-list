@@ -39,6 +39,7 @@ Outros repositórios relacionados ao SAROO:
 
 #### C
 
+- [Contra - Legacy of War (USA)](./U/T-9507H/README.md)
 - [Cross Romance - Koi to Mahjong to Hanafuda to (J)](./J/T-7103G/README.md)
 - [Crows - The Battle Action for SegaSaturn (J)](./J/T-16806G/README.md)
 

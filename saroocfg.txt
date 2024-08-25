@@ -396,3 +396,7 @@ play_delay=1000
 # Crows - The Battle Action for SegaSaturn (Japan)
 [T-16806G  V1.001]
 sector_delay=1000
+
+# Contra - Legacy of War (USA)
+[T-9507H   V1.000]
+play_delay=2000
