@@ -388,3 +388,7 @@ sector_delay=1000
 # Golden Axe - The Duel (USA)
 [MK-81045  V1.000]
 sector_delay=1000
+
+# Cross Romance - Koi to Mahjong to Hanafuda to (Japan)
+[T-7103G   V1.002]
+play_delay=1000
