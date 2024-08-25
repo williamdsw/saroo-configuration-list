@@ -391,3 +391,7 @@ sector_delay=1000
 # Cross Romance - Koi to Mahjong to Hanafuda to (Japan)
 [T-7103G   V1.002]
 play_delay=1000
+
+# Crows - The Battle Action for SegaSaturn (Japan)
+[T-16806G  V1.001]
+sector_delay=1000

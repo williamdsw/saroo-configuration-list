@@ -40,6 +40,7 @@ Other repositories related to SAROO:
 #### C
 
 - [Cross Romance - Koi to Mahjong to Hanafuda to (J)](./J/T-7103G/README.md)
+- [Crows - The Battle Action for SegaSaturn (J)](./J/T-16806G/README.md)
 
 #### D
 
