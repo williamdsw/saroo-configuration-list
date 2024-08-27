@@ -1,4 +1,4 @@
-# T-14411G (V1.001) - GROOVE ON FIGHT (J)
+# T-14411G (V1.001) - GROOVE ON FIGHT (Japan)
 
 SAROO's attributes configuration (prior 20231111 firmware) for this game.
 
@@ -16,10 +16,10 @@ SAROO's attributes configuration (prior 20231111 firmware) for this game.
 
 ### Solution
 
-<pre># GROOVE ON FIGHT (J)
+<pre># GROOVE ON FIGHT (Japan)
 [T-14411G  V1.001]
 sector_delay=2000</pre>
 
 ### Evidence
 
-[![SAROO 1.32 - Groove on Fight: Gōketsuji Ichizoku 3](https://img.youtube.com/vi/K3ajIqWbAVw/0.jpg)](https://www.youtube.com/watch?v=K3ajIqWbAVw)
+[![](https://img.youtube.com/vi/K3ajIqWbAVw/0.jpg)](https://www.youtube.com/watch?v=K3ajIqWbAVw)

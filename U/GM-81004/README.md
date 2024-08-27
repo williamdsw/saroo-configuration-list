@@ -1,4 +1,4 @@
-# Bug! (U)
+# Bug! (USA)
 
 SAROO's attributes configuration for this game.
 
@@ -12,10 +12,10 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># BUG (U)
+<pre># BUG (USA)
 [GM-81004  V1.017]
 sector_delay=2000</pre>
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Bug! (U) = Fixed?](https://img.youtube.com/vi/P4SlEjedq0Q/0.jpg)](https://youtu.be/P4SlEjedq0Q)
+[![](https://img.youtube.com/vi/P4SlEjedq0Q/0.jpg)](https://youtu.be/P4SlEjedq0Q)

@@ -1,4 +1,4 @@
-# Initial D: Koudou Saisoku Densetsu (J)
+# Initial D: Koudou Saisoku Densetsu (Japan)
 
 ### Problems
 
@@ -14,8 +14,8 @@
 
 231103 firmware:
 
-[![[Sample] SAROO 1.32 (231103) - Initial D (J) = Menus Only + No BGM + Freezes](https://img.youtube.com/vi/VCx9LTIXMPQ/0.jpg)](https://youtu.be/VCx9LTIXMPQ)
+[![](https://img.youtube.com/vi/VCx9LTIXMPQ/0.jpg)](https://youtu.be/VCx9LTIXMPQ)
 
 231125 firmware:
 
-[![[Sample] SAROO 1.32 (231125) - Initial D (J) = Fixed?](https://img.youtube.com/vi/ArkBo2oRFrg/0.jpg)](https://youtu.be/ArkBo2oRFrg)
+[![](https://img.youtube.com/vi/ArkBo2oRFrg/0.jpg)](https://youtu.be/ArkBo2oRFrg)

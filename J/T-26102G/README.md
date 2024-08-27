@@ -1,4 +1,4 @@
-# K-1 Fighting Illusion Shou (J)
+# K-1 Fighting Illusion Shou (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -12,10 +12,10 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># K-1 Fighting Illusion Shou (JP)
+<pre># K-1 Fighting Illusion Shou (Japan)
 [T-26102G  V1.003]
 play_delay=1000</pre>
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (240316) - K-1 Fighting Illusion Shou (J) = Fixed?](https://img.youtube.com/vi/bG48ieFZsWo/0.jpg)](https://youtu.be/bG48ieFZsWo)
+[![](https://img.youtube.com/vi/bG48ieFZsWo/0.jpg)](https://youtu.be/bG48ieFZsWo)

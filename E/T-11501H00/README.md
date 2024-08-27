@@ -1,4 +1,4 @@
-# Firestorm - Thunderhawk 2 (E)
+# Firestorm - Thunderhawk 2 (Europe)
 
 SAROO's attributes configuration for this game.
 
@@ -18,4 +18,4 @@ sector_delay = 8000</pre>
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240627 - v0.6 - exFat) - Firestorm: Thunderhawk 2 (Europe) = Fixed ?](https://img.youtube.com/vi/6HuVdGgebq4/0.jpg)](https://youtu.be/6HuVdGgebq4)
+[![](https://img.youtube.com/vi/6HuVdGgebq4/0.jpg)](https://youtu.be/6HuVdGgebq4)

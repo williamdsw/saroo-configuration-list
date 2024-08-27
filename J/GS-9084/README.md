@@ -1,4 +1,4 @@
-# Riglordsaga 2 (J)
+# Riglordsaga 2 (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -22,4 +22,4 @@ sector_delay = 5000</pre>
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (250515) - Riglordsaga 2 (Japan) = Fixed?](https://img.youtube.com/vi/w_AY64Il4vE/0.jpg)](https://youtu.be/w_AY64Il4vE)
+[![](https://img.youtube.com/vi/w_AY64Il4vE/0.jpg)](https://youtu.be/w_AY64Il4vE)

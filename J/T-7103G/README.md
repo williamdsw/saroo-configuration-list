@@ -1,4 +1,4 @@
-# Cross Romance - Koi to Mahjong to Hanafuda to (J)
+# Cross Romance - Koi to Mahjong to Hanafuda to (Japan)
 
 SAROO's attributes configuration for this game.
 

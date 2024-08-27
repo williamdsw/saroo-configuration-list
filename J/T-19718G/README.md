@@ -1,4 +1,4 @@
-# Virtuacall S (J)
+# Virtuacall S (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -19,4 +19,4 @@ play_delay=4000</pre>
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316*) - Virtuacall S (J) (Disc 1) (Game Honpen) = Fixed?](https://img.youtube.com/vi/avRSQaxIkd0/0.jpg)](https://youtu.be/avRSQaxIkd0)
+[![](https://img.youtube.com/vi/avRSQaxIkd0/0.jpg)](https://youtu.be/avRSQaxIkd0)

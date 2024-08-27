@@ -1,4 +1,4 @@
-# Frank Thomas Big Hurt Baseball (U)
+# Frank Thomas Big Hurt Baseball (USA)
 
 SAROO's attributes configuration for this game.
 
@@ -18,4 +18,4 @@ sector_delay=1000</pre>
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240627 - v0.6 - exFat) - Frank Thomas Big Hurt Baseball (USA)](https://img.youtube.com/vi/TPoe3aQqrLw/0.jpg)](https://youtu.be/TPoe3aQqrLw)
+[![](https://img.youtube.com/vi/TPoe3aQqrLw/0.jpg)](https://youtu.be/TPoe3aQqrLw)

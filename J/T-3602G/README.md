@@ -1,4 +1,4 @@
-# T-3602G (V1.004) - GO GO GOAL (J)
+# T-3602G (V1.004) - GO GO GOAL (Japan)
 
 SAROO's attributes configuration (prior 20231111 firmware) for this game.
 
@@ -17,10 +17,10 @@ SAROO's attributes configuration (prior 20231111 firmware) for this game.
 
 ### Solution
 
-<pre># GO GO GOAL (J)
+<pre># GO GO GOAL (Japan)
 [T-3602G   V1.004]
 sector_delay=4000</pre>
 
 ### Evidence
 
-[![SAROO 1.32 - J.League Go Go Goal!](https://img.youtube.com/vi/gXqanPZoGLw/0.jpg)](https://www.youtube.com/watch?v=gXqanPZoGLw)
+[![](https://img.youtube.com/vi/gXqanPZoGLw/0.jpg)](https://www.youtube.com/watch?v=gXqanPZoGLw)

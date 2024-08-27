@@ -1,4 +1,4 @@
-# Burning Rangers (U)
+# Burning Rangers (USA)
 
 SAROO's attributes configuration for this game.
 
@@ -13,10 +13,10 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># BURNING RANGERS (U)
+<pre># BURNING RANGERS (USA)
 [MK-81803  V1.001]
 play_delay=2000</pre>
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Burning Rangers (U) = Fixed?](https://img.youtube.com/vi/niGOHJC6QAs/0.jpg)](https://youtu.be/niGOHJC6QAs)
+[![](https://img.youtube.com/vi/niGOHJC6QAs/0.jpg)](https://youtu.be/niGOHJC6QAs)

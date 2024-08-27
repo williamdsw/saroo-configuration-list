@@ -1,4 +1,4 @@
-# Golden Axe: The Duel (U)
+# Golden Axe: The Duel (USA)
 
 SAROO's attributes configuration for this game.
 
@@ -19,4 +19,4 @@ sector_delay=1000</pre>
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (240627 - v0.6 - exFat) - Golden Axe: The Duel (USA) = Fixed ?](https://img.youtube.com/vi/aw9GeTj0ZFk/0.jpg)](https://youtu.be/aw9GeTj0ZFk)
+[![](https://img.youtube.com/vi/aw9GeTj0ZFk/0.jpg)](https://youtu.be/aw9GeTj0ZFk)

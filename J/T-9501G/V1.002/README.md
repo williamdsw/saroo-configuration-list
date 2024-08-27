@@ -1,4 +1,4 @@
-# Gokujou Parodius Da! Deluxe Pack (J) (Rev A)
+# Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A)
 
 SAROO's attributes configuration for this game.
 
@@ -19,4 +19,4 @@ sector_delay=8000</pre>
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (240515) - Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A) = Fixed ?](https://img.youtube.com/vi/-yg9BzKp9lc/0.jpg)](https://youtu.be/-yg9BzKp9lc)
+[![](https://img.youtube.com/vi/-yg9BzKp9lc/0.jpg)](https://youtu.be/-yg9BzKp9lc)

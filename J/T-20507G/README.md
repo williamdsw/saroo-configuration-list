@@ -1,4 +1,4 @@
-# Hop Step Idol (J)
+# Hop Step Idol (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -22,4 +22,4 @@ pend_delay = 5000</pre>
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240515) - Hop Step Idol (Japan) = Fixed?](https://img.youtube.com/vi/RM0k6LuNU5s/0.jpg)](https://youtu.be/RM0k6LuNU5s)
+[![](https://img.youtube.com/vi/RM0k6LuNU5s/0.jpg)](https://youtu.be/RM0k6LuNU5s)

@@ -1,4 +1,4 @@
-# Daytona USA (E)
+# Daytona USA (Europe)
 
 SAROO's attributes configuration for this game.
 
@@ -12,10 +12,10 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># DAYTONA USA (E)
+<pre># DAYTONA USA (Europe)
 [MK_8120050V1.000]
 sector_delay=500</pre>
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Daytona USA (U) = Fixed?](https://img.youtube.com/vi/YZOGw2jjz5k/0.jpg)](https://youtu.be/YZOGw2jjz5k)
+[![](https://img.youtube.com/vi/YZOGw2jjz5k/0.jpg)](https://youtu.be/YZOGw2jjz5k)

@@ -1,4 +1,4 @@
-# Virtua Fighter CG Portrait Series Vol. 1 - Sarah Bryant (J)
+# Virtua Fighter CG Portrait Series Vol. 1 - Sarah Bryant (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -18,4 +18,4 @@ sector_delay=1000</pre>
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (240316*) - Virtua Fighter CG Portrait Series Vol. 1 Sarah Bryant (J) = Fixed?](https://img.youtube.com/vi/DA34s8--jDI/0.jpg)](https://youtu.be/DA34s8--jDI)
+[![](https://img.youtube.com/vi/DA34s8--jDI/0.jpg)](https://youtu.be/DA34s8--jDI)

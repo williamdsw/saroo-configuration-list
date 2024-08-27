@@ -1,4 +1,4 @@
-# The Horde (U)
+# The Horde (USA)
 
 SAROO's attributes configuration for this game.
 
@@ -18,4 +18,4 @@ sector_delay=1000</pre>
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - The Horde (U) - Fixed?](https://img.youtube.com/vi/k6NzM6atbY4/0.jpg)](https://youtu.be/k6NzM6atbY4)
+[![](https://img.youtube.com/vi/k6NzM6atbY4/0.jpg)](https://youtu.be/k6NzM6atbY4)

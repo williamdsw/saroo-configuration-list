@@ -1,4 +1,4 @@
-# Kekkon: Marriage (J)
+# Kekkon: Marriage (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -12,10 +12,10 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Kekkon - Marriage (JP)
+<pre># Kekkon - Marriage (Japan)
 [T-10501G  V1.200]
 sector_delay=1000</pre>
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Kekkon: Marriage (J) = Fixed?](https://img.youtube.com/vi/k3l_6IHQJH8/0.jpg)](https://youtu.be/k3l_6IHQJH8)
+[![](https://img.youtube.com/vi/k3l_6IHQJH8/0.jpg)](https://youtu.be/k3l_6IHQJH8)

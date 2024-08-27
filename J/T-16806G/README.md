@@ -1,4 +1,4 @@
-# Crows - The Battle Action for SegaSaturn (J)
+# Crows - The Battle Action for SegaSaturn (Japan)
 
 SAROO's attributes configuration for this game.
 

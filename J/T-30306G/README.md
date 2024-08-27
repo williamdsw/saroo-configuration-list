@@ -1,4 +1,4 @@
-# Keriotosse! (J)
+# Keriotosse! (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -12,10 +12,10 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Keriotosse! (JP)
+<pre># Keriotosse! (Japan)
 [T-30306G  V1.003]
 sector_delay=1000</pre>
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Keriotosse! (J) = Fixed?](https://img.youtube.com/vi/cfCWRHrqmgU/0.jpg)](https://youtu.be/cfCWRHrqmgU)
+[![](https://img.youtube.com/vi/cfCWRHrqmgU/0.jpg)](https://youtu.be/cfCWRHrqmgU)

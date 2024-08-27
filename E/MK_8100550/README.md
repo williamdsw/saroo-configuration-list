@@ -1,4 +1,4 @@
-# Virtua Fighter (E)
+# Virtua Fighter (Europe)
 
 SAROO's attributes configuration for this game.
 

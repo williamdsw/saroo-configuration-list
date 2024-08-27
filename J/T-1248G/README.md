@@ -1,4 +1,4 @@
-# T-1248G (V1.004) - Final Fight Revenge (J)
+# T-1248G (V1.004) - Final Fight Revenge (Japan)
 
 SAROO's attributes configuration (prior 20231111 firmware) for this game.
 
@@ -16,10 +16,10 @@ SAROO's attributes configuration (prior 20231111 firmware) for this game.
 
 ### Solution
 
-<pre># Final Fight Revenge (J)
+<pre># Final Fight Revenge (Japan)
 [T-1248G   V1.004]
 sector_delay=2000</pre>
 
 ### Evidence
 
-[![SAROO 1.32 - Final Fight Revenge](https://img.youtube.com/vi/13zsammNhjM/0.jpg)](https://www.youtube.com/watch?v=13zsammNhjM)
+[![](https://img.youtube.com/vi/13zsammNhjM/0.jpg)](https://www.youtube.com/watch?v=13zsammNhjM)

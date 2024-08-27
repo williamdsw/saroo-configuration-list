@@ -1,4 +1,4 @@
-# Digital Pinball: Last Gladiators (U)
+# Digital Pinball: Last Gladiators (USA)
 
 SAROO's attributes configuration for this game.
 
@@ -18,4 +18,4 @@ sector_delay=1000</pre>
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Digital Pinball: Last Gladiators (U) - Fixed?](https://img.youtube.com/vi/80jjlTDehb8/0.jpg)](https://youtu.be/80jjlTDehb8)
+[![](https://img.youtube.com/vi/80jjlTDehb8/0.jpg)](https://youtu.be/80jjlTDehb8)

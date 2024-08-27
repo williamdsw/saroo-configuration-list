@@ -1,4 +1,4 @@
-# Heartbeat Scramble (J)
+# Heartbeat Scramble (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -18,4 +18,4 @@ sector_delay=1000</pre>
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Heartbeat Scramble (J) - Fixed?](https://img.youtube.com/vi/XnO39uyaT1U/0.jpg)](https://youtu.be/XnO39uyaT1U)
+[![](https://img.youtube.com/vi/XnO39uyaT1U/0.jpg)](https://youtu.be/XnO39uyaT1U)

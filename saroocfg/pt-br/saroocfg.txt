@@ -76,12 +76,12 @@ sort_mode = 1
 # sector_delay=23000
 
 # Ajustado na firmware 20231111. Descomente se sua firmware atual for menor que 20231111 ou se o jogo ainda apresentar problemas
-# GO GO GOAL (J)
+# GO GO GOAL (Japan)
 # [T-3602G   V1.004]
 # sector_delay=4000
 
 # Ajustado na firmware 20231111. Descomente se sua firmware atual for menor que 20231111 ou se o jogo ainda apresentar problemas
-# GROOVE ON FIGHT (J)
+# GROOVE ON FIGHT (Japan)
 # [T-14411G  V1.001]
 # sector_delay=2000
 
@@ -169,43 +169,43 @@ sector_delay=23000
 [T-28001G  V1.000]
 sector_delay=8000
 
-# STREET FIGHTER ZERO3 (JAP)
+# STREET FIGHTER ZERO3 (Japan)
 [T-1246G   V1.002]
 sector_delay=1000
 
-# BUG (E)
+# BUG (Europe)
 [MK-81004  V1.019]
 sector_delay=2000
 
-# BUG (U)
+# BUG (USA)
 [GM-81004  V1.017]
 sector_delay=2000
 
-# Bug! - Jump Shite, Fundzukechatte, Pecchanko (J)
+# Bug! - Jump Shite, Fundzukechatte, Pecchanko (Japan)
 [GS-9063   V1.017]
 sector_delay=2000
 
-# BURNING RANGERS (U)
+# BURNING RANGERS (USA)
 [MK-81803  V1.001]
 play_delay=2000
 
-# DAYTONA USA (E)
+# DAYTONA USA (Europe)
 [MK_8120050V1.000]
 sector_delay=500
 
-# DAYTONA USA (U)
+# DAYTONA USA (USA)
 [MK-81200  V1.000]
 sector_delay=500
 
-# DAYTONA USA (J)
+# DAYTONA USA (Japan)
 [GS-9013   V1.000]
 sector_delay=500
 
-# ZERO DIVIDE THE FINAL CONFLICT (J)
+# ZERO DIVIDE THE FINAL CONFLICT (Japan)
 [T-31601G  V1.003]
 play_delay=2000
 
-# UNO DX (J)
+# UNO DX (Japan)
 [T-26414G  V1.001]
 sector_delay=4000
 
@@ -225,37 +225,37 @@ sector_delay=1000
 [T-15909H50V1.000]
 sector_delay=1000
 
-# K-1 Grand Prix - Fighting Illusion Shou (JP)
+# K-1 Grand Prix - Fighting Illusion Shou (Japan)
 [T-26102G  V1.003]
 play_delay=1000
 
-# Kaitou Saint Tail (JP)
+# Kaitou Saint Tail (Japan)
 [T-28201G  V1.010]
 play_delay=1000
 
-# Kidou Senkan Nadesico - The Blank of 3 Years (JP)
+# Kidou Senkan Nadesico - The Blank of 3 Years (Japan)
 [GS-9195   V1.003]
 sector_delay=1000
 
-# Kidou Senshi Gundam - Gihren no Yabou (JP)
+# Kidou Senshi Gundam - Gihren no Yabou (Japan)
 [T-13327G  V1.003]
 sector_delay=1000
 play_delay=1000
 
-# Kidou Senshi Z Gundam - Zenpen Zeta no Kodou (JP)
+# Kidou Senshi Z Gundam - Zenpen Zeta no Kodou (Japan)
 [T-13315G  V1.002]
 sector_delay=5000
 play_delay=5000
 
-# Kekkon - Marriage (JP)
+# Kekkon - Marriage (Japan)
 [T-10501G  V1.200]
 sector_delay=1000
 
-# Keriotosse! (JP)
+# Keriotosse! (Japan)
 [T-30306G  V1.003]
 sector_delay=1000
 
-# Last Gladiators (JP) (Ver. 9.7)
+# Last Gladiators (Japan) (Ver. 9.7)
 # Fixes black screen
 [T-18903G  V1.003]
 sector_delay=2000

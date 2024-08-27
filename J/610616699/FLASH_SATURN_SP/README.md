@@ -1,6 +1,6 @@
 :warning: Be aware that 610616699 is a generic **Product Number** and can conflict with others homebrews/protos/demos! :warning:
 
-# Flash Sega Saturn: Ochikadzuki-hen (J)
+# Flash Sega Saturn: Ochikadzuki-hen (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -20,4 +20,4 @@ sector_delay=8000</pre>
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240627 - v0.6 - exFat) - Flash Sega Saturn: Ochikadzuki-hen (Japan) = Fixed ?](https://img.youtube.com/vi/xWpbi6N41E4/0.jpg)](https://youtu.be/xWpbi6N41E4)
+[![](https://img.youtube.com/vi/xWpbi6N41E4/0.jpg)](https://youtu.be/xWpbi6N41E4)

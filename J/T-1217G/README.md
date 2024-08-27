@@ -1,4 +1,4 @@
-# Cyberbots - Fullmetal Madness (J)
+# Cyberbots - Fullmetal Madness (Japan)
 
 SAROO's attributes configuration for this game.
 

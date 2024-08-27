@@ -1,4 +1,4 @@
-# Parodius (E)
+# Parodius (Europe)
 
 SAROO's attributes configuration for this game.
 
@@ -19,4 +19,4 @@ sector_delay=8000</pre>
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (240515) - Parodius (Europe) = Fixed?](https://img.youtube.com/vi/Ixv9OncS67s/0.jpg)](https://youtu.be/Ixv9OncS67s)
+[![](https://img.youtube.com/vi/Ixv9OncS67s/0.jpg)](https://youtu.be/Ixv9OncS67s)

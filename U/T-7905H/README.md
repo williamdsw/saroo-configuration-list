@@ -1,4 +1,4 @@
-# The Incredible Hulk - The Pantheon Saga (U)
+# The Incredible Hulk - The Pantheon Saga (USA)
 
 SAROO's attributes configuration for this game.
 
@@ -18,4 +18,4 @@ sector_delay=1000</pre>
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - The Incredible Hulk: The Pantheon Saga (U) = Fixed ?](https://img.youtube.com/vi/gMwX7GdTWHw/0.jpg)](https://youtu.be/gMwX7GdTWHw)
+[![](https://img.youtube.com/vi/gMwX7GdTWHw/0.jpg)](https://youtu.be/gMwX7GdTWHw)

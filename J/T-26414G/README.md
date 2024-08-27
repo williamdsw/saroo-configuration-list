@@ -1,4 +1,4 @@
-# Uno DX (J)
+# Uno DX (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -12,10 +12,10 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># UNO DX (J)
+<pre># UNO DX (Japan)
 [T-26414G  V1.001]
 sector_delay=4000</pre>
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Uno DX (J) = Fixed?](https://img.youtube.com/vi/uJZ8sotm9Wg/0.jpg)](https://youtu.be/uJZ8sotm9Wg)
+[![](https://img.youtube.com/vi/uJZ8sotm9Wg/0.jpg)](https://youtu.be/uJZ8sotm9Wg)

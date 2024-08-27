@@ -1,4 +1,4 @@
-# Zero Divide: The Final Conflict (J)
+# Zero Divide: The Final Conflict (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -12,10 +12,10 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># ZERO DIVIDE THE FINAL CONFLICT (J)
+<pre># ZERO DIVIDE THE FINAL CONFLICT (Japan)
 [T-31601G  V1.003]
 play_delay=2000</pre>
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Zero Divide: The Final Conflict (J) = Fixed?](https://img.youtube.com/vi/3CKU4rAsNac/0.jpg)](https://youtu.be/3CKU4rAsNac)
+[![](https://img.youtube.com/vi/3CKU4rAsNac/0.jpg)](https://youtu.be/3CKU4rAsNac)

@@ -1,4 +1,4 @@
-# Gunbird (J)
+# Gunbird (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -22,4 +22,4 @@ sector_delay=8000</pre>
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (230515) - Gunbird (J) = Fixed?](https://img.youtube.com/vi/mIexnE5nEAw/0.jpg)](https://youtu.be/mIexnE5nEAw)
+[![](https://img.youtube.com/vi/mIexnE5nEAw/0.jpg)](https://youtu.be/mIexnE5nEAw)

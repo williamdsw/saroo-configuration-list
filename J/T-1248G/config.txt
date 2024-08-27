@@ -7,6 +7,6 @@
 # attribute=value (not applicable for exmem_1M and exmem_4M)
 
 # Fixed on 20231111 firmware. Use this if your firmware is older than 20231111
-# Final Fight Revenge (J)
+# Final Fight Revenge (Japan)
 [T-1248G   V1.004]
 sector_delay=2000

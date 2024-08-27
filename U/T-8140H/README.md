@@ -1,4 +1,4 @@
-# Batman Forever - The Arcade Game (U)
+# Batman Forever - The Arcade Game (USA)
 
 SAROO's attributes configuration for this game.
 
@@ -19,4 +19,4 @@ sector_delay=8000</pre>
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240515) - Batman Forever - The Arcade Game (USA) - Fixed?](https://img.youtube.com/vi/er04oyAxO3M/0.jpg)](https://youtu.be/er04oyAxO3M)
+[![](https://img.youtube.com/vi/er04oyAxO3M/0.jpg)](https://youtu.be/er04oyAxO3M)

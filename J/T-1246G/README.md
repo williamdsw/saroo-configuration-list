@@ -1,4 +1,4 @@
-# Street Fighter Zero 3 (J)
+# Street Fighter Zero 3 (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -13,10 +13,10 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># STREET FIGHTER ZERO3 (J)
+<pre># STREET FIGHTER ZERO3 (Japan)
 [T-1246G   V1.002]
 sector_delay=1000</pre>
 
 ### Evidence
 
-[![SAROO 1.32 (231111) - Street Fighter Zero 3 (J)](https://img.youtube.com/vi/tC9bezk42ww/0.jpg)](https://youtu.be/tC9bezk42ww)
+[![](https://img.youtube.com/vi/tC9bezk42ww/0.jpg)](https://youtu.be/tC9bezk42ww)

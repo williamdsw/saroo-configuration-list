@@ -1,4 +1,4 @@
-# Kaitou Saint Tail (J)
+# Kaitou Saint Tail (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -12,10 +12,10 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Kaitou Saint Tail (JP)
+<pre># Kaitou Saint Tail (Japan)
 [T-28201G  V1.010]
 play_delay=1000</pre>
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Kaitou Saint Tail (J) = Fixed?](https://img.youtube.com/vi/ScU_6YyNzKU/0.jpg)](https://youtu.be/ScU_6YyNzKU)
+[![](https://img.youtube.com/vi/ScU_6YyNzKU/0.jpg)](https://youtu.be/ScU_6YyNzKU)

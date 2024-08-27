@@ -1,4 +1,4 @@
-# Flash SegaSaturn Vol. 5 (J)
+# Flash SegaSaturn Vol. 5 (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -19,4 +19,4 @@ sector_delay=08000</pre>
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240627 - v0.6 - exFat) - Flash Sega Saturn Vol. 5 (Japan) = Fixed ?](https://img.youtube.com/vi/H6yU8OYnTU0/0.jpg)](https://youtu.be/H6yU8OYnTU0)
+[![](https://img.youtube.com/vi/H6yU8OYnTU0/0.jpg)](https://youtu.be/H6yU8OYnTU0)

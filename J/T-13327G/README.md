@@ -1,4 +1,4 @@
-# Kidou Senshi Gundam - Gihren no Yabou (J)
+# Kidou Senshi Gundam - Gihren no Yabou (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -12,11 +12,11 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Kidou Senshi Gundam - Gihren no Yabou (JP)
+<pre># Kidou Senshi Gundam - Gihren no Yabou (Japan)
 [T-13327G  V1.003]
 sector_delay=1000
 play_delay=1000</pre>
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Kidou Senshi Gundam: Giren no Yabou (J) = Fixed ?](https://img.youtube.com/vi/9192GFfsF0M/0.jpg)](https://youtu.be/9192GFfsF0M)
+[![](https://img.youtube.com/vi/9192GFfsF0M/0.jpg)](https://youtu.be/9192GFfsF0M)

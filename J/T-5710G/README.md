@@ -1,4 +1,4 @@
-# Fantastep (J)
+# Fantastep (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -18,4 +18,4 @@ play_delay=1000</pre>
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240627 - v0.6 - exFat) - Fantastep (Japan)](https://img.youtube.com/vi/xZxeNybleKI/0.jpg)](https://youtu.be/xZxeNybleKI)
+[![](https://img.youtube.com/vi/xZxeNybleKI/0.jpg)](https://youtu.be/xZxeNybleKI)
