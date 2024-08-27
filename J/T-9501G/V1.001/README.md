@@ -12,7 +12,7 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-Based on these issues from SAROO official github:
+Based on these issues from SAROO official GitHub:
 [#57](https://github.com/tpunix/SAROO/issues/57)
 [#123](https://github.com/tpunix/SAROO/issues/123)
 

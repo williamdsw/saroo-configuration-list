@@ -41,6 +41,7 @@ Outros repositórios relacionados ao SAROO:
 
 - [Code R (Japan)](./J/T-23502G/README.md)
 - [Contra - Legacy of War (USA)](./U/T-9507H/README.md)
+- [Croc: Legend Of Gobbos (USA)](./U/T-5029H-50/README.md)
 - [Cross Romance - Koi to Mahjong to Hanafuda to (Japan)](./J/T-7103G/README.md)
 - [Crows - The Battle Action for SegaSaturn (Japan)](./J/T-16806G/README.md)
 - [Cyberbots - Fullmetal Madness (Japan)](./J/T-1217G/README.md)

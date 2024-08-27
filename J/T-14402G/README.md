@@ -13,7 +13,7 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-[Based on this issue thread on SAROO's official github page](https://github.com/tpunix/SAROO/issues/56#issuecomment-2027796108)
+[Based on this issue thread on SAROO's official GitHub page](https://github.com/tpunix/SAROO/issues/56#issuecomment-2027796108)
 
 <pre># Gunbird (Japan)
 [T-14402G  V1.01J]
