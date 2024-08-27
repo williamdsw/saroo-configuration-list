@@ -405,3 +405,7 @@ play_delay=2000
 # Cyberbots - Fullmetal Madness (Japan) (1M)
 [T-1217G   V1.002]
 sector_delay=1000
+
+# Code R (Japan)
+[T-23502G  V1.001]
+play_delay=5000
