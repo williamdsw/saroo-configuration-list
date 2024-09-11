@@ -41,7 +41,7 @@ Outros repositórios relacionados ao SAROO:
 
 - [Code R (Japan)](./J/T-23502G/README.md)
 - [Contra - Legacy of War (USA)](./U/T-9507H/README.md)
-- [Croc: Legend Of Gobbos (USA)](./U/T-5029H-50/README.md)
+- [(Opcional) Croc: Legend Of Gobbos (USA)](./U/T-5029H-50/README.md)
 - [Cross Romance - Koi to Mahjong to Hanafuda to (Japan)](./J/T-7103G/README.md)
 - [Crows - The Battle Action for SegaSaturn (Japan)](./J/T-16806G/README.md)
 - [Cyberbots - Fullmetal Madness (Japan)](./J/T-1217G/README.md)
@@ -79,6 +79,10 @@ Outros repositórios relacionados ao SAROO:
 - [Kidou Senshi Z Gundam - Zenpen Zeta no Kodou (Japan)](./J/T-13315G/README.md)
 - [Kekkon - Marriage (Japan)](./J/T-10501G/README.md)
 - [Keriotosse! (Japan)](./J/T-30306G/README.md)
+
+#### N
+
+- [Ninkuu - Tsuyokina Yatsura no Daigekitotsu! (Japan)](./J/GS-9036/README.md)
 
 #### P
 

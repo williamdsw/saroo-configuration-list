@@ -408,6 +408,11 @@ sector_delay=1000
 [T-23502G  V1.001]
 play_delay=5000
 
-# Croc: Legend Of Gobbos (USA)
-[T-5029H-50V1.000]
-M_25C7FFFE=FFFF
+# (Optional) Croc: Legend Of Gobbos (USA)
+# [T-5029H-50V1.000]
+# M_25C7FFFE=FFFF
+
+# Ninkuu - Tsuyokina Yatsura no Daigekitotsu! (Japan)
+[GS-9036   V1.000]
+play_delay=30000
+sector_delay=08000
