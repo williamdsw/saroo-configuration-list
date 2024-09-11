@@ -418,3 +418,7 @@ play_delay=5000
 [GS-9036   V1.000]
 play_delay=30000
 sector_delay=08000
+
+# NBA Action (USA)
+[MK-81103  V1.026]
+play_delay=1000
