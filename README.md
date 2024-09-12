@@ -89,6 +89,7 @@ Other repositories related to SAROO:
 
 - [NBA Action (USA)](./U/MK-81103/README.md)
 - [Ninkuu - Tsuyokina Yatsura no Daigekitotsu! (Japan)](./J/GS-9036/README.md)
+- [Nobunaga no Yabou Tenshouki (Japan)](./J/T-7605G/README.md)
 
 #### P
 

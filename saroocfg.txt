@@ -421,3 +421,7 @@ sector_delay=08000
 # NBA Action (USA)
 [MK-81103  V1.026]
 play_delay=1000
+
+# Nobunaga no Yabou Tenshouki (Japan)
+[T-7605G   V1.002]
+sector_delay=1000
