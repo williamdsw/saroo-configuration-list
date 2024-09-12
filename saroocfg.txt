@@ -425,3 +425,7 @@ play_delay=1000
 # Nobunaga no Yabou Tenshouki (Japan)
 [T-7605G   V1.002]
 sector_delay=1000
+
+# Neon Genesis - Evangelion - Koutetsu no Girlfriend (Japan) (Disc 1)
+[GS-9194   V1.005]
+sector_delay=1000
