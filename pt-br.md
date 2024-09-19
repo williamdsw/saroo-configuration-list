@@ -66,6 +66,7 @@ Outros repositórios relacionados ao SAROO:
 - [Gokujou Parodius Da! Deluxe Pack (Japan)](./J/T-9501G/V1.001/README.md)
 - [Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A)](./J/T-9501G/V1.002/README.md)
 - [Golden Axe: The Duel (USA)](./U/MK-81045/README.md)
+- [Goiken Muyou - Anarchy in the Nippon (Japan)](./J/T-28902G/README.md)
 - [Gotha - Ismailia SenEki (Japan)](./J/GS-9009/README.md)
 - [Gunbird (Japan)](./J/T-14402G/README.md)
 - [Gussun Oyoyo S (Japan)](./J/T-26101G/README.md)

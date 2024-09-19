@@ -19,6 +19,4 @@ play_delay=1000</pre>
 
 ### Evidence
 
-TODO
-
-<!-- [![](https://img.youtube.com/vi/YZOGw2jjz5k/0.jpg)](https://youtu.be/YZOGw2jjz5k) -->
+[![](https://img.youtube.com/vi/sz00-w-kzds/0.jpg)](https://youtu.be/sz00-w-kzds)

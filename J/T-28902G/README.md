@@ -1,4 +1,4 @@
-# Gakkou no Kaidan (Japan)
+# Goiken Muyou - Anarchy in the Nippon (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -12,10 +12,10 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Gakkou no Kaidan (Japan)
-[GS-9026   V1.000]
-sector_delay=4000</pre>
+<pre># Goiken Muyou - Anarchy in the Nippon (Japan)
+[T-28902G  V1.001]
+sector_delay=1000</pre>
 
 ### Evidence
 
-[![](https://img.youtube.com/vi/AnM0iPJ3lCM/0.jpg)](https://youtu.be/AnM0iPJ3lCM)
+[![](https://img.youtube.com/vi/cq3zmbzgfvo/0.jpg)](https://youtu.be/cq3zmbzgfvo)

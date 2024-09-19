@@ -443,3 +443,7 @@ sector_delay=5000
 [T-26101G  V1.002]
 sector_delay=1000
 play_delay=1000
+
+# Goiken Muyou - Anarchy in the Nippon (Japan)
+[T-28902G  V1.001]
+sector_delay=1000
