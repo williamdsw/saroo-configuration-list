@@ -448,3 +448,38 @@ play_delay=1000
 # Goiken Muyou - Anarchy in the Nippon (Japan)
 [T-28902G  V1.001]
 sector_delay=1000
+
+# Game-Ware Vol. 1 (Japan)
+[T-17002G   V1.02]
+play_delay=30000
+sector_delay=08000
+
+# Game-Ware Vol. 2 (Japan)
+[T-17003G   V1.02]
+play_delay=30000
+sector_delay=08000
+
+# Game-Ware Vol. 3 (Japan)
+[T-17004G-T V1.00]
+play_delay=30000
+sector_delay=08000
+
+# Game-Ware Vol. 4 (Japan) (Disc A)
+[T-17005G  V1.004]
+play_delay=30000
+sector_delay=08000
+
+# Game-Ware Vol. 4 (Japan) (Disc B)
+[T-17005G  V1.002]
+play_delay=30000
+sector_delay=08000
+
+# Game-Ware Vol. 5 (Japan) (Disc A)
+[T-17006G   V1.01]
+play_delay=30000
+sector_delay=08000
+
+# Game-Ware Vol. 5 (Japan) (Disc B)
+[T-17006G   V1.00]
+play_delay=30000
+sector_delay=08000
