@@ -66,10 +66,10 @@ Outros repositórios relacionados ao SAROO:
 - [Game-Ware Vol. 1 (Japan)](./J/T-17002G/README.md)
 - [Game-Ware Vol. 2 (Japan)](./J/T-17003G/README.md)
 - [Game-Ware Vol. 3 (Japan)](./J/T-17004G-T/README.md)
-- [Game-Ware Vol. 4 (Japan) (Disc A)](./J/T-17005G/V1.004/README.md)
-- [Game-Ware Vol. 4 (Japan) (Disc B)](./J/T-17005G/V1.002/README.md)
-- [Game-Ware Vol. 5 (Japan) (Disc A)](./J/T-17006G/V1.01/README.md)
-- [Game-Ware Vol. 5 (Japan) (Disc B)](./J/T-17006G/V1.00/README.md)
+- ~~Game-Ware Vol. 4 (Japan) (Disc A)~~
+- ~~Game-Ware Vol. 4 (Japan) (Disc B)~~
+- ~~Game-Ware Vol. 5 (Japan) (Disc A)~~
+- ~~Game-Ware Vol. 5 (Japan) (Disc B)~~
 - [Gokujou Parodius Da! Deluxe Pack (Japan)](./J/T-9501G/V1.001/README.md)
 - [Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A)](./J/T-9501G/V1.002/README.md)
 - [Golden Axe: The Duel (USA)](./U/MK-81045/README.md)

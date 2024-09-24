@@ -463,23 +463,3 @@ sector_delay=08000
 [T-17004G-T V1.00]
 play_delay=30000
 sector_delay=08000
-
-# Game-Ware Vol. 4 (Japan) (Disc A)
-[T-17005G  V1.004]
-play_delay=30000
-sector_delay=08000
-
-# Game-Ware Vol. 4 (Japan) (Disc B)
-[T-17005G  V1.002]
-play_delay=30000
-sector_delay=08000
-
-# Game-Ware Vol. 5 (Japan) (Disc A)
-[T-17006G   V1.01]
-play_delay=30000
-sector_delay=08000
-
-# Game-Ware Vol. 5 (Japan) (Disc B)
-[T-17006G   V1.00]
-play_delay=30000
-sector_delay=08000
