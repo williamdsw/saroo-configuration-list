@@ -49,6 +49,7 @@ Other repositories related to SAROO:
 #### D
 
 - [Daisuki (Japan) (Disc 1)](./J/T-18510G/README.md)
+- [Daikoukai Jidai Gaiden (Japan)](./J/T-7657G/README.md)
 - [Dark Savior (USA)](./U/MK-81304/README.md)
 - [Daytona USA (Europe)](./E/MK_8120050/README.md)
 - [Daytona USA (Japan)](./J/GS-9013/README.md)

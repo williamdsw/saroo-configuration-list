@@ -492,3 +492,7 @@ play_delay=4000
 # Daisuki (Japan) (Disc 1)
 [T-18510G  V1.002]
 sector_delay=8000
+
+# Daikoukai Jidai Gaiden (Japan)
+[T-7657G   V1.000]
+sector_delay=1000
