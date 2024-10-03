@@ -461,3 +461,32 @@ sector_delay=08000
 [T-17004G-T V1.00]
 play_delay=30000
 sector_delay=08000
+
+# Dark Savior (USA)
+[MK-81304  V1.000]
+sector_delay=1000
+
+# Double Switch (USA) (Disc 1)
+[T-16207H  V1.000]
+sector_delay=1000
+
+# Develo Magazine Appendix CD-ROM for SegaSaturn (Japan)
+[610645801 V1.000]
+sector_delay=1000
+
+# Dino Island (Japan)
+[T-4503G   V1.000]
+play_delay=4000
+
+# Dino Island - Yokoku-hen (Japan)
+[T-4505G   V1.001]
+play_delay=4000
+
+# Digital Ange - Dennou Tenshi SS (Japan)
+[T-33003G  V1.003]
+sector_delay=4000
+play_delay=4000
+
+# Daisuki (Japan) (Disc 1)
+[T-18510G  V1.002]
+sector_delay=8000

@@ -48,11 +48,18 @@ Outros repositórios relacionados ao SAROO:
 
 #### D
 
+- [Daisuki (Japan) (Disc 1)](./J/T-18510G/README.md)
+- [Dark Savior (USA)](./U/MK-81304/README.md)
 - [Daytona USA (Europe)](./E/MK_8120050/README.md)
 - [Daytona USA (Japan)](./J/GS-9013/README.md)
 - [Daytona USA (USA)](./U/MK-81200/README.md)
+- [Develo Magazine Appendix CD-ROM for SegaSaturn (Japan)](./J/610645801/README.md)
+- [Digital Ange - Dennou Tenshi SS (Japan)](./J/T-33003G/README.md)
 - [Digital Pinball: Last Gladiators (Japan)](./J/T-18903G/README.md)
 - [Digital Pinball: Last Gladiators (USA)](./U/T-4804H/README.md)
+- [Dino Island (Japan)](./J/T-4503G/README.md)
+- [Dino Island - Yokoku-hen (Japan)](./J/T-4505G/README.md)
+- [Double Switch (USA) (Disc 1)](./U/T-16207H/README.md)
 
 #### F
 
