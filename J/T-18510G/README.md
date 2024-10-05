@@ -8,7 +8,7 @@ SAROO's attributes configuration for this game.
 
 ### Problems
 
-- Title screen is glitched (wrong colors/textures)
+- Sprite from a character in the intro is glitched
 
 ### Solution
 

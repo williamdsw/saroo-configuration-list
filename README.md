@@ -56,6 +56,7 @@ Other repositories related to SAROO:
 - [Daytona USA (USA)](./U/MK-81200/README.md)
 - [Develo Magazine Appendix CD-ROM for SegaSaturn (Japan)](./J/610645801/README.md)
 - [Digital Ange - Dennou Tenshi SS (Japan)](./J/T-33003G/README.md)
+- [Digital Dance Mix Vol. 1 - Namie Amuro (Japan)](./J/GS-9133/README.md)
 - [Digital Pinball: Last Gladiators (Japan)](./J/T-18903G/README.md)
 - [Digital Pinball: Last Gladiators (USA)](./U/T-4804H/README.md)
 - [Dino Island (Japan)](./J/T-4503G/README.md)
