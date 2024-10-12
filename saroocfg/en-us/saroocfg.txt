@@ -494,3 +494,11 @@ sector_delay=8000
 # Daikoukai Jidai Gaiden (Japan)
 [T-7657G   V1.000]
 sector_delay=1000
+
+# Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)
+[T-19708G  V1.002]
+sector_delay=1000
+
+# Primal Rage (USA)
+[T-4802H   V1.000]
+play_delay=1000
