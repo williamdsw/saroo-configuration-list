@@ -1,0 +1,12 @@
+# How to use: 
+# Add these 3 lines below to your saroocfg.txt
+# DO NOT add THIS file to your SAROO root, it won't work!
+
+# Game Name (Area code)
+# [Product Number + (Space if needed) + Version] (It needs to be 16 characters in brackets, otherwise it won't work!)
+# attribute=value (not applicable for exmem_1M and exmem_4M)
+
+# Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (2M)
+[T-20114G  V1.002]
+sector_delay=1000
+play_delay=1000
