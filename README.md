@@ -115,6 +115,7 @@ Other repositories related to SAROO:
 #### P
 
 - [Parodius (Europe)](./E/T-9501H-50/README.md)
+- [PhantasM (Japan) (Disc 1)](./J/T-36001G/README.md)
 - [Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)](./J/T-19708G/README.md)
 - [Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (2M)](./J/T-20114G/README.md)
 - [Primal Rage (USA)](./U/T-4802H/README.md)

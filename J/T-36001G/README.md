@@ -1,4 +1,4 @@
-# PhantasM (Japan) (Disc 1)
+# Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -8,12 +8,12 @@ SAROO's attributes configuration for this game.
 
 ### Problems
 
-- Background image does randomly missing when changing scenes
+- It does freezes after showing glitched images before loading the bedroom
 
 ### Solution
 
-<pre># PhantasM (Japan) (Disc 1)
-[T-36001G  V1.001]
+<pre># Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)
+[T-19708G  V1.002]
 sector_delay=1000</pre>
 
 ### Evidence

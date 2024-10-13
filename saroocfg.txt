@@ -508,3 +508,7 @@ play_delay=1000
 [T-20114G  V1.002]
 sector_delay=1000
 play_delay=1000
+
+# PhantasM (Japan) (Disc 1)
+[T-36001G  V1.001]
+sector_delay=1000
