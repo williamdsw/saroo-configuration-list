@@ -128,9 +128,9 @@ sector_delay=1000
 [T-7643G V1.001]
 sector_delay=2000
 
-# Time Bokan
+# Time Bokan Series - Bokan to Ippatsu! Doronbow Kanpekiban (Japan)
 [T-20607G  V1.003]
-play_delay = 2000
+play_delay = 4000
 
 # Gotha - Ismailia SenEki (Japan)
 [GS-9009   V1.000]
@@ -216,7 +216,7 @@ sector_delay=1000
 [T-4804H   V1.000]
 sector_delay=1000
 
-# Heartbeat Scramble (Japan) : Fix black screen
+# Heartbeat Scramble (Japan)
 [T-15014G  V1.000]
 sector_delay=1000
 
@@ -255,6 +255,7 @@ sector_delay=1000
 sector_delay=1000
 
 # Last Gladiators (Japan) (Ver. 9.7)
+# Fixes black screen
 [T-18903G  V1.003]
 sector_delay=2000
 
@@ -511,3 +512,15 @@ play_delay=1000
 # PhantasM (Japan) (Disc 1)
 [T-36001G  V1.001]
 sector_delay=1000
+
+# Titan Wars (Europe)
+[T-15911H50V1.000]
+sector_delay=1000
+
+# Tokuso Kidoutai J-SWAT (Japan)
+[T-20602G  V1.003]
+play_delay=2000
+
+# True Pinball (USA)
+[T-16406H  V1.000]
+play_delay=1000
