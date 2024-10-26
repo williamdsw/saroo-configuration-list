@@ -128,6 +128,7 @@ Other repositories related to SAROO:
 
 - [The Horde (USA)](./U/T-15909H50/README.md)
 - [The Incredible Hulk - The Pantheon Saga (USA)](./U/T-7905H/README.md)
+- [Time Bokan Series - Bokan to Ippatsu! Doronbow Kanpekiban (Japan)](./J/T-20607G/README.md)
 - [Titan Wars (Europe)](./E/T-15911H50/README.md)
 - [Tokuso Kidoutai J-SWAT (Japan)](./J/T-20602G/README.md)
 - [True Pinball (USA)](./U/T-16406H/README.md)
