@@ -525,3 +525,8 @@ play_delay=2000
 # True Pinball (USA)
 [T-16406H  V1.000]
 play_delay=1000
+
+# Tactics Formula (Japan)
+[T-34101G  V1.006]
+sector_delay=4000
+play_delay=4000

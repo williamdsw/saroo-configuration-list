@@ -126,6 +126,7 @@ Other repositories related to SAROO:
 
 #### T
 
+- [Tactics Formula (Japan)](./J/T-34101G/README.md)
 - [The Horde (USA)](./U/T-15909H50/README.md)
 - [The Incredible Hulk - The Pantheon Saga (USA)](./U/T-7905H/README.md)
 - [Time Bokan Series - Bokan to Ippatsu! Doronbow Kanpekiban (Japan)](./J/T-20607G/README.md)
