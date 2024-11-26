@@ -529,3 +529,7 @@ play_delay=1000
 [T-34101G  V1.006]
 sector_delay=4000
 play_delay=4000
+
+# Magical Drop III - Toretate Zoukan-gou! (Japan) (2M)
+[T-1313G   V1.005]
+play_delay=8000

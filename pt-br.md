@@ -100,6 +100,10 @@ Outros repositórios relacionados ao SAROO:
 - [Kekkon - Marriage (Japan)](./J/T-10501G/README.md)
 - [Keriotosse! (Japan)](./J/T-30306G/README.md)
 
+#### M
+
+- [Magical Drop III - Toretate Zoukan-gou! (Japan) (2M)](./J/T-1313G/README.md)
+
 #### N
 
 - [NBA Action (USA)](./U/MK-81103/README.md)
@@ -121,8 +125,10 @@ Outros repositórios relacionados ao SAROO:
 
 #### T
 
+- [Tactics Formula (Japan)](./J/T-34101G/README.md)
 - [The Horde (USA)](./U/T-15909H50/README.md)
 - [The Incredible Hulk - The Pantheon Saga (USA)](./U/T-7905H/README.md)
+- [Time Bokan Series - Bokan to Ippatsu! Doronbow Kanpekiban (Japan)](./J/T-20607G/README.md)
 - [Titan Wars (Europe)](./E/T-15911H50/README.md)
 - [Tokuso Kidoutai J-SWAT (Japan)](./J/T-20602G/README.md)
 - [True Pinball (USA)](./U/T-16406H/README.md)
