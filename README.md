@@ -108,6 +108,8 @@ Other repositories related to SAROO:
 #### M
 
 - [Magical Drop III - Toretate Zoukan-gou! (Japan) (2M)](./J/T-1313G/README.md)
+- [Mahjong Hyper Reaction R (Japan)](./J/T-2402G//README.md)
+- [Monster Slider (Japan)](./J/T-27302G/README.md)
 
 #### N
 

@@ -534,3 +534,11 @@ play_delay=4000
 # Magical Drop III - Toretate Zoukan-gou! (Japan) (2M)
 [T-1313G   V1.005]
 play_delay = 8000
+
+# Mahjong Hyper Reaction R (Japan)
+[T-2402G   V1.000]
+sector_delay=4000
+
+# Monster Slider (Japan)
+[T-27302G  V1.002]
+play_delay=10000
