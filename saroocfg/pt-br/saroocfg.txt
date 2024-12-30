@@ -13,6 +13,10 @@
 ## 7 = DE: Alemão (v0.4+)
 ## 8 = ES: Espanhol (v0.5+)
 ## 9 = IT: Italiano (v0.6+)
+## 10 = PL: Polonês (v0.7+)
+## 11 = SWE: Sueco (v0.7+)
+## 12 = EL: Grego (v0.7+)
+## 13 = RO: Romeno (v0.7+)
 # lang_id=x
 
 # [Id do produto/jogo + Versão do jogo]
@@ -39,13 +43,13 @@
 ## Forçar o uso do cartão de expansão de 4M ##
 # exmem_4M
 
-## Escreve um valor 32-bit num endereço de memória especificado ##
+## Escreve um valor 32-bit num endereço de memória especificado (Útil para truques/cheats/código e hacks de memória) ##
 # M_xxxxxxxx=xxxxxxxx
 
-## Escreve um valor 16-bit num endereço de memória especificado ##
+## Escreve um valor 16-bit num endereço de memória especificado (Útil para truques/cheats/código e hacks de memória) ##
 # M_xxxxxxxx=xxxx
 
-## Escreve um valor 8-bit num endereço de memória especificado ##
+## Escreve um valor 8-bit num endereço de memória especificado (Útil para truques/cheats/código e hacks de memória) ##
 # M_xxxxxxxx=xx
 
 ## (v0.4+) Especifica o formato de pasta para jogos multi-discos eg "Disc " ou "CD"

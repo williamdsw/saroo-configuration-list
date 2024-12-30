@@ -13,6 +13,10 @@
 ## 7 = DE: Deutsch (v0.4+)
 ## 8 = ES: Español (v0.5+)
 ## 9 = IT: Italiano (v0.6+)
+## 10 = PL: Polski (v0.7+)
+## 11 = SWE: Svensk (v0.7+)
+## 12 = ελληνικά (v0.7+)
+## 13 = Română (v0.7+)
 # lang_id=x
 
 # [Game ID + Game Version]

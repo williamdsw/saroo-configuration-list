@@ -5,14 +5,18 @@
 ## Select menu language: 
 ## 0 = 中文: Chinese
 ## 1 = EN: English
-## 2 = PTBR: Português do Brasil
-## 3 = JA: 日本語
-## 4 = FR: Français (v0.4+)
-## 5 = RU: Русский (v0.4+)
+## 2 = PTBR: Brazilian Portuguese
+## 3 = JA: Japanese
+## 4 = FR: French (v0.4+)
+## 5 = RU: Russian (v0.4+)
 ## 6 = 繁中: Traditional Chinese (v0.4+)
-## 7 = DE: Deutsch (v0.4+)
-## 8 = ES: Español (v0.5+)
-## 9 = IT: Italiano (v0.6+)
+## 7 = DE: German (v0.4+)
+## 8 = ES: Spanish (v0.5+)
+## 9 = IT: Italian (v0.6+)
+## 10 = PL: Polish (v0.7+)
+## 11 = SWE: Swedish (v0.7+)
+## 12 = EL: Greek (v0.7+)
+## 13 = RO: Romanian (v0.7+)
 # lang_id=x
 
 # [Game ID + Game Version]
@@ -39,16 +43,16 @@
 ## Use 4M expansion card ##
 # exmem_4M
 
-## Write 32-bit memory ##
+## Write 32-bit memory (Useful for cheats, memory hacks) ##
 # M_xxxxxxxx=xxxxxxxx
 
-## Write 16-bit memory ##
+## Write 16-bit memory (Useful for cheats, memory hacks) ##
 # M_xxxxxxxx=xxxx
 
-## Write 8-bit memory ##
+## Write 8-bit memory (Useful for cheats, memory hacks) ##
 # M_xxxxxxxx=xx
 
-## (v0.4+) Specify the directory format for multi disc games eg "Disc " or "CD".
+## (v0.4+) Specify the directory format for multi disc games eg "Disc " or "CD". (v0.4+ only)
 # multi_disc="XXX"
 
 ## (v0.5+) Custom game categories (up to 12 subfolders). eg "Shmup", "Fighting", "Adventure", "Sports", etc.
@@ -532,7 +536,7 @@ play_delay=4000
 
 # Magical Drop III - Toretate Zoukan-gou! (Japan) (2M)
 [T-1313G   V1.005]
-play_delay = 8000
+play_delay=8000
 
 # Mahjong Hyper Reaction R (Japan)
 [T-2402G   V1.000]
