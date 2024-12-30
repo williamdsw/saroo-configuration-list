@@ -6,11 +6,13 @@
 
 Multiple configurations files for Sega Saturn Games to working with SAROO. You can copy the global [saroocfg.txt](./saroocfg.txt) values or add from individual games to your **saroocfg.txt**.
 
-Other repositories related to SAROO:
+Outros links relacionados ao SAROO:
 
 - [Official Repository](https://github.com/tpunix/SAROO)
+- [Where to Buy](https://github.com/williamdsw/saroo-compatibility-list/Info/Buy/README.md)
 - [Compatibility List](https://github.com/williamdsw/saroo-compatibility-list)
-- [Backgrounds for >= v0.5 firmware](https://github.com/williamdsw/saroo-backgrounds)
+- [Background and Music for Menu](https://github.com/williamdsw/saroo-backgrounds)
+- [Playlist with Tested Games on YouTube (+ 1180 videos)](https://www.youtube.com/playlist?list=PLmsMlzwbRlgLngxWI9ZzPK44Gix1Ek-ZO)
 
 ### Fixed Games by Firmware Updates
 

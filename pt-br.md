@@ -9,8 +9,10 @@ Vários arquivos de configurações para funcionamento no cartucho SAROO do Sega
 Outros repositórios relacionados ao SAROO:
 
 - [Repositório Oficial](https://github.com/tpunix/SAROO)
+- [Aonde Comprar](https://github.com/williamdsw/saroo-compatibility-list/Info/Buy/README.md)
 - [Lista de Compatibilidade](https://github.com/williamdsw/saroo-compatibility-list)
-- [Backgrounds para firmwares >= v0.5](https://github.com/williamdsw/saroo-backgrounds)
+- [Imagens de Fundo e Música para o Menu](https://github.com/williamdsw/saroo-backgrounds)
+- [Playlist no YouTube com jogos testados (+ 1180 vídeos)](https://www.youtube.com/playlist?list=PLmsMlzwbRlgLngxWI9ZzPK44Gix1Ek-ZO)
 
 ### Jogos Corrigidos por Atualizações de Firmware
 
