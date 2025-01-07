@@ -16,11 +16,11 @@ Outros repositórios relacionados ao SAROO:
 
 ### Jogos
 
-<!-- - [Betas](Sections/Betas/en-us/README.md) -->
+<!-- - [Betas](Sections/Betas/pt-br/README.md) -->
 
-- [Comerciais](Sections/Retails/en-us/README.md)
-<!-- - [Compilações](Sections/Compilations/en-us/README.md) -->
-- [Demos](Sections/Demos/en-us/README.md)
+- [Comerciais](Sections/Retails/pt-br/README.md)
+<!-- - [Compilações](Sections/Compilations/pt-br/README.md) -->
+- [Demos](Sections/Demos/pt-br/README.md)
   <!-- - [Homebrews](Sections/Homebrews/README.md) -->
 - [Revistas Virtuais](Sections/Magazines/pt-br/README.md)
 <!-- - [Romhacks](Sections/Romhacks/README.md) -->
