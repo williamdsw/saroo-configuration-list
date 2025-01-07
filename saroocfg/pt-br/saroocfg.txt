@@ -361,10 +361,10 @@ sector_delay=08000
 # play_delay=30000
 # sector_delay=08000
 
-<pre># Flash SegaSaturn Vol. 2 (Japan) (2M)
+# Flash SegaSaturn Vol. 2 (Japan) (2M)
 [610616602 V1.000]
 play_delay=30000
-sector_delay=08000</pre>
+sector_delay=08000
 
 # Fique atento que SG0000000 é um identificador genérico e pode conflicar com outros jogos/demos/protos/homebrews!
 # Flash SegaSaturn Vol. 2 (Japan) (2M)
