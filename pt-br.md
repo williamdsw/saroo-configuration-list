@@ -22,5 +22,5 @@ Outros repositórios relacionados ao SAROO:
 <!-- - [Compilações](Sections/Compilations/en-us/README.md) -->
 - [Demos](Sections/Demos/en-us/README.md)
   <!-- - [Homebrews](Sections/Homebrews/README.md) -->
-- [Revistas Virtuais](Sections/Magazines/README.md)
+- [Revistas Virtuais](Sections/Magazines/pt-br/README.md)
 <!-- - [Romhacks](Sections/Romhacks/README.md) -->

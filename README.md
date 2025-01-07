@@ -21,6 +21,6 @@ Other links related to SAROO:
 
 - [Demos](Sections/Demos/en-us/README.md)
   <!-- - [Homebrews](Sections/Homebrews/README.md) -->
-- [Magazines](Sections/Magazines/README.md)
+- [Magazines](Sections/Magazines/en-us/README.md)
 - [Retails](Sections/Retails/en-us/README.md)
 <!-- - [Romhacks](Sections/Romhacks/README.md) -->
