@@ -14,7 +14,7 @@ SAROO's attributes configuration for this game.
 
 <pre># Frank Thomas Big Hurt Baseball (USA)
 [T-8138H   V1.000]
-sector_delay=1000</pre>
+sector_delay = 1000</pre>
 
 ### Evidence
 

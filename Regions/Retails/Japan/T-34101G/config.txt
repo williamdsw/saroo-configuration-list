@@ -8,5 +8,5 @@
 
 # Tactics Formula (Japan)
 [T-34101G  V1.006]
-sector_delay=4000
-play_delay=4000
+sector_delay = 4000
+play_delay = 4000

@@ -14,8 +14,8 @@ SAROO's attributes configuration for this game.
 
 <pre># Monster Slider (Japan)
 [T-27302G  V1.002]
-play_delay=10000</pre>
+play_delay = 10000</pre>
 
 ### Evidence
 
-TODO
+[![](https://img.youtube.com/vi/oql2upiWRq8/0.jpg)](https://youtu.be/oql2upiWRq8)

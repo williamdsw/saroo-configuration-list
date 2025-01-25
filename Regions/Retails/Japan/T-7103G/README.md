@@ -1,4 +1,4 @@
-# Cross Romance - Koi to Mahjong to Hanafuda to (Japan)
+# Cross Romance: Koi to Mahjong to Hanafuda to (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -12,9 +12,9 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Cross Romance - Koi to Mahjong to Hanafuda to (Japan)
+<pre># Cross Romance: Koi to Mahjong to Hanafuda to (Japan)
 [T-7103G   V1.002]
-play_delay=1000</pre>
+play_delay = 1000</pre>
 
 ### Evidence
 

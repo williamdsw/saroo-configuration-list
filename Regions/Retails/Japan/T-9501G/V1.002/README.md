@@ -14,8 +14,8 @@ SAROO's attributes configuration for this game.
 
 <pre># Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A)
 [T-9501G   V1.002]
-play_delay=65000 
-sector_delay=8000</pre>
+play_delay = 65000 
+sector_delay = 8000</pre>
 
 ### Evidence
 

@@ -12,10 +12,10 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Kidou Senshi Z Gundam - Zenpen Zeta no Kodou (Japan)
+<pre># Kidou Senshi Z Gundam: Zenpen Zeta no Kodou (Japan)
 [T-13315G  V1.002]
-sector_delay=5000
-play_delay=5000</pre>
+sector_delay = 5000
+play_delay = 5000</pre>
 
 ### Evidence
 

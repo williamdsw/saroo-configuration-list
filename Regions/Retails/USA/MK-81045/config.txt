@@ -8,4 +8,4 @@
 
 # Golden Axe: The Duel (USA)
 [MK-81045  V1.000]
-sector_delay=1000
+sector_delay = 1000

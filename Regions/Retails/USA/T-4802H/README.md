@@ -14,7 +14,7 @@ SAROO's attributes configuration for this game.
 
 <pre># Primal Rage (USA)
 [T-4802H   V1.000]
-play_delay=1000</pre>
+play_delay = 1000</pre>
 
 ### Evidence
 

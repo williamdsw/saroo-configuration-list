@@ -14,8 +14,8 @@ SAROO's attributes configuration for this game.
 
 <pre># Tokuso Kidoutai J-SWAT (Japan)
 [T-20602G  V1.003]
-play_delay=2000</pre>
+play_delay = 2000</pre>
 
 ### Evidence
 
-TODO
+[![](https://img.youtube.com/vi/4ffWv9tbUVw/0.jpg)](https://youtu.be/4ffWv9tbUVw)

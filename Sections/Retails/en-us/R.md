@@ -4,7 +4,7 @@
 
 ### R - Games
 
-- [Riglord Saga 2 (Japan)](../../../Regions/Retails/Japan/GS-9084/README.md) - Fixed on `240515` firmware
+- [Riglordsaga 2 (Japan)](../../../Regions/Retails/Japan/GS-9084/README.md) - Fixed on `240515` firmware
 
 Navigation:
 

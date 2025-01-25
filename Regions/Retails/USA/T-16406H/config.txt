@@ -8,4 +8,4 @@
 
 # True Pinball (USA)
 [T-16406H  V1.000]
-play_delay=1000
+play_delay = 1000

@@ -8,4 +8,4 @@
 
 # Daisuki (Japan) (Disc 1)
 [T-18510G  V1.002]
-sector_delay=8000
+sector_delay = 8000

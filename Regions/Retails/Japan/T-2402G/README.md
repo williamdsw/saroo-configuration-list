@@ -15,8 +15,8 @@ SAROO's attributes configuration for this game.
 
 <pre># Mahjong Hyper Reaction R (Japan)
 [T-2402G   V1.000]
-sector_delay=4000</pre>
+sector_delay = 4000</pre>
 
 ### Evidence
 
-TODO
+[![](https://img.youtube.com/vi/oql2upiWRq8/0.jpg)](https://youtu.be/oql2upiWRq8)

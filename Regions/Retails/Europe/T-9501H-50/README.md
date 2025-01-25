@@ -14,8 +14,8 @@ SAROO's attributes configuration for this game.
 
 <pre># Parodius (Europe)
 [T-9501H-50V2.000]
-play_delay=65000 
-sector_delay=8000</pre>
+play_delay = 65000 
+sector_delay = 8000</pre>
 
 ### Evidence
 

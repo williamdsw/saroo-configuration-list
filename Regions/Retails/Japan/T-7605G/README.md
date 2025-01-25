@@ -14,7 +14,7 @@ SAROO's attributes configuration for this game.
 
 <pre># Nobunaga no Yabou Tenshouki (Japan)
 [T-7605G   V1.002]
-sector_delay=1000</pre>
+sector_delay = 1000</pre>
 
 ### Evidence
 

@@ -14,8 +14,8 @@ SAROO's attributes configuration for this game.
 
 <pre># Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (2M)
 [T-20114G  V1.002]
-sector_delay=1000
-play_delay=1000</pre>
+sector_delay = 1000
+play_delay = 1000</pre>
 
 ### Evidence
 

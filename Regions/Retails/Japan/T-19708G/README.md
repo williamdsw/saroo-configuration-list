@@ -14,7 +14,7 @@ SAROO's attributes configuration for this game.
 
 <pre># Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)
 [T-19708G  V1.002]
-sector_delay=1000</pre>
+sector_delay = 1000</pre>
 
 ### Evidence
 

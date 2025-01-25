@@ -1,4 +1,4 @@
-# Gotha - Ismailia SenEki (Japan)
+# Gotha: Ismailia SenEki (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -12,10 +12,10 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Gotha - Ismailia SenEki (Japan)
+<pre># Gotha: Ismailia SenEki (Japan)
 [GS-9009   V1.000]
-play_delay=16000
-sector_delay=5000</pre>
+play_delay = 16000
+sector_delay = 5000</pre>
 
 ### Evidence
 

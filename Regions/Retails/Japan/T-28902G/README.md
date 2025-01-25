@@ -1,4 +1,4 @@
-# Goiken Muyou - Anarchy in the Nippon (Japan)
+# Goiken Muyou: Anarchy in the Nippon (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -12,9 +12,9 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Goiken Muyou - Anarchy in the Nippon (Japan)
+<pre># Goiken Muyou: Anarchy in the Nippon (Japan)
 [T-28902G  V1.001]
-sector_delay=1000</pre>
+sector_delay = 1000</pre>
 
 ### Evidence
 

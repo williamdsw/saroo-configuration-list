@@ -8,4 +8,4 @@
 
 # Code R (Japan)
 [T-23502G  V1.001]
-play_delay=5000
+play_delay = 5000

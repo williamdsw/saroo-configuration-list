@@ -12,9 +12,9 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># LAST GLADIATORS
+<pre># Last Gladiators: Digital Pinball (USA)
 [T-4804H   V1.000]
-sector_delay=1000</pre>
+sector_delay = 1000</pre>
 
 ### Evidence
 

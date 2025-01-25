@@ -14,7 +14,7 @@ SAROO's attributes configuration for this game.
 
 <pre># Keriotosse! (Japan)
 [T-30306G  V1.003]
-sector_delay=1000</pre>
+sector_delay = 1000</pre>
 
 ### Evidence
 

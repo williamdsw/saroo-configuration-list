@@ -17,8 +17,8 @@ SAROO's attributes configuration for this game.
 
 <pre># Gunbird (Japan)
 [T-14402G  V1.01J]
-play_delay=65000
-sector_delay=8000</pre>
+play_delay = 65000
+sector_delay = 8000</pre>
 
 ### Evidence
 

@@ -8,5 +8,5 @@
 
 # Winter Heat (USA)
 [MK-81129  V1.001]
-sector_delay=4000
-play_delay=4000
+sector_delay = 4000
+play_delay = 4000

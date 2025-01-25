@@ -12,9 +12,9 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Kekkon - Marriage (Japan)
+<pre># Kekkon: Marriage (Japan)
 [T-10501G  V1.200]
-sector_delay=1000</pre>
+sector_delay = 1000</pre>
 
 ### Evidence
 

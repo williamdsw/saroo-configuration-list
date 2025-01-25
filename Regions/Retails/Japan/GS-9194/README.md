@@ -1,4 +1,4 @@
-# Neon Genesis - Evangelion - Koutetsu no Girlfriend (Japan) (Disc 1)
+# Neon Genesis: Evangelion: Koutetsu no Girlfriend (Japan) (Disc 1)
 
 SAROO's attributes configuration for this game.
 
@@ -13,9 +13,9 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Neon Genesis - Evangelion - Koutetsu no Girlfriend (Japan) (Disc 1)
+<pre># Neon Genesis: Evangelion: Koutetsu no Girlfriend (Japan) (Disc 1)
 [GS-9194   V1.005]
-sector_delay=1000</pre>
+sector_delay = 1000</pre>
 
 ### Evidence
 

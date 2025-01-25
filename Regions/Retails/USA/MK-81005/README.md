@@ -14,7 +14,7 @@ SAROO's attributes configuration for this game.
 
 <pre># Virtua Fighter (USA)
 [MK-81005  V1.000]
-sector_delay=1000</pre>
+sector_delay = 1000</pre>
 
 ### Evidence
 

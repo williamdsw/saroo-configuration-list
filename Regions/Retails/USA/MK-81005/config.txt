@@ -8,4 +8,4 @@
 
 # Virtua Fighter (USA)
 [MK-81005  V1.000]
-sector_delay=1000
+sector_delay = 1000

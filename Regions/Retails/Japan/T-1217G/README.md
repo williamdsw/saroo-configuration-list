@@ -1,4 +1,4 @@
-# Cyberbots - Fullmetal Madness (Japan)
+# Cyberbots: Fullmetal Madness (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -12,9 +12,9 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Cyberbots - Fullmetal Madness (Japan) (1M)
+<pre># Cyberbots: Fullmetal Madness (Japan) (1M)
 [T-1217G   V1.002]
-sector_delay=1000</pre>
+sector_delay = 1000</pre>
 
 ### Evidence
 

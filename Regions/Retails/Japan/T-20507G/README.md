@@ -15,7 +15,7 @@ SAROO's attributes configuration for this game.
 - Update to `240515` firmware.
 - Add this configuration.
 
-<pre># Hop Step Idol
+<pre># Hop Step Idol (Japan)
 [T-20507G  V1.002]
 play_delay = 5000
 pend_delay = 5000</pre>

@@ -1,4 +1,4 @@
-# Dino Island (Japan)
+# Daina Airan (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -12,12 +12,10 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Dino Island (Japan)
+<pre># Daina Airan (Japan)
 [T-4503G   V1.000]
-play_delay=4000</pre>
+play_delay = 4000</pre>
 
 ### Evidence
 
-TODO
-
-<!-- [![](https://img.youtube.com/vi/eJfiS83xyk0/0.jpg)](https://youtu.be/eJfiS83xyk0) -->
+[![](https://img.youtube.com/vi/j0CixkngxAQ/0.jpg)](https://youtu.be/j0CixkngxAQ)

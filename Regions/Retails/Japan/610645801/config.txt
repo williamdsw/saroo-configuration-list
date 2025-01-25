@@ -8,4 +8,4 @@
 
 # Develo Magazine Appendix CD-ROM for SegaSaturn (Japan)
 [610645801 V1.000]
-sector_delay=1000
+sector_delay = 1000

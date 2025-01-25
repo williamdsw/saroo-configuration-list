@@ -1,4 +1,4 @@
-# Waku Waku Monster (Japan)
+# Waku² Monster (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -12,9 +12,9 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Waku Waku Monster (Japan)
+<pre># Waku² Monster (Japan)
 [T-16608G  V1.001]
-play_delay=1000</pre>
+play_delay = 1000</pre>
 
 ### Evidence
 

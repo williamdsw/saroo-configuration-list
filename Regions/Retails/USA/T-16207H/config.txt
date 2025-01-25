@@ -8,4 +8,4 @@
 
 # Double Switch (USA) (Disc 1)
 [T-16207H  V1.000]
-sector_delay=1000
+sector_delay = 1000

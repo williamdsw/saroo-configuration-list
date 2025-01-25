@@ -1,4 +1,4 @@
-# Virtua Fighter CG Portrait Series Vol. 2 - Jacky Bryant (Japan)
+# Virtua Fighter CG Portrait Series Vol. 2: Jacky Bryant (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -12,9 +12,9 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Virtua Fighter CG Portrait Series Vol. 2 - Jacky Bryant (Japan)
+<pre># Virtua Fighter CG Portrait Series Vol. 2: Jacky Bryant (Japan)
 [GS-9064   V1.000]
-sector_delay=1000</pre>
+sector_delay = 1000</pre>
 
 ### Evidence
 

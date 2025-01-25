@@ -5,11 +5,11 @@
 ### C - Games
 
 - [Code R (Japan)](../../../Regions/Retails/Japan/T-23502G/README.md)
-- [Contra - Legacy of War (USA)](../../../Regions/Retails/USA/T-9507H/README.md)
+- [Contra: Legacy of War (USA)](../../../Regions/Retails/USA/T-9507H/README.md)
 - [Croc: Legend Of Gobbos (USA)](../../../Regions/Retails/USA/T-5029H-50/README.md) - _Optional_
-- [Cross Romance - Koi to Mahjong to Hanafuda to (Japan)](../../../Regions/Retails/Japan/T-7103G/README.md)
-- [Crows - The Battle Action for SegaSaturn (Japan)](../../../Regions/Retails/Japan/T-16806G/README.md)
-- [Cyberbots - Fullmetal Madness (Japan)](../../../Regions/Retails/Japan/T-1217G/README.md)
+- [Cross Romance: Koi to Mahjong to Hanafuda to (Japan)](../../../Regions/Retails/Japan/T-7103G/README.md)
+- [Crows: The Battle Action for SegaSaturn (Japan)](../../../Regions/Retails/Japan/T-16806G/README.md)
+- [Cyberbots: Fullmetal Madness (Japan)](../../../Regions/Retails/Japan/T-1217G/README.md)
 
 Navigation:
 

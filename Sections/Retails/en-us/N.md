@@ -5,9 +5,12 @@
 ### N - Games
 
 - [NBA Action (USA)](../../../Regions/Retails/USA/MK-81103/README.md)
-- [Neon Genesis - Evangelion - Koutetsu no Girlfriend (Japan)](../../../Regions/Retails/Japan/GS-9194/README.md)
-- [Ninkuu - Tsuyokina Yatsura no Daigekitotsu! (Japan)](../../../Regions/Retails/Japan/GS-9036/README.md)
+- [Neon Genesis: Evangelion: Koutetsu no Girlfriend (Japan) (Disc 1)](../../../Regions/Retails/Japan/GS-9194/README.md)
+- [Ninkū: Tsuyokina Yatsura no Daigekitotsu! (Japan)](../../../Regions/Retails/Japan/GS-9036/README.md)
+- [Ninpen Manmaru (Japan)](../../../Regions/Retails/Japan/T-35502G/README.md)
 - [Nobunaga no Yabou Tenshouki (Japan)](../../../Regions/Retails/Japan/T-7605G/README.md)
+- [Nobunaga no Yabou Tenshouki with Power-Up Kit (Japan)](../../../Regions/Retails/Japan/T-7643G/README.md)
+- [Nonomura Byouin no Hitobito (Japan)](../../../Regions/Retails/Japan/T-28001G/README.md)
 
 Navigation:
 

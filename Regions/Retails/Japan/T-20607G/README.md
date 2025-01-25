@@ -1,4 +1,4 @@
-# Time Bokan Series - Bokan to Ippatsu! Doronbow Kanpekiban (Japan)
+# Time Bokan Series: Bokan to Ippatsu! Doronbow Kanpekiban (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -12,10 +12,10 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Time Bokan Series - Bokan to Ippatsu! Doronbow Kanpekiban (Japan)
+<pre># Time Bokan Series: Bokan to Ippatsu! Doronbow Kanpekiban (Japan)
 [T-20607G  V1.003]
 play_delay = 4000</pre>
 
 ### Evidence
 
-TODO
+[![](https://img.youtube.com/vi/1NNZFPtxaRI/0.jpg)](https://youtu.be/1NNZFPtxaRI)

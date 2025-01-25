@@ -6,7 +6,6 @@
 # [Product Number + (Space if needed) + Version] (It needs to be 16 characters in brackets, otherwise it won't work!)
 # attribute=value (not applicable for exmem_1M and exmem_4M)
 
-# Fixed on 20231111 firmware. Use this if your firmware is older than 20231111
-# GROOVE ON FIGHT (Japan)
+# Gouketsuji Ichizoku 3: Groove on Fight (Japan)
 [T-14411G  V1.001]
-sector_delay=2000
+sector_delay = 2000

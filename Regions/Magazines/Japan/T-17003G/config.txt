@@ -8,5 +8,5 @@
 
 # Game-Ware Vol. 2 (Japan)
 [T-17003G   V1.02]
-play_delay=30000
-sector_delay=08000
+play_delay = 30000
+sector_delay = 08000

@@ -14,8 +14,8 @@ SAROO's attributes configuration for this game.
 
 <pre># Gussun Oyoyo S (Japan)
 [T-26101G  V1.002]
-sector_delay=1000
-play_delay=1000</pre>
+sector_delay = 1000
+play_delay = 1000</pre>
 
 ### Evidence
 

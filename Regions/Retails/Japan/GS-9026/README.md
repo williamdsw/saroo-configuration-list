@@ -14,7 +14,7 @@ SAROO's attributes configuration for this game.
 
 <pre># Gakkou no Kaidan (Japan)
 [GS-9026   V1.000]
-sector_delay=4000</pre>
+sector_delay = 4000</pre>
 
 ### Evidence
 

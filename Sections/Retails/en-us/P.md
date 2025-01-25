@@ -9,6 +9,9 @@
 - [Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)](../../../Regions/Retails/Japan/T-19708G/README.md)
 - [Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (2M)](../../../Regions/Retails/Japan/T-20114G/README.md)
 - [Primal Rage (USA)](../../../Regions/Retails/USA/T-4802H/README.md)
+- [Princess Crown (Japan)](../../../Regions/Retails/Japan/T-14418G/README.md)
+- [Puyo Puyo Sun (Japan)](../../../Regions/Retails/Japan/T-6603G/README.md)
+- [Puzzle Bobble 3 (Japan)](../../../Regions/Retails/Japan/T-1109G/README.md)
 
 Navigation:
 

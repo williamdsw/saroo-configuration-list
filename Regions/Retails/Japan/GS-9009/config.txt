@@ -6,7 +6,7 @@
 # [Product Number + (Space if needed) + Version] (It needs to be 16 characters in brackets, otherwise it won't work!)
 # attribute=value (not applicable for exmem_1M and exmem_4M)
 
-# Gotha - Ismailia SenEki (Japan)
+# Gotha: Ismailia SenEki (Japan)
 [GS-9009   V1.000]
-play_delay=16000
-sector_delay=5000
+play_delay = 16000
+sector_delay = 5000

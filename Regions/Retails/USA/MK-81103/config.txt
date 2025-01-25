@@ -8,4 +8,4 @@
 
 # NBA Action (USA)
 [MK-81103  V1.026]
-play_delay=1000
+play_delay = 1000

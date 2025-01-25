@@ -5,18 +5,18 @@
 ## Select menu language: 
 ## 0 = 中文: Chinese
 ## 1 = EN: English
-## 2 = PTBR: Brazilian Portuguese
-## 3 = JA: Japanese
-## 4 = FR: French (v0.4+)
-## 5 = RU: Russian (v0.4+)
+## 2 = PTBR: Português do Brasil
+## 3 = JA: 日本語
+## 4 = FR: Français (v0.4+)
+## 5 = RU: Русский (v0.4+)
 ## 6 = 繁中: Traditional Chinese (v0.4+)
-## 7 = DE: German (v0.4+)
-## 8 = ES: Spanish (v0.5+)
-## 9 = IT: Italian (v0.6+)
-## 10 = PL: Polish (v0.7+)
-## 11 = SWE: Swedish (v0.7+)
-## 12 = EL: Greek (v0.7+)
-## 13 = RO: Romanian (v0.7+)
+## 7 = DE: Deutsch (v0.4+)
+## 8 = ES: Español (v0.5+)
+## 9 = IT: Italiano (v0.6+)
+## 10 = PL: Polski (v0.7+)
+## 11 = SWE: Svensk (v0.7+)
+## 12 = ελληνικά (v0.7+)
+## 13 = Română (v0.7+)
 # lang_id=x
 
 # [Game ID + Game Version]
@@ -43,13 +43,13 @@
 ## Use 4M expansion card ##
 # exmem_4M
 
-## Write 32-bit memory (Useful for cheats, memory hacks) ##
+## Write 32-bit memory ##
 # M_xxxxxxxx=xxxxxxxx
 
-## Write 16-bit memory (Useful for cheats, memory hacks) ##
+## Write 16-bit memory ##
 # M_xxxxxxxx=xxxx
 
-## Write 8-bit memory (Useful for cheats, memory hacks) ##
+## Write 8-bit memory ##
 # M_xxxxxxxx=xx
 
 ## (v0.4+) Specify the directory format for multi disc games eg "Disc " or "CD". (v0.4+ only)
@@ -64,484 +64,633 @@
 ## 2 = sort DESC
 # sort_mode=x
 
+## -------------------------- GLOBAL --------------------------- ##
+
 [global]
 lang_id = 1
 sort_mode = 1
 
-# Fixed on 20231111 firmware. Uncomment if your firmware is older than 20231111
-# Final Fight Revenge
-# [T-1248G   V1.004]
-# sector_delay=2000
 
-# Fixed on 20231111 firmware. Uncomment if your firmware is older than 20231111
-# BOMBERMAN WARS
-# [T-14320G  V1.000]
-# sector_delay=23000
+## ------------------------------------------------------------- ##
 
-# Fixed on 20231111 firmware. Uncomment if your firmware is older than 20231111
-# GO GO GOAL (Japan)
-# [T-3602G   V1.004]
-# sector_delay=4000
 
-# Fixed on 20231111 firmware. Uncomment if your firmware is older than 20231111
-# GROOVE ON FIGHT (Japan)
-# [T-14411G  V1.001]
-# sector_delay=2000
+## ----------------------------- A ----------------------------- ##
 
-# Asuka120pct BurningFest. Limited
-[T-16708G  V1.003]
-sector_delay=4000
+# Fixed on 231125 firmware. Use this if your firmware is older than 231125 or if you still have issues
+# Asuka 120% Limited: Burning Fest. Limited (Japan)
+# [T-16708G  V1.003]
+# sector_delay = 4000
 
-# NINPEN MANMARU
-[T-35502G  V1.001]
-sector_delay=4000
+## ------------------------------------------------------------- ##
 
-# PUYO PUYO SUN
-[T-6603G   V2.000]
-sector_delay=4000
 
-# PUZZLE BOBBLE 3
-[T-1109G   V1.002]
-sector_delay=4000
+## ----------------------------- B ----------------------------- ##
 
-# D-XHIRD
-[T-10307G  V1.002]
-sector_delay=1000
-
-# TAROMARU
-[T-4804G   V1.004]
-sector_delay=1000
-
-# SALAMANDER-DP    
-[T-9520G   V1.010]
-sector_delay=2000
-
-# Princess Crown
-[T-14418G  V1.004]
-sector_delay=6000
-
-# ROUKA NI ITIDANTOA-RU  
-[GS-9043   V1.002]
-sector_delay=4000
-
-# The Emblem of Justice (Japan)
-[T-21001G  V1.003]
-sector_delay=1000
-
-# Nobunaga's Ambition
-[T-7643G V1.001]
-sector_delay=2000
-
-# Time Bokan Series - Bokan to Ippatsu! Doronbow Kanpekiban (Japan)
-[T-20607G  V1.003]
-play_delay = 4000
-
-# Gotha - Ismailia SenEki (Japan)
-[GS-9009   V1.000]
-play_delay = 16000
+# Battle Monsters (USA)
+[T-8137H   V1.000]
 sector_delay = 5000
-
-# Last Bronx
-[GS-9152   V1.113]
 play_delay = 50000
 
-# Digital Dance Mix Vol. 1 - Namie Amuro (Japan) (Rev A) (10M, 12M)
-[GS-9133   V1.003]
-play_delay = 16000
-sector_delay = 5000
-
-# Falcom Classics II
-[T-31505G  V1.004]
-play_delay = 50000
-
-# Batman Forever - The Arcade Game (Japan)
+# Batman Forever: The Arcade Game (Japan)
 [T-8118G   V1.000]
 play_delay = 100000
 sector_delay = 4200
 
-# Batman Forever - The Arcade Game (USA)
+# Batman Forever: The Arcade Game (USA)
 [T-8140H   V1.000]
-play_delay=65000
-sector_delay=8000
+play_delay = 65000
+sector_delay = 8000
 
-# SATURN BOMBERMAN FIGHT
-[T-14321G  V1.000]
-sector_delay=23000
+# Fixed on 231111 firmware. Uncomment if your firmware is older than 231111 or if you still have issues
+# Bomberman Wars (Japan)
+# [T-14320G  V1.000]
+# sector_delay = 23000
 
-# Nonomura Byouin no Hitobito
-[T-28001G  V1.000]
-sector_delay=8000
-
-# STREET FIGHTER ZERO3 (Japan)
-[T-1246G   V1.002]
-sector_delay=1000
-
-# BUG (Europe)
+# Bug! (Europe)
 [MK-81004  V1.019]
-sector_delay=2000
+sector_delay = 2000
 
-# BUG (USA)
+# Bug! (USA)
 [GM-81004  V1.017]
-sector_delay=2000
+sector_delay = 2000
 
-# Bug! - Jump Shite, Fundzukechatte, Pecchanko (Japan)
+# Bug! Jump Shite, Funzukechatte, Petchanko
 [GS-9063   V1.017]
-sector_delay=2000
+sector_delay = 2000
 
-# BURNING RANGERS (USA)
+# Burning Rangers (USA)
 [MK-81803  V1.001]
-play_delay=2000
+play_delay = 2000
 
-# DAYTONA USA (Europe)
+## ------------------------------------------------------------- ##
+
+
+## ----------------------------- C ----------------------------- ##
+
+# Code R (Japan)
+[T-23502G  V1.001]
+play_delay = 5000
+
+# Contra: Legacy of War (USA)
+[T-9507H   V1.000]
+play_delay = 2000
+
+# Optional. Uncomment if Croc's head doesn't appear
+# Croc: Legend Of Gobbos (USA)
+# [T-5029H-50V1.000]
+# M_25C7FFFE = FFFF
+
+# Cross Romance: Koi to Mahjong to Hanafuda to (Japan)
+[T-7103G   V1.002]
+play_delay = 1000
+
+# Crows: The Battle Action for SegaSaturn (Japan)
+[T-16806G  V1.001]
+sector_delay = 1000
+
+# Cyberbots: Fullmetal Madness (Japan) (1M)
+[T-1217G   V1.002]
+sector_delay = 1000
+
+## ------------------------------------------------------------- ##
+
+
+## ----------------------------- D ----------------------------- ##
+
+# D-Xhird (Japan)
+[T-10307G  V1.002]
+sector_delay = 1000
+
+# Daikoukai Jidai Gaiden (Japan)
+[T-7657G   V1.000]
+sector_delay = 1000
+
+# Daisuki (Japan) (Disc 1)
+[T-18510G  V1.002]
+sector_delay = 8000
+
+# Dark Savior (USA)
+[MK-81304  V1.000]
+sector_delay = 1000
+
+# Daytona USA (Europe)
 [MK_8120050V1.000]
-sector_delay=500
+sector_delay = 500
 
-# DAYTONA USA (USA)
-[MK-81200  V1.000]
-sector_delay=500
-
-# DAYTONA USA (Japan)
+# Daytona USA (Japan)
 [GS-9013   V1.000]
-sector_delay=500
+sector_delay = 500
 
-# ZERO DIVIDE THE FINAL CONFLICT (Japan)
-[T-31601G  V1.003]
-play_delay=2000
+# Daytona USA (USA)
+[MK-81200  V1.000]
+sector_delay = 500
 
-# UNO DX (Japan)
-[T-26414G  V1.001]
-sector_delay=4000
+# Develo Magazine Appendix CD-ROM for SegaSaturn (Japan)
+[610645801 V1.000]
+sector_delay = 1000
 
-# The Incredible Hulk - The Pantheon Saga
-[T-7905H   V1.003]
-sector_delay=1000
+# Digital Ange: Dennou Tenshi SS (Japan)
+[T-33003G  V1.003]
+sector_delay = 4000
+play_delay = 4000
 
-# LAST GLADIATORS
-[T-4804H   V1.000]
-sector_delay=1000
-
-# Heartbeat Scramble (Japan)
-[T-15014G  V1.000]
-sector_delay=1000
-
-# The Horde (USA) : Fix glitches
-[T-15909H50V1.000]
-sector_delay=1000
-
-# K-1 Grand Prix - Fighting Illusion Shou (Japan)
-[T-26102G  V1.003]
-play_delay=1000
-
-# Kaitou Saint Tail (Japan)
-[T-28201G  V1.010]
-play_delay=1000
-
-# Kidou Senkan Nadesico - The Blank of 3 Years (Japan)
-[GS-9195   V1.003]
-sector_delay=1000
-
-# Kidou Senshi Gundam - Gihren no Yabou (Japan)
-[T-13327G  V1.003]
-sector_delay=1000
-play_delay=1000
-
-# Kidou Senshi Z Gundam - Zenpen Zeta no Kodou (Japan)
-[T-13315G  V1.002]
-sector_delay=5000
-play_delay=5000
-
-# Kekkon - Marriage (Japan)
-[T-10501G  V1.200]
-sector_delay=1000
-
-# Keriotosse! (Japan)
-[T-30306G  V1.003]
-sector_delay=1000
-
-# Last Gladiators (Japan) (Ver. 9.7)
-# Fixes black screen
-[T-18903G  V1.003]
-sector_delay=2000
-
-# Riglord Saga 2
-[GS-9084   V1.100]
-play_delay = 50000
+# Digital Dance Mix Vol. 1: Namie Amuro (Japan) (Rev A) (10M, 12M)
+[GS-9133   V1.003]
+play_delay = 16000
 sector_delay = 5000
 
-# Hop Step Idol
-[T-20507G  V1.002]
-play_delay = 5000
-pend_delay = 5000
+# Digital Pinball: Last Gladiators Ver.9.7 (Japan)
+[T-18903G  V1.003]
+sector_delay = 2000
 
-# Thunderhawk II
-[T-6006G   V1.001]
-sector_delay = 8000
+# Daina Airan (Japan)
+[T-4503G   V1.000]
+play_delay = 4000
 
-# Thunderhawk 2 Firestorm
-[T-11501H00V1.000]
-sector_delay = 8000
+# Daina Airan: Yokoku Hen (Japan)
+[T-4505G   V1.001]
+play_delay = 4000
 
-# Thunderstrike 2
-[T-7902H   V3.000]
-sector_delay = 8000
+# Double Switch (USA) (Disc 1)
+[T-16207H  V1.000]
+sector_delay = 1000
 
-# Battle Monsters (USA)
-[T-8137H   V1.000]
-sector_delay=5000
-play_delay=50000
+## ------------------------------------------------------------- ##
 
-# Parodius (Europe)
-[T-9501H-50V2.000]
-play_delay=65000 
-sector_delay=8000
 
-# Gokujou Parodius Da! Deluxe Pack (Japan)
-[T-9501G   V1.001]
-play_delay=65000 
-sector_delay=8000
+## ----------------------------- E ----------------------------- ##
 
-# Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A)
-[T-9501G   V1.002]
-play_delay=65000 
-sector_delay=8000
 
-# Virtua Fighter (USA)
-[MK-81005  V1.000]
-sector_delay=1000
 
-# Virtua Fighter (Europe)
-[MK_8100550V1.000]
-sector_delay=1000
+## ------------------------------------------------------------- ##
 
-# Virtual Fighter (Japan)
-[GS-9001  V1.000]
-sector_delay=1000
 
-# Virtua Fighter CG Portrait Series Vol. 1 - Sarah Bryant (Japan) (1M)
-[GS-9062   V1.000]
-sector_delay=1000
+## ----------------------------- F ----------------------------- ##
 
-# Virtua Fighter CG Portrait Series Vol. 2 - Jacky Bryant (Japan)
-[GS-9064   V1.000]
-sector_delay=1000
-
-# Virtuacall S (Japan) (Disc 1) (Game Honpen)
-[T-19718G  V1.003]
-sector_delay=4000
-play_delay=4000
-
-# Magical Drop III - Toretate Zoukan-gou! (Japan) (2M)
-[T-1313G   V1.005]
-play_delay=8000
+# Falcom Classics II (Japan)
+[T-31505G  V1.004]
+play_delay = 50000
 
 # Optional. Uncomment if shows a black screen in-game.
 # Fantastep (Japan)
 # [T-5710G   V1.002]
-# play_delay=1000
-
-# Optional. Uncomment if the loading screen flicks
-# Frank Thomas Big Hurt Baseball (USA)
-# [T-8138H   V1.000]
-# sector_delay=1000
+# play_delay = 1000
 
 # Be aware that 610616699 is a generic product number and can conflict with others homebrews/protos/demos!
 # Flash Sega Saturn: Ochikadzuki-hen (Japan)
 # [610616699 V1.001]
-# sector_delay=8000
+# sector_delay = 8000
 
 # Flash SegaSaturn Vol. 1 (Japan) (2M)
 # [610616601 V1.000]
-play_delay=30000
-sector_delay=08000
+play_delay = 30000
+sector_delay = 08000
 
 # Be aware that SG0000000 is a generic product number and can conflict with others homebrews/protos/demos!
 # Flash SegaSaturn Vol. 1 (Japan) (2M) - Myrient redump
 # [SG0000000 V1.000]
-# play_delay=30000
-# sector_delay=08000
+# play_delay = 30000
+# sector_delay = 08000
 
 # Flash SegaSaturn Vol. 2 (Japan) (2M)
 [610616602 V1.000]
-play_delay=30000
-sector_delay=08000
+play_delay = 30000
+sector_delay = 08000
 
 # Be aware that SG0000000 is a generic product number and can conflict with others homebrews/protos/demos!
 # Flash SegaSaturn Vol. 2 (Japan) (2M)
 [SG0000000 V1.000]
-play_delay=30000
-sector_delay=08000
+play_delay = 30000
+sector_delay = 08000
 
 # Flash SegaSaturn Vol. 5 (Japan)
 [610616605 V1.003]
-play_delay=30000
-sector_delay=08000
+play_delay = 30000
+sector_delay = 08000
 
-# Waku Waku Monster (Japan)
-[T-16608G  V1.001]
-play_delay=1000
+# Fixed on 231111 firmware. Uncomment if your firmware is older than 231111 or if you still have issues
+# Final Fight Revenge
+# [T-1248G   V1.004]
+# sector_delay = 2000
 
-# Winter Heat (USA)
-[MK-81129  V1.001]
-sector_delay=4000
-play_delay=4000
+# Firestorm: Thunderhawk 2 (Europe)
+[T-11501H00V1.000]
+sector_delay = 8000
 
-# Wizardry Llylgamyn Saga (Japan)
-[T-38601G  V1.002]
-sector_delay=1000
+# Optional. Uncomment if the loading screen flicks
+# Frank Thomas Big Hurt Baseball (USA)
+# [T-8138H   V1.000]
+# sector_delay = 1000
 
-# Golden Axe - The Duel (USA)
-[MK-81045  V1.000]
-sector_delay=1000
+## ------------------------------------------------------------- ##
 
-# Cross Romance - Koi to Mahjong to Hanafuda to (Japan)
-[T-7103G   V1.002]
-play_delay=1000
 
-# Crows - The Battle Action for SegaSaturn (Japan)
-[T-16806G  V1.001]
-sector_delay=1000
-
-# Contra - Legacy of War (USA)
-[T-9507H   V1.000]
-play_delay=2000
-
-# Cyberbots - Fullmetal Madness (Japan) (1M)
-[T-1217G   V1.002]
-sector_delay=1000
-
-# Code R (Japan)
-[T-23502G  V1.001]
-play_delay=5000
-
-# (Optional) Croc: Legend Of Gobbos (USA)
-# [T-5029H-50V1.000]
-# M_25C7FFFE=FFFF
-
-# Ninkuu - Tsuyokina Yatsura no Daigekitotsu! (Japan)
-[GS-9036   V1.000]
-play_delay=30000
-sector_delay=08000
-
-# NBA Action (USA)
-[MK-81103  V1.026]
-play_delay=1000
-
-# Nobunaga no Yabou Tenshouki (Japan)
-[T-7605G   V1.002]
-sector_delay=1000
-
-# Neon Genesis - Evangelion - Koutetsu no Girlfriend (Japan) (Disc 1)
-[GS-9194   V1.005]
-sector_delay=1000
+## ----------------------------- G ----------------------------- ##
 
 # Gakkou no Kaidan (Japan)
 [GS-9026   V1.000]
-sector_delay=4000
+sector_delay = 4000
 
-# Gotha - Ismailia SenEki (Japan)
-[GS-9009   V1.000]
-play_delay=16000
-sector_delay=5000
-
-# Gussun Oyoyo S (Japan)
-[T-26101G  V1.002]
-sector_delay=1000
-play_delay=1000
-
-# Goiken Muyou - Anarchy in the Nippon (Japan)
-[T-28902G  V1.001]
-sector_delay=1000
-
-# Game-Ware (Japan)
+# Game-Ware Vol. 1 (Japan)
 [T-17002G   V1.02]
-play_delay=30000
-sector_delay=08000
+play_delay = 30000
+sector_delay = 08000
 
 # Game-Ware Vol. 2 (Japan)
 [T-17003G   V1.02]
-play_delay=30000
-sector_delay=08000
+play_delay = 30000
+sector_delay = 08000
 
 # Game-Ware Vol. 3 (Japan)
 [T-17004G-T V1.00]
-play_delay=30000
-sector_delay=08000
+play_delay = 30000
+sector_delay = 08000
 
-# Dark Savior (USA)
-[MK-81304  V1.000]
-sector_delay=1000
+# Goiken Muyou: Anarchy in the Nippon (Japan)
+[T-28902G  V1.001]
+sector_delay = 1000
 
-# Double Switch (USA) (Disc 1)
-[T-16207H  V1.000]
-sector_delay=1000
+# Gokujou Parodius Da! Deluxe Pack (Japan)
+[T-9501G   V1.001]
+play_delay = 65000 
+sector_delay = 8000
 
-# Develo Magazine Appendix CD-ROM for SegaSaturn (Japan)
-[610645801 V1.000]
-sector_delay=1000
+# Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A)
+[T-9501G   V1.002]
+play_delay = 65000 
+sector_delay = 8000
 
-# Dino Island (Japan)
-[T-4503G   V1.000]
-play_delay=4000
+# Golden Axe: The Duel (USA)
+[MK-81045  V1.000]
+sector_delay = 1000
 
-# Dino Island - Yokoku-hen (Japan)
-[T-4505G   V1.001]
-play_delay=4000
+# Gotha: Ismailia SenEki (Japan)
+[GS-9009   V1.000]
+play_delay = 16000
+sector_delay = 5000
 
-# Digital Ange - Dennou Tenshi SS (Japan)
-[T-33003G  V1.003]
-sector_delay=4000
-play_delay=4000
+# Fixed on 231111 firmware. Uncomment if your firmware is older than 231111 or if you still have issues
+# Gouketsuji Ichizoku 3: Groove on Fight (Japan)
+# [T-14411G  V1.001]
+# sector_delay = 2000
 
-# Daisuki (Japan) (Disc 1)
-[T-18510G  V1.002]
-sector_delay=8000
+# Gunbird (Japan)
+[T-14402G  V1.01J]
+play_delay = 65000
+sector_delay = 8000
 
-# Daikoukai Jidai Gaiden (Japan)
-[T-7657G   V1.000]
-sector_delay=1000
+# Gussun Oyoyo S (Japan)
+[T-26101G  V1.002]
+sector_delay = 1000
+play_delay = 1000
 
-# Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)
-[T-19708G  V1.002]
-sector_delay=1000
+## ------------------------------------------------------------- ##
 
-# Primal Rage (USA)
-[T-4802H   V1.000]
-play_delay=1000
 
-# Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (2M)
-[T-20114G  V1.002]
-sector_delay=1000
-play_delay=1000
+## ----------------------------- H ----------------------------- ##
 
-# PhantasM (Japan) (Disc 1)
-[T-36001G  V1.001]
-sector_delay=1000
+# Heartbeat Scramble (Japan)
+[T-15014G  V1.000]
+sector_delay = 1000
 
-# Titan Wars (Europe)
-[T-15911H50V1.000]
-sector_delay=1000
+# Hop Step Idol (Japan)
+[T-20507G  V1.002]
+play_delay = 5000
+pend_delay = 5000
 
-# Tokuso Kidoutai J-SWAT (Japan)
-[T-20602G  V1.003]
-play_delay=2000
+## ------------------------------------------------------------- ##
 
-# True Pinball (USA)
-[T-16406H  V1.000]
-play_delay=1000
 
-# Tactics Formula (Japan)
-[T-34101G  V1.006]
-sector_delay=4000
-play_delay=4000
+## ----------------------------- I ----------------------------- ##
 
-# Magical Drop III - Toretate Zoukan-gou! (Japan) (2M)
+
+
+## ------------------------------------------------------------- ##
+
+
+## ----------------------------- J ----------------------------- ##
+
+# Fixed on 231111 firmware. Uncomment if your firmware is older than 231111 or if you still have issues
+# J.League Go Go Goal! (Japan)
+# [T-3602G   V1.004]
+# sector_delay = 4000
+
+## ------------------------------------------------------------- ##
+
+
+## ----------------------------- K ----------------------------- ##
+
+# K-1 Grand Prix: Fighting Illusion Shou (Japan)
+[T-26102G  V1.003]
+play_delay = 1000
+
+# Kaitou Saint Tail (Japan)
+[T-28201G  V1.010]
+play_delay = 1000
+
+# Kekkon: Marriage (Japan)
+[T-10501G  V1.200]
+sector_delay = 1000
+
+# Keriotosse! (Japan)
+[T-30306G  V1.003]
+sector_delay = 1000
+
+# Kidou Senkan Nadesico: The Blank of 3 Years (Japan) (Disc 1)
+[GS-9195   V1.003]
+sector_delay = 1000
+
+# Kidou Senshi Gundam: Gihren no Yabou (Japan)
+[T-13327G  V1.003]
+sector_delay = 1000
+play_delay = 1000
+
+# Kidou Senshi Z Gundam: Zenpen Zeta no Kodou (Japan)
+[T-13315G  V1.002]
+sector_delay = 5000
+play_delay = 5000
+
+## ------------------------------------------------------------- ##
+
+
+## ----------------------------- L ----------------------------- ##
+
+# Last Bronx (Japan) (Disc 2) (Special Disc)
+[GS-9152   V1.113]
+play_delay = 50000
+
+# Last Gladiators: Digital Pinball (USA)
+[T-4804H   V1.000]
+sector_delay = 1000
+
+## ------------------------------------------------------------- ##
+
+
+## ----------------------------- M ----------------------------- ##
+
+# Magical Drop III: Toretate Zoukan-gou! (Japan) (2M)
 [T-1313G   V1.005]
-play_delay=8000
+play_delay = 8000
 
 # Mahjong Hyper Reaction R (Japan)
 [T-2402G   V1.000]
-sector_delay=4000
+sector_delay = 4000
 
 # Monster Slider (Japan)
 [T-27302G  V1.002]
-play_delay=10000
+play_delay = 10000
+
+## ------------------------------------------------------------- ##
+
+
+## ----------------------------- N ----------------------------- ##
+
+# NBA Action (USA)
+[MK-81103  V1.026]
+play_delay = 1000
+
+# Neon Genesis: Evangelion: Koutetsu no Girlfriend (Japan) (Disc 1)
+[GS-9194   V1.005]
+sector_delay = 1000
+
+# Ninkū: Tsuyokina Yatsura no Daigekitotsu! (Japan)
+[GS-9036   V1.000]
+play_delay = 30000
+sector_delay = 08000
+
+# Fixed on 240627 firmware. Uncomment if your firmware is older than 240627 or if you still have issues
+# Ninpen Manmaru (Japan)
+# [T-35502G  V1.001]
+# sector_delay = 4000
+
+# Nobunaga no Yabou Tenshouki (Japan)
+[T-7605G   V1.002]
+sector_delay = 1000
+
+# Nobunaga no Yabou Tenshouki with Power-Up Kit (Japan)
+[T-7643G   V1.001]
+sector_delay = 2000
+
+# Nonomura Byouin no Hitobito
+[T-28001G  V1.000]
+sector_delay = 8000
+
+## ------------------------------------------------------------- ##
+
+
+## ----------------------------- O ----------------------------- ##
+
+
+
+## ------------------------------------------------------------- ##
+
+
+## ----------------------------- P ----------------------------- ##
+
+# Parodius (Europe)
+[T-9501H-50V2.000]
+play_delay = 65000 
+sector_delay = 8000
+
+# PhantasM (Japan) (Disc 1)
+[T-36001G  V1.001]
+sector_delay = 1000
+
+# Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)
+[T-19708G  V1.002]
+sector_delay = 1000
+
+# Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (2M)
+[T-20114G  V1.002]
+sector_delay = 1000
+play_delay = 1000
+
+# Primal Rage (USA)
+[T-4802H   V1.000]
+play_delay = 1000
+
+# Princess Crown (Japan)
+[T-14418G  V1.004]
+sector_delay = 6000
+
+# Fixed on 240627 firmware. Uncomment if your firmware is older than 240627 or if you still have issues
+# Puyo Puyo Sun (Japan)
+# [T-6603G   V2.000]
+# sector_delay = 4000
+
+# Puzzle Bobble 3 (Japan)
+[T-1109G   V1.002]
+sector_delay = 4000
+
+## ------------------------------------------------------------- ##
+
+
+## ----------------------------- Q ----------------------------- ##
+
+
+
+## ------------------------------------------------------------- ##
+
+
+## ----------------------------- R ----------------------------- ##
+
+# Riglordsaga 2
+[GS-9084   V1.100]
+play_delay = 50000
+sector_delay = 5000
+
+## ------------------------------------------------------------- ##
+
+
+## ----------------------------- S ----------------------------- ##
+
+# Salamander Deluxe Pack Plus (Japan)  
+[T-9520G   V1.010]
+sector_delay = 2000
+
+# Fixed on 240515 firmware. Uncomment if your firmware is older than 240515 or if you still have issues
+# Saturn Bomberman Fight!! (Japan)
+# [T-14321G  V1.000]
+# sector_delay = 23000
+
+# Sega Ages: Rouka ni Ichidanto R (Japan) 
+[GS-9043   V1.002]
+sector_delay = 4000
+
+# Fixed on 231125 firmware. Uncomment if your firmware is older than 231125 or if you still have issues
+# Shinrei Jusatsushi Taroumaru (Japan)
+# [T-4804G   V1.004]
+# sector_delay = 1000
+
+# Street Fighter Zero 3 (Japan)
+[T-1246G   V1.002]
+sector_delay = 1000
+
+## ------------------------------------------------------------- ##
+
+
+## ----------------------------- T ----------------------------- ##
+
+# Tactics Formula (Japan)
+[T-34101G  V1.006]
+sector_delay = 4000
+play_delay = 4000
+
+# The Emblem of Justice (Japan)
+[T-21001G  V1.003]
+sector_delay = 1000
+
+# The Horde (USA)
+[T-15909H50V1.000]
+sector_delay = 1000
+
+# The Incredible Hulk: The Pantheon Saga (USA)
+[T-7905H   V1.003]
+sector_delay = 1000
+
+# Thunderhawk II (Japan)
+[T-6006G   V1.001]
+sector_delay = 8000
+
+# Thunderstrike 2 (USA)
+[T-7902H   V3.000]
+sector_delay = 8000
+
+# Time Bokan Series: Bokan to Ippatsu! Doronbow Kanpekiban (Japan)
+[T-20607G  V1.003]
+play_delay = 4000
+
+# Titan Wars (Europe)
+[T-15911H50V1.000]
+sector_delay = 1000
+
+# Tokuso Kidoutai J-SWAT (Japan)
+[T-20602G  V1.003]
+play_delay = 2000
+
+# True Pinball (USA)
+[T-16406H  V1.000]
+play_delay = 1000
+
+## ------------------------------------------------------------- ##
+
+
+## ----------------------------- U ----------------------------- ##
+
+# Uno DX (Japan)
+[T-26414G  V1.001]
+sector_delay = 4000
+
+## ------------------------------------------------------------- ##
+
+
+## ----------------------------- V ----------------------------- ##
+
+# Virtuacall S (Japan) (Disc 1) (Game Honpen)
+[T-19718G  V1.003]
+sector_delay = 4000
+play_delay = 4000
+
+# Virtua Fighter (Europe)
+[MK_8100550V1.000]
+sector_delay = 1000
+
+# Virtual Fighter (Japan)
+[GS-9001  V1.000]
+sector_delay = 1000
+
+# Virtua Fighter (USA)
+[MK-81005  V1.000]
+sector_delay = 1000
+
+# Virtua Fighter CG Portrait Series Vol. 1: Sarah Bryant (Japan) (1M)
+[GS-9062   V1.000]
+sector_delay = 1000
+
+# Virtua Fighter CG Portrait Series Vol. 2: Jacky Bryant (Japan)
+[GS-9064   V1.000]
+sector_delay = 1000
+
+
+## ------------------------------------------------------------- ##
+
+
+## ----------------------------- W ----------------------------- ##
+
+# Waku² Monster (Japan)
+[T-16608G  V1.001]
+play_delay = 1000
+
+# Winter Heat (USA)
+[MK-81129  V1.001]
+sector_delay = 4000
+play_delay = 4000
+
+# Wizardry: Llylgamyn Saga (Japan)
+[T-38601G  V1.002]
+sector_delay = 1000
+
+## ------------------------------------------------------------- ##
+
+
+## ----------------------------- X ----------------------------- ##
+
+
+
+## ------------------------------------------------------------- ##
+
+
+## ----------------------------- Y ----------------------------- ##
+
+
+
+## ------------------------------------------------------------- ##
+
+
+## ----------------------------- Z ----------------------------- ##
+
+# Zero Divide: The Final Conflict (Japan)
+[T-31601G  V1.003]
+play_delay = 2000
+
+## ------------------------------------------------------------- ##

@@ -14,10 +14,8 @@ SAROO's attributes configuration for this game.
 
 <pre># Daisuki (Japan) (Disc 1)
 [T-18510G  V1.002]
-sector_delay=8000</pre>
+sector_delay = 8000</pre>
 
 ### Evidence
 
-TODO
-
-<!-- [![](https://img.youtube.com/vi/eJfiS83xyk0/0.jpg)](https://youtu.be/eJfiS83xyk0) -->
+[![](https://img.youtube.com/vi/Mqnt-AzQNSo/0.jpg)](https://youtu.be/Mqnt-AzQNSo)

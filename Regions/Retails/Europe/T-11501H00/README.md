@@ -1,4 +1,4 @@
-# Firestorm - Thunderhawk 2 (Europe)
+# Firestorm: Thunderhawk 2 (Europe)
 
 SAROO's attributes configuration for this game.
 
@@ -12,7 +12,7 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Firestorm - Thunderhawk 2 (Europe)
+<pre># Firestorm: Thunderhawk 2 (Europe)
 [T-11501H00V1.000]
 sector_delay = 8000</pre>
 

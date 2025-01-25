@@ -12,9 +12,9 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># BUG (USA)
+<pre># Bug! (USA)
 [GM-81004  V1.017]
-sector_delay=2000</pre>
+sector_delay = 2000</pre>
 
 ### Evidence
 

@@ -1,4 +1,4 @@
-# K-1 Fighting Illusion Shou (Japan)
+# K-1 Grand Prix: Fighting Illusion Shou (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -12,9 +12,9 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># K-1 Fighting Illusion Shou (Japan)
+<pre># K-1 Grand Prix: Fighting Illusion Shou (Japan)
 [T-26102G  V1.003]
-play_delay=1000</pre>
+play_delay = 1000</pre>
 
 ### Evidence
 

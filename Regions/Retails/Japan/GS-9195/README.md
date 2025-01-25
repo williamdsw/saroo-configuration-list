@@ -1,4 +1,4 @@
-# Kidou Senkan Nadesico - The Blank of 3 Years (Japan)
+# Kidou Senkan Nadesico: The Blank of 3 Years (Japan) (Disc 1)
 
 SAROO's attributes configuration for this game.
 
@@ -12,9 +12,9 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Kidou Senkan Nadesico - The Blank of 3 Years (Japan)
+<pre># Kidou Senkan Nadesico: The Blank of 3 Years (Japan) (Disc 1)
 [GS-9195   V1.003]
-sector_delay=1000</pre>
+sector_delay = 1000</pre>
 
 ### Evidence
 

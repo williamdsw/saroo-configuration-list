@@ -12,10 +12,12 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># DAYTONA USA (Europe)
+<pre># Daytona USA (Europe)
 [MK_8120050V1.000]
-sector_delay=500</pre>
+sector_delay = 500</pre>
 
 ### Evidence
+
+TODO Record Europe
 
 [![](https://img.youtube.com/vi/YZOGw2jjz5k/0.jpg)](https://youtu.be/YZOGw2jjz5k)

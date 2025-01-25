@@ -8,4 +8,4 @@
 
 # Mahjong Hyper Reaction R (Japan)
 [T-2402G   V1.000]
-sector_delay=4000
+sector_delay = 4000

@@ -8,4 +8,4 @@
 
 # Primal Rage (USA)
 [T-4802H   V1.000]
-play_delay=1000
+play_delay = 1000

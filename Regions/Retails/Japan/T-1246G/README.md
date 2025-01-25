@@ -13,9 +13,9 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># STREET FIGHTER ZERO3 (Japan)
+<pre># Street Fighter Zero 3 (Japan)
 [T-1246G   V1.002]
-sector_delay=1000</pre>
+sector_delay = 1000</pre>
 
 ### Evidence
 

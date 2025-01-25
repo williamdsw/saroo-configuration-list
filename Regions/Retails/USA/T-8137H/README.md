@@ -15,8 +15,8 @@ SAROO's attributes configuration for this game.
 
 <pre># Battle Monsters (USA)
 [T-8137H   V1.000]
-sector_delay=5000
-play_delay=50000</pre>
+sector_delay = 5000
+play_delay = 50000</pre>
 
 ### Evidence
 

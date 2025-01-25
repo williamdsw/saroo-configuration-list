@@ -14,8 +14,10 @@ SAROO's attributes configuration for this game.
 
 <pre># True Pinball (USA)
 [T-16406H  V1.000]
-play_delay=1000</pre>
+play_delay = 1000</pre>
 
 ### Evidence
 
 TODO Need to record video
+
+[![](https://img.youtube.com/vi/uTye-eSmKp0/0.jpg)](https://youtu.be/uTye-eSmKp0)

@@ -1,4 +1,4 @@
-# Bug! - Jump Shite, Funzdukechatte, Pecchanko (Japan)
+# Bug! Jump Shite, Funzukechatte, Petchanko (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -8,13 +8,13 @@ SAROO's attributes configuration for this game.
 
 ### Problems
 
-- It does returns to the CD screen when starting a new level.
+- Freezes at beginning of the game.
 
 ### Solution
 
-<pre># Bug! - Jump Shite, Fundzukechatte, Pecchanko (Japan)
+<pre># Bug! Jump Shite, Funzukechatte, Petchanko
 [GS-9063   V1.017]
-sector_delay=2000</pre>
+sector_delay = 2000</pre>
 
 ### Evidence
 

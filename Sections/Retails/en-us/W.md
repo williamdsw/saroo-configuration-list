@@ -4,9 +4,9 @@
 
 ### W - Games
 
-- [Waku Waku Monster (Japan)](../../../Regions/Retails/Japan/T-16608G/README.md)
+- [Waku² Monster (Japan)](../../../Regions/Retails/Japan/T-16608G/README.md)
 - [Winter Heat (USA)](../../../Regions/Retails/USA/MK-81129/README.md)
-- [Wizardry Llylgamyn Saga (Japan)](../../../Regions/Retails/Japan/T-38601G/README.md)
+- [Wizardry: Llylgamyn Saga (Japan)](../../../Regions/Retails/Japan/T-38601G/README.md)
 
 Navigation:
 

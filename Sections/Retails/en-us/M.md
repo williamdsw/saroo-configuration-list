@@ -4,7 +4,7 @@
 
 ### M - Games
 
-- [Magical Drop III - Toretate Zoukan-gou! (Japan) (2M)](../../../Regions/Retails/Japan/T-1313G/README.md)
+- [Magical Drop III: Toretate Zoukan-gou! (Japan) (2M)](../../../Regions/Retails/Japan/T-1313G/README.md)
 - [Mahjong Hyper Reaction R (Japan)](../../../Regions/Retails/Japan/T-2402G//README.md)
 - [Monster Slider (Japan)](../../../Regions/Retails/Japan/T-27302G/README.md)
 

@@ -8,4 +8,4 @@
 
 # Daikoukai Jidai Gaiden (Japan)
 [T-7657G   V1.000]
-sector_delay=1000
+sector_delay = 1000

@@ -1,4 +1,4 @@
-# GROOVE ON FIGHT (Japan)
+# Gouketsuji Ichizoku 3: Groove on Fight (Japan)
 
 SAROO's attributes configuration (prior 20231111 firmware) for this game.
 
@@ -16,9 +16,9 @@ SAROO's attributes configuration (prior 20231111 firmware) for this game.
 
 ### Solution
 
-<pre># GROOVE ON FIGHT (Japan)
+<pre># Gouketsuji Ichizoku 3: Groove on Fight (Japan)
 [T-14411G  V1.001]
-sector_delay=2000</pre>
+sector_delay = 2000</pre>
 
 ### Evidence
 

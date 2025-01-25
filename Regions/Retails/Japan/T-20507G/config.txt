@@ -6,7 +6,7 @@
 # [Product Number + (Space if needed) + Version] (It needs to be 16 characters in brackets, otherwise it won't work!)
 # attribute=value (not applicable for exmem_1M and exmem_4M)
 
-# Hop Step Idol
+# Hop Step Idol (Japan)
 [T-20507G  V1.002]
 play_delay = 5000
 pend_delay = 5000

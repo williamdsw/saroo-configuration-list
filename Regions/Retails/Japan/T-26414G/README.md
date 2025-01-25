@@ -12,9 +12,9 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># UNO DX (Japan)
+<pre># Uno DX (Japan)
 [T-26414G  V1.001]
-sector_delay=4000</pre>
+sector_delay = 4000</pre>
 
 ### Evidence
 

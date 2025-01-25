@@ -14,10 +14,8 @@ SAROO's attributes configuration for this game.
 
 <pre># Daikoukai Jidai Gaiden (Japan)
 [T-7657G   V1.000]
-sector_delay=1000</pre>
+sector_delay = 1000</pre>
 
 ### Evidence
 
-TODO
-
-<!-- [![](https://img.youtube.com/vi/eJfiS83xyk0/0.jpg)](https://youtu.be/eJfiS83xyk0) -->
+[![](https://img.youtube.com/vi/44T10UGKt48/0.jpg)](https://youtu.be/44T10UGKt48)

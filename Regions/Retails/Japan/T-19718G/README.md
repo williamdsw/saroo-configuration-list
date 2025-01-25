@@ -1,4 +1,4 @@
-# Virtuacall S (Japan)
+# Virtuacall S (Japan) (Disc 1) (Game Honpen)
 
 SAROO's attributes configuration for this game.
 
@@ -14,8 +14,8 @@ SAROO's attributes configuration for this game.
 
 <pre># Virtuacall S (Japan) (Disc 1) (Game Honpen)
 [T-19718G  V1.003]
-sector_delay=4000
-play_delay=4000</pre>
+sector_delay = 4000
+play_delay = 4000</pre>
 
 ### Evidence
 

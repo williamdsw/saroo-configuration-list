@@ -14,8 +14,8 @@ SAROO's attributes configuration for this game.
 
 <pre># Titan Wars (Europe)
 [T-15911H50V1.000]
-sector_delay=1000</pre>
+sector_delay = 1000</pre>
 
 ### Evidence
 
-TODO Need to record video
+[![](https://img.youtube.com/vi/k3jo4TqNXrQ/0.jpg)](https://youtu.be/k3jo4TqNXrQ)

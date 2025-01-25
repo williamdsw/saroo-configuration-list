@@ -16,8 +16,8 @@ SAROO's attributes configuration for this game.
 
 <pre># Code R (Japan)
 [T-23502G  V1.001]
-play_delay=5000</pre>
+play_delay = 5000</pre>
 
 ### Evidence
 
-TODO
+[![](https://img.youtube.com/vi/KEq_g0PJplw/0.jpg)](https://youtu.be/KEq_g0PJplw)

@@ -1,4 +1,4 @@
-# The Incredible Hulk - The Pantheon Saga (USA)
+# The Incredible Hulk: The Pantheon Saga (USA)
 
 SAROO's attributes configuration for this game.
 
@@ -12,9 +12,9 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># The Incredible Hulk - The Pantheon Saga
+<pre># The Incredible Hulk: The Pantheon Saga
 [T-7905H   V1.003]
-sector_delay=1000</pre>
+sector_delay = 1000</pre>
 
 ### Evidence
 

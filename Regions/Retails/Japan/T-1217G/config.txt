@@ -6,6 +6,6 @@
 # [Product Number + (Space if needed) + Version] (It needs to be 16 characters in brackets, otherwise it won't work!)
 # attribute=value (not applicable for exmem_1M and exmem_4M)
 
-# Cyberbots - Fullmetal Madness (Japan) (1M)
+# Cyberbots: Fullmetal Madness (Japan) (1M)
 [T-1217G   V1.002]
-sector_delay=1000
+sector_delay = 1000

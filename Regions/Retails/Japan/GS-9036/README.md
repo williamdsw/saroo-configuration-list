@@ -1,4 +1,4 @@
-# Ninkuu - Tsuyokina Yatsura no Daigekitotsu! (Japan)
+# Ninkū: Tsuyokina Yatsura no Daigekitotsu! (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -12,10 +12,10 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Ninkuu - Tsuyokina Yatsura no Daigekitotsu! (Japan)
+<pre># Ninkū: Tsuyokina Yatsura no Daigekitotsu! (Japan)
 [GS-9036   V1.000]
-play_delay=30000
-sector_delay=08000</pre>
+play_delay = 30000
+sector_delay = 08000</pre>
 
 ### Evidence
 

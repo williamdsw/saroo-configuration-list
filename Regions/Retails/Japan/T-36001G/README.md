@@ -14,7 +14,7 @@ SAROO's attributes configuration for this game.
 
 <pre># PhantasM (Japan) (Disc 1)
 [T-36001G  V1.001]
-sector_delay=1000</pre>
+sector_delay = 1000</pre>
 
 ### Evidence
 

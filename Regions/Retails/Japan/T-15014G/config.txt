@@ -8,4 +8,4 @@
 
 # Heartbeat Scramble (Japan)
 [T-15014G  V1.000]
-sector_delay=1000
+sector_delay = 1000

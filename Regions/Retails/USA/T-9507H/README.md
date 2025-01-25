@@ -1,4 +1,4 @@
-# Contra - Legacy of War (USA)
+# Contra: Legacy of War (USA)
 
 SAROO's attributes configuration for this game.
 
@@ -13,9 +13,9 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Contra - Legacy of War (USA)
+<pre># Contra: Legacy of War (USA)
 [T-9507H   V1.000]
-play_delay=2000</pre>
+play_delay = 2000</pre>
 
 ### Evidence
 

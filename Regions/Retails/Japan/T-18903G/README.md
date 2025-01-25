@@ -1,4 +1,4 @@
-# Digital Pinball: Last Gladiators (Japan)
+# Digital Pinball: Last Gladiators Ver.9.7 (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -12,10 +12,12 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Last Gladiators (Japan) (Ver. 9.7)
+<pre># Digital Pinball: Last Gladiators Ver.9.7 (Japan)
 [T-18903G  V1.003]
-sector_delay=2000</pre>
+sector_delay = 2000</pre>
 
 ### Evidence
 
-[![](https://img.youtube.com/vi/80jjlTDehb8/0.jpg)](https://youtu.be/80jjlTDehb8)
+TODO Record
+
+<!-- [![](https://img.youtube.com/vi/80jjlTDehb8/0.jpg)](https://youtu.be/80jjlTDehb8) -->

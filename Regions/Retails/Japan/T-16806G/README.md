@@ -1,4 +1,4 @@
-# Crows - The Battle Action for SegaSaturn (Japan)
+# Crows: The Battle Action for SegaSaturn (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -12,9 +12,9 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Crows - The Battle Action for SegaSaturn (Japan)
+<pre># Crows: The Battle Action for SegaSaturn (Japan)
 [T-16806G  V1.001]
-sector_delay=1000</pre>
+sector_delay = 1000</pre>
 
 ### Evidence
 

@@ -8,4 +8,4 @@
 
 # Gakkou no Kaidan (Japan)
 [GS-9026   V1.000]
-sector_delay=4000
+sector_delay = 4000

@@ -12,9 +12,9 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># DAYTONA USA (USA)
+<pre># Daytona USA (USA)
 [MK-81200  V1.000]
-sector_delay=500</pre>
+sector_delay = 500</pre>
 
 ### Evidence
 

@@ -14,7 +14,7 @@ SAROO's attributes configuration for this game.
 
 <pre># Heartbeat Scramble (Japan)
 [T-15014G  V1.000]
-sector_delay=1000</pre>
+sector_delay = 1000</pre>
 
 ### Evidence
 

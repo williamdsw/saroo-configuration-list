@@ -14,10 +14,8 @@ SAROO's attributes configuration for this game.
 
 <pre># Develo Magazine Appendix CD-ROM for SegaSaturn (Japan)
 [610645801 V1.000]
-sector_delay=1000</pre>
+sector_delay = 1000</pre>
 
 ### Evidence
 
-TODO
-
-<!-- [![](https://img.youtube.com/vi/eJfiS83xyk0/0.jpg)](https://youtu.be/eJfiS83xyk0) -->
+[![](https://img.youtube.com/vi/jGOCxRVdBHQ/0.jpg)](https://youtu.be/jGOCxRVdBHQ)

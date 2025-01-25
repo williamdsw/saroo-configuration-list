@@ -14,9 +14,9 @@ SAROO's attributes configuration for this game.
 
 <pre># Tactics Formula (Japan)
 [T-34101G  V1.006]
-sector_delay=4000
-play_delay=4000</pre>
+sector_delay = 4000
+play_delay = 4000</pre>
 
 ### Evidence
 
-TODO
+[![](https://img.youtube.com/vi/uTye-eSmKp0/0.jpg)](https://youtu.be/uTye-eSmKp0)

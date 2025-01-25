@@ -4,13 +4,14 @@
 
 ### K - Games
 
-- [K-1 Fighting Illusion Shou (Japan)](../../../Regions/Retails/Japan/T-26102G/README.md)
+- [K-1 Grand Prix: Fighting Illusion Shou (Japan)](../../../Regions/Retails/Japan/T-26102G/README.md)
 - [Kaitou Saint Tail (Japan)](../../../Regions/Retails/Japan/T-28201G/README.md)
-- [Kidou Senkan Nadesico - The Blank of 3 Years (Japan)](../../../Regions/Retails/Japan/GS-9195/README.md)
-- [Kidou Senshi Gundam - Gihren no Yabou (Japan)](../../../Regions/Retails/Japan/T-13327G/README.md)
-- [Kidou Senshi Z Gundam - Zenpen Zeta no Kodou (Japan)](../../../Regions/Retails/Japan/T-13315G/README.md)
-- [Kekkon - Marriage (Japan)](../../../Regions/Retails/Japan/T-10501G/README.md)
+- [Kekkon: Marriage (Japan)](../../../Regions/Retails/Japan/T-10501G/README.md)
 - [Keriotosse! (Japan)](../../../Regions/Retails/Japan/T-30306G/README.md)
+- [Kidou Senkan Nadesico: The Blank of 3 Years (Japan) (Disc 1)](../../../Regions/Retails/Japan/GS-9195/README.md)
+- [Kidou Senshi Gundam: Gihren no Yabou (Japan)](../../../Regions/Retails/Japan/T-13327G/README.md)
+- [Kidou Senshi Z Gundam - Zenpen Zeta no Kodou (Japan)](../../../Regions/Retails/Japan/T-13315G/README.md)
+- [Koudou Saisoku Densetsu: Initial D (Japan)](../../../Regions/Retails/Japan/T-25503G//README.md) - Fixed on `231125` firmware and with proper disc image
 
 Navigation:
 

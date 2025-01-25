@@ -1,4 +1,4 @@
-# Magical Drop III - Toretate Zoukan-gou! (Japan) (2M)
+# Magical Drop III: Toretate Zoukan-gou! (Japan) (2M)
 
 SAROO's attributes configuration for this game.
 
@@ -12,10 +12,10 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Magical Drop III - Toretate Zoukan-gou! (Japan) (2M)
+<pre># Magical Drop III: Toretate Zoukan-gou! (Japan) (2M)
 [T-1313G   V1.005]
 play_delay = 8000</pre>
 
 ### Evidence
 
-TODO
+[![](https://img.youtube.com/vi/oql2upiWRq8/0.jpg)](https://youtu.be/oql2upiWRq8)

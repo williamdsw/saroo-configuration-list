@@ -15,7 +15,7 @@ SAROO's attributes configuration for this game.
 
 <pre># Golden Axe: The Duel (USA)
 [MK-81045  V1.000]
-sector_delay=1000</pre>
+sector_delay = 1000</pre>
 
 ### Evidence
 

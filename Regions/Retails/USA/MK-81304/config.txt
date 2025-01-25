@@ -8,4 +8,4 @@
 
 # Dark Savior (USA)
 [MK-81304  V1.000]
-sector_delay=1000
+sector_delay = 1000

@@ -14,7 +14,7 @@ SAROO's attributes configuration for this game.
 
 <pre># Fantastep (Japan)
 [T-5710G   V1.002]
-play_delay=1000</pre>
+play_delay = 1000</pre>
 
 ### Evidence
 

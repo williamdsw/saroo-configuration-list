@@ -8,4 +8,4 @@
 
 # Tokuso Kidoutai J-SWAT (Japan)
 [T-20602G  V1.003]
-play_delay=2000
+play_delay = 2000

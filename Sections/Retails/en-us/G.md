@@ -5,12 +5,12 @@
 ### G - Games
 
 - [Gakkou no Kaidan (Japan)](../../../Regions/Retails/Japan/GS-9026/README.md)
+- [Goiken Muyou: Anarchy in the Nippon (Japan)](../../../Regions/Retails/Japan/T-28902G/README.md)
 - [Gokujou Parodius Da! Deluxe Pack (Japan)](../../../Regions/Retails/Japan/T-9501G/V1.001/README.md)
 - [Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A)](../../../Regions/Retails/Japan/T-9501G/V1.002/README.md)
 - [Golden Axe: The Duel (USA)](../../../Regions/Retails/USA/MK-81045/README.md)
-- [Goiken Muyou - Anarchy in the Nippon (Japan)](../../../Regions/Retails/Japan/T-28902G/README.md)
-- [Gotha - Ismailia SenEki (Japan)](../../../Regions/Retails/Japan/GS-9009/README.md)
-- [Groove on Fight: Gōketsuji Ichizoku 3 (Japan)](../../../Regions/Retails/Japan/T-14411G/README.md) - Fixed on `231111` firmware
+- [Gotha: Ismailia SenEki (Japan)](../../../Regions/Retails/Japan/GS-9009/README.md)
+- [Gouketsuji Ichizoku 3: Groove on Fight (Japan)](../../../Regions/Retails/Japan/T-14411G/README.md) - Fixed on `231111` firmware
 - [Gunbird (Japan)](../../../Regions/Retails/Japan/T-14402G/README.md)
 - [Gussun Oyoyo S (Japan)](../../../Regions/Retails/Japan/T-26101G/README.md)
 

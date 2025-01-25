@@ -12,9 +12,9 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># ZERO DIVIDE THE FINAL CONFLICT (Japan)
+<pre># Zero Divide: The Final Conflict (Japan)
 [T-31601G  V1.003]
-play_delay=2000</pre>
+play_delay = 2000</pre>
 
 ### Evidence
 

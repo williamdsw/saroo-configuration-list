@@ -4,6 +4,10 @@
 
 ### S - Games
 
+- [Salamander Deluxe Pack Plus (Japan)](../../../Regions/Retails/Japan/T-9520G/README.md)
+- [Saturn Bomberman Fight!! (Japan)](../../../Regions/Retails/Japan/T-14321G/README.md)
+- [Sega Ages: Rouka ni Ichidanto R (Japan)](../../../Regions/Retails/Japan/GS-9043/README.md)
+- [Shinrei Jusatsushi Taroumaru (Japan)](../../../Regions/Retails/Japan/T-4804G/README.md)
 - [Street Fighter Zero 3 (Japan)](../../../Regions/Retails/Japan/T-1246G/README.md)
 
 Navigation:

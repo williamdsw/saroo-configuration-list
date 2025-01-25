@@ -13,9 +13,9 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># BURNING RANGERS (USA)
+<pre># Burning Rangers (USA)
 [MK-81803  V1.001]
-play_delay=2000</pre>
+play_delay = 2000</pre>
 
 ### Evidence
 

@@ -8,4 +8,4 @@
 
 # Titan Wars (Europe)
 [T-15911H50V1.000]
-sector_delay=1000
+sector_delay = 1000

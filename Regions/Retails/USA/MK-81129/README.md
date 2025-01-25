@@ -15,8 +15,8 @@ SAROO's attributes configuration for this game.
 
 <pre># Winter Heat (USA)
 [MK-81129  V1.001]
-sector_delay=4000
-play_delay=4000</pre>
+sector_delay = 4000
+play_delay = 4000</pre>
 
 ### Evidence
 

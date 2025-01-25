@@ -14,8 +14,8 @@ SAROO's attributes configuration for this game.
 
 <pre># Game-Ware Vol. 3 (Japan)
 [T-17004G-T V1.00]
-play_delay=30000
-sector_delay=08000</pre>
+play_delay = 30000
+sector_delay = 08000</pre>
 
 ### Evidence
 

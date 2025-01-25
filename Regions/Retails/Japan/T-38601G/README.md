@@ -1,4 +1,4 @@
-# Wizardry Llylgamyn Saga (Japan)
+# Wizardry: Llylgamyn Saga (Japan)
 
 SAROO's attributes configuration for this game.
 
@@ -12,9 +12,9 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Wizardry Llylgamyn Saga (Japan)
+<pre># Wizardry: Llylgamyn Saga (Japan)
 [T-38601G  V1.002]
-sector_delay=1000</pre>
+sector_delay = 1000</pre>
 
 ### Evidence
 

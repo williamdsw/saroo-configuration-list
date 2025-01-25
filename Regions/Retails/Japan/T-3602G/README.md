@@ -1,10 +1,10 @@
-# GO GO GOAL (Japan)
+# J.League Go Go Goal! (Japan)
 
-SAROO's attributes configuration (prior 20231111 firmware) for this game.
+SAROO's attributes configuration (prior 231111 firmware) for this game.
 
 ### Edit
 
-- This game was fixed on 20231111 firmware and it runs properly now.
+- This game was fixed on 231111 firmware and it runs properly now.
 
 ### Usage
 
@@ -17,9 +17,9 @@ SAROO's attributes configuration (prior 20231111 firmware) for this game.
 
 ### Solution
 
-<pre># GO GO GOAL (Japan)
+<pre># J.League Go Go Goal! (Japan)
 [T-3602G   V1.004]
-sector_delay=4000</pre>
+sector_delay = 4000</pre>
 
 ### Evidence
 

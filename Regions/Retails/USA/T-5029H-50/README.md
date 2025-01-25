@@ -15,12 +15,12 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Croc: Legend Of Gobbos (USA)
+<pre># (Optional) Croc: Legend Of Gobbos (USA)
 [T-5029H-50V1.000]
-M_25C7FFFE=FFFF</pre>
+M_25C7FFFE = FFFF</pre>
 
 ### Evidence
 
 [![](https://img.youtube.com/vi/O67H89nx0HA/0.jpg)](https://youtu.be/O67H89nx0HA)
 
-TODO
+[![](https://img.youtube.com/vi/BPneUdYxAtk/0.jpg)](https://youtu.be/BPneUdYxAtk)

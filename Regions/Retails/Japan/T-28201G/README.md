@@ -14,7 +14,7 @@ SAROO's attributes configuration for this game.
 
 <pre># Kaitou Saint Tail (Japan)
 [T-28201G  V1.010]
-play_delay=1000</pre>
+play_delay = 1000</pre>
 
 ### Evidence
 

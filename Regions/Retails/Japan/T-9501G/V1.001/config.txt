@@ -8,5 +8,5 @@
 
 # Gokujou Parodius Da! Deluxe Pack (Japan)
 [T-9501G   V1.001]
-play_delay=65000 
-sector_delay=8000
+play_delay = 65000 
+sector_delay = 8000

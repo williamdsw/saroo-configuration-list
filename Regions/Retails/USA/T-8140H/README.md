@@ -1,4 +1,4 @@
-# Batman Forever - The Arcade Game (USA)
+# Batman Forever: The Arcade Game (USA)
 
 SAROO's attributes configuration for this game.
 
@@ -12,10 +12,10 @@ SAROO's attributes configuration for this game.
 
 ### Solution
 
-<pre># Batman Forever - The Arcade Game (USA)
+<pre># Batman Forever: The Arcade Game (USA)
 [T-8140H   V1.000]
-play_delay=65000
-sector_delay=8000</pre>
+play_delay = 65000
+sector_delay = 8000</pre>
 
 ### Evidence
 

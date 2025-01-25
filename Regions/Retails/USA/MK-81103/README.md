@@ -14,7 +14,7 @@ SAROO's attributes configuration for this game.
 
 <pre># NBA Action (USA)
 [MK-81103  V1.026]
-play_delay=1000</pre>
+play_delay = 1000</pre>
 
 ### Evidence
 

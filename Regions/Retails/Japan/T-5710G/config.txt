@@ -8,4 +8,4 @@
 
 # Fantastep (Japan)
 [T-5710G   V1.002]
-play_delay=1000
+play_delay = 1000

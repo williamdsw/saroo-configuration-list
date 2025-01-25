@@ -18,8 +18,8 @@ Based on these issues from SAROO official GitHub:
 
 <pre># Gokujou Parodius Da! Deluxe Pack (Japan)
 [T-9501G   V1.001]
-play_delay=65000 
-sector_delay=8000</pre>
+play_delay = 65000 
+sector_delay = 8000</pre>
 
 ### Evidence
 

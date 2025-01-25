@@ -6,6 +6,6 @@
 # [Product Number + (Space if needed) + Version] (It needs to be 16 characters in brackets, otherwise it won't work!)
 # attribute=value (not applicable for exmem_1M and exmem_4M)
 
-# Kaitou Saint Tail (Japan)
-[T-28201G  V1.010]
-play_delay=1000
+# Kekkon: Marriage (Japan)
+[T-10501G  V1.200]
+sector_delay = 1000

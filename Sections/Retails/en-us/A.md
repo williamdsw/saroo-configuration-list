@@ -4,6 +4,7 @@
 
 ### A - Games
 
+- [Asuka 120% Limited: Burning Fest. Limited (Japan)](../../../Regions/Retails/Japan/T-16708G/README.md) - Fixed on `231125` firmware
 - [Amagi Shien (Japan)](../../../Regions/Retails/Japan/T-1513G/README.md) - Fixed on `240316` firmware
 
 Navigation:
