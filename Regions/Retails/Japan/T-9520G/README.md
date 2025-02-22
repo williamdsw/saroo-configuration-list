@@ -8,15 +8,15 @@ SAROO's attributes configuration for this game.
 
 ### Problems
 
-- ?
+- Fix corrupted data
 
 ### Solution
 
-[Based on this file on SAROO's official GitHub page](https://github.com/tpunix/SAROO/blob/6d213af4a484f2f6e5d310d0eb8cc070f5a45775/doc/saroocfg.txt#L55)
+[Based on this link](https://github.com/tpunix/SAROO/issues/290#issuecomment-2667081552)
 
 <pre># Salamander Deluxe Pack Plus (Japan)  
 [T-9520G   V1.010]
-sector_delay = 2000</pre>
+sector_delay = 6000</pre>
 
 ### Evidence
 

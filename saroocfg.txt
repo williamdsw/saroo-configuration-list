@@ -548,7 +548,7 @@ sector_delay = 5000
 
 # Salamander Deluxe Pack Plus (Japan)  
 [T-9520G   V1.010]
-sector_delay = 2000
+sector_delay = 6000
 
 # Fixed on 240515 firmware. Uncomment if your firmware is older than 240515 or if you still have issues
 # Saturn Bomberman Fight!! (Japan)
