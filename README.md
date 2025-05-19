@@ -20,6 +20,7 @@ Other links related to SAROO:
 <!-- - [Compilations](Sections/Compilations/en-us/README.md) -->
 
 - [Demos](Sections/Demos/en-us/README.md)
+- [Digital Museums / Galleries](Sections/Digitals/en-us.md)
   <!-- - [Homebrews](Sections/Homebrews/README.md) -->
 - [Magazines](Sections/Magazines/en-us/README.md)
 - [Retails](Sections/Retails/en-us/README.md)

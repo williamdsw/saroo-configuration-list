@@ -515,6 +515,70 @@ play_delay = 1000
 [T-14418G  V1.004]
 sector_delay = 6000
 
+# Private Idol Disc: Data-hen: Race Queen F (Japan)
+[T-30805G  V1.001]
+sector_delay=1000
+
+# Private Idol Disc: Data-hen: Race Queen G (Japan)
+[T-30806G  V1.002]
+sector_delay=1000
+
+# Private Idol Disc: Tokubetsu-hen: Can Gal '97 (Japan)
+[T-30808G  V1.000]
+sector_delay=1000
+
+# Private Idol Disc: Tokubetsu-hen: Cosplayers (Japan) (2M)
+[T-30804G  V1.003]
+sector_delay=1000
+
+# Private Idol Disc: Tokubetsu-hen: Kogal Daihyakka 100 (Japan)
+[T-30807G  V1.001]
+sector_delay=1000
+
+# Private Idol Disc Vol. 1: Yuu Kinoshita (Japan)
+[T-30801G  V1.002]
+sector_delay=1000
+
+# Private Idol Disc Vol. 2: Miki Uchiyama (Japan)
+[T-30802G  V1.001]
+sector_delay=1000
+
+# Private Idol Disc Vol. 3: Akemi Ooshima (Japan) (2M)
+[T-30803G  V1.001]
+sector_delay=1000
+
+# Private Idol Disc Vol. 4: Mirei Kuroda (Japan)
+[T-30809G  V1.000]
+sector_delay=1000
+
+# Private Idol Disc Vol. 5: Nanako Fujisaki (Japan)
+[T-30811G  V1.001]
+sector_delay=1000
+
+# Private Idol Disc Vol. 6: Satomi Yoshida (Japan)
+[T-30813G  V1.001]
+sector_delay=1000
+
+# Private Idol Disc Vol. 7: Kaori Asou (Japan)
+[T-30814G  V1.002]
+sector_delay=1000
+
+# Private Idol Disc Vol. 8: Emiko Furukawa (Japan)
+[T-30815G  V1.001]
+sector_delay=1000
+
+# Private Idol Disc Vol. 9: Keiko Nagamatsu (Japan)
+[T-30816G  V1.001]
+sector_delay=1000
+
+# Private Idol Disc Vol. 10: Mai Masaki (Japan)
+[T-30817G  V1.001]
+sector_delay=1000
+
+# Private Idol Disc Vol. 11: Mayumi Hirose (Japan) (2M)
+[T-30818G  V1.001]
+sector_delay=1000
+
 # Fixed on 240627 firmware. Uncomment if your firmware is older than 240627 or if you still have issues
 # Puyo Puyo Sun (Japan)
 # [T-6603G   V2.000]

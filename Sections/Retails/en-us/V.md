@@ -8,8 +8,6 @@
 - [Virtua Fighter (Europe)](../../../Regions/Retails/Europe/MK_8100550/README.md)
 - [Virtua Fighter (Japan)](../../../Regions/Retails/Japan/GS-9001/README.md)
 - [Virtua Fighter (USA)](../../../Regions/Retails/USA/MK-81005/README.md)
-- [Virtua Fighter CG Portrait Series Vol. 1: Sarah Bryant (Japan)](../../../Regions/Retails/Japan/GS-9062/README.md)
-- [Virtua Fighter CG Portrait Series Vol. 2: Jacky Bryant (Japan)](../../../Regions/Retails/Japan/GS-9064/README.md)
 
 Navigation:
 
