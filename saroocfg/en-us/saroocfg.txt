@@ -266,6 +266,14 @@ sector_delay = 1000
 [T-7657G   V1.000]
 sector_delay = 1000
 
+# Daina Airan (Japan)
+[T-4503G   V1.000]
+play_delay = 4000
+
+# Daina Airan: Yokoku Hen (Japan)
+[T-4505G   V1.001]
+play_delay = 4000
+
 # Daisuki (Japan)
 [T-18510G  V1.002]
 sector_delay = 8000
@@ -325,14 +333,6 @@ sector_delay = 5000
 [T-18903G  V1.003]
 sector_delay = 2000
 
-# Daina Airan (Japan)
-[T-4503G   V1.000]
-play_delay = 4000
-
-# Daina Airan: Yokoku Hen (Japan)
-[T-4505G   V1.001]
-play_delay = 4000
-
 # Double Switch (USA)
 [T-16207H  V1.000]
 sector_delay = 1000
@@ -358,6 +358,10 @@ multi_disc = "Disc "
 # Elf o Karu Monotachi II (Japan)
 [T-16610G   V1.003]
 multi_disc = "Disc "
+
+# Emblem of Justice, The (Japan)
+[T-21001G  V1.003]
+sector_delay = 1000
 
 # Enemy Zero (Europe)
 [MK-81076   V1.001]
@@ -402,9 +406,18 @@ multi_disc = "Disc "
 # [T-5710G   V1.002]
 # play_delay = 1000
 
+# Fixed on 231111 firmware. Uncomment if your firmware is older than 231111 or if you still have issues
+# Final Fight Revenge
+# [T-1248G   V1.004]
+# sector_delay = 2000
+
 # Find Love 2 - Rhapsody (Japan)
 [T-34605G   V1.008]
 multi_disc = "Disc "
+
+# Firestorm: Thunderhawk 2 (Europe)
+[T-11501H00V1.000]
+sector_delay = 8000
 
 # Be aware that 610616699 is a generic product number and can conflict with others homebrews/protos/demos!
 # Flash Sega Saturn: Ochikadzuki-hen (Japan)
@@ -437,15 +450,6 @@ sector_delay = 08000
 [610616605 V1.003]
 play_delay = 30000
 sector_delay = 08000
-
-# Fixed on 231111 firmware. Uncomment if your firmware is older than 231111 or if you still have issues
-# Final Fight Revenge
-# [T-1248G   V1.004]
-# sector_delay = 2000
-
-# Firestorm: Thunderhawk 2 (Europe)
-[T-11501H00V1.000]
-sector_delay = 8000
 
 # Optional. Uncomment if the loading screen flicks
 # Frank Thomas Big Hurt Baseball (USA)
@@ -540,6 +544,10 @@ sector_delay = 1000
 play_delay = 5000
 pend_delay = 5000
 
+# Horde, The (USA)
+[T-15909H50V1.000]
+sector_delay = 1000
+
 # Houkago Ren’ai Club - Koi no Etude (Japan)
 [T-19714G   V1.003]
 multi_disc = "Disc "
@@ -560,6 +568,10 @@ multi_disc = "Disc "
 # Idol Janshi Suchie-Pai Mecha Genteiban - Hatsubai 5 Shuunen Toku Package (Japan)
 [T-5716G   V1.000]
 multi_disc = "Disc "
+
+# Incredible Hulk: The Pantheon Saga, The (USA)
+[T-7905H   V1.003]
+sector_delay = 1000
 
 # Iron Man & X-O Manowar in Heavy Metal (Europe)
 [T-8119H-50V1.000]
@@ -1094,18 +1106,6 @@ multi_disc = "Disc "
 # Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (Japan)
 [T-14301G   V1.011]
 multi_disc = "Disc "
-
-# The Emblem of Justice (Japan)
-[T-21001G  V1.003]
-sector_delay = 1000
-
-# The Horde (USA)
-[T-15909H50V1.000]
-sector_delay = 1000
-
-# The Incredible Hulk: The Pantheon Saga (USA)
-[T-7905H   V1.003]
-sector_delay = 1000
 
 # Thunderhawk II (Japan)
 [T-6006G   V1.001]
