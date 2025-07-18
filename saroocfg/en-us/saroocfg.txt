@@ -74,6 +74,15 @@ sort_mode = 1
 ## ------------------------------------------------------------- ##
 
 
+## ---------------------------- 0-9 ---------------------------- ##
+
+# 3x3 Eyes - Kyuusei Koushu S (Japan)
+[T-21301G   V1.000]
+multi_disc = "Disc " 
+
+## ------------------------------------------------------------- ##
+
+
 ## ----------------------------- A ----------------------------- ##
 
 # Fixed on 231125 firmware. Use this if your firmware is older than 231125 or if you still have issues
@@ -81,10 +90,38 @@ sort_mode = 1
 # [T-16708G  V1.003]
 # sector_delay = 4000
 
+# Atlantis - The Lost Tales (Europe)
+[MK-8109150   V1.200]
+multi_disc = "Disc "
+
+# Atlantis - The Lost Tales (France)
+[MK-8109109   V1.200]
+multi_disc = "Disc "
+
+# Ayakashi Ninden Kunoichiban Plus (Japan)
+[T-21512G   V1.002]
+multi_disc = "Disc "
+
+# Azel - Panzer Dragoon RPG (Japan)
+[GS-9076   V1.001]
+multi_disc = "Disc "
+
 ## ------------------------------------------------------------- ##
 
 
 ## ----------------------------- B ----------------------------- ##
+
+# BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan)
+[T-19907G   V1.001]
+multi_disc = "Disc "
+
+# BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan)
+[T-19906G   V1.001]
+multi_disc = "Disc "
+
+# Bakuretsu Hunter (Japan)
+[T-22402G   V1.002]
+multi_disc = "Disc "
 
 # Battle Monsters (USA)
 [T-8137H   V1.000]
@@ -127,13 +164,61 @@ play_delay = 2000
 
 ## ----------------------------- C ----------------------------- ##
 
+# Can Can Bunny Premiere 2 (Japan)
+[T-19703G   V1.002]
+multi_disc = "Disc "
+
+# Can Can Bunny Premiere 2 (Japan) (Rev A)
+[T-19703G   V1.004]
+multi_disc = "Disc "
+
+# Chisato Moritaka - Watarase Bashi & Lala Sunshine (Japan)
+[GS-9172   V1.000]
+multi_disc = "Disc "
+
+# Chou Jikuu Yousai Macross - Ai Oboete Imasu ka (Japan)
+[T-23403G   V1.000]
+multi_disc = "Disc "
+
 # Code R (Japan)
 [T-23502G  V1.001]
 play_delay = 5000
 
+# Command & Conquer - Teil 1 - Der Tiberiumkonflikt (Germany)
+[T-7028H-18   V1.000]
+multi_disc = "Disc "
+
+# Command & Conquer (Europe) (En,Fr,De)
+[T-7028H-50   V1.000]
+multi_disc = "Disc "
+
+# Command & Conquer (France)
+[T-7028H-09   V1.000]
+multi_disc = "Disc "
+
+# Command & Conquer (Japan)
+[GS-9131   V1.005]
+multi_disc = "Disc "
+
+# Command & Conquer (USA)
+[T-7028H   V1.000]
+multi_disc = "Disc "
+
 # Contra: Legacy of War (USA)
 [T-9507H   V1.000]
 play_delay = 2000
+
+# Corpse Killer - Graveyard Edition (USA)
+[T-16201H   V1.000]
+multi_disc = "Disc "
+
+# Creature Shock - Special Edition (USA)
+[T-01304H   V1.000]
+multi_disc = "Disc "
+
+# Creature Shock (Japan)
+[T-1303G   V1.007]
+multi_disc = "Disc "
 
 # Optional. Uncomment if Croc's head doesn't appear
 # Croc: Legend Of Gobbos (USA)
@@ -143,6 +228,10 @@ play_delay = 2000
 # Cross Romance: Koi to Mahjong to Hanafuda to (Japan)
 [T-7103G   V1.002]
 play_delay = 1000
+
+# Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth (Japan)
+[T-36401G   V1.000]
+multi_disc = "Disc "
 
 # Crows: The Battle Action for SegaSaturn (Japan)
 [T-16806G  V1.001]
@@ -157,6 +246,18 @@ sector_delay = 1000
 
 ## ----------------------------- D ----------------------------- ##
 
+# D (Europe)
+[T-8106H-50   V1.000]
+multi_disc = "Disc "
+
+# D (USA)
+[T-8106H   V1.000]
+multi_disc = "Disc "
+
+# D no Shokutaku (Japan)
+[T-8101G   V1.000]
+multi_disc = "Disc "
+
 # D-Xhird (Japan)
 [T-10307G  V1.002]
 sector_delay = 1000
@@ -165,9 +266,18 @@ sector_delay = 1000
 [T-7657G   V1.000]
 sector_delay = 1000
 
-# Daisuki (Japan) (Disc 1)
+# Daina Airan (Japan)
+[T-4503G   V1.000]
+play_delay = 4000
+
+# Daina Airan: Yokoku Hen (Japan)
+[T-4505G   V1.001]
+play_delay = 4000
+
+# Daisuki (Japan)
 [T-18510G  V1.002]
 sector_delay = 8000
+multi_disc = "Disc "
 
 # Dark Savior (USA)
 [MK-81304  V1.000]
@@ -184,6 +294,26 @@ sector_delay = 500
 # Daytona USA (USA)
 [MK-81200  V1.000]
 sector_delay = 500
+
+# DeathMask (Japan)
+[T-22701G   V1.300]
+multi_disc = "Disc "
+
+# Deep Fear (Europe)
+[MK-81804   V1.001]
+multi_disc = "Disc "
+
+# Deep Fear (Japan)
+[GS-9189   V1.017]
+multi_disc = "Disc "
+
+# Deep Fear (USA) (Unl)
+[MK-81804   V1.000]
+multi_disc = "Disc "
+
+# Desire (Japan)
+[T-15031G   V1.000]
+multi_disc = "Disc "
 
 # Develo Magazine Appendix CD-ROM for SegaSaturn (Japan)
 [610645801 V1.000]
@@ -203,24 +333,63 @@ sector_delay = 5000
 [T-18903G  V1.003]
 sector_delay = 2000
 
-# Daina Airan (Japan)
-[T-4503G   V1.000]
-play_delay = 4000
-
-# Daina Airan: Yokoku Hen (Japan)
-[T-4505G   V1.001]
-play_delay = 4000
-
-# Double Switch (USA) (Disc 1)
+# Double Switch (USA)
 [T-16207H  V1.000]
 sector_delay = 1000
+multi_disc = "Disc "
+
+# Dungeons & Dragons Collection (Japan)
+[T-1245G   V1.000]
+multi_disc = "Disc "
 
 ## ------------------------------------------------------------- ##
 
 
 ## ----------------------------- E ----------------------------- ##
 
+# Eberouge (Japan)
+[T-10309G   V1.005]
+multi_disc = "Disc "
 
+# Elf o Karu Monotachi (Japan)
+[T-16605G   V1.001]
+multi_disc = "Disc "
+
+# Elf o Karu Monotachi II (Japan)
+[T-16610G   V1.003]
+multi_disc = "Disc "
+
+# Emblem of Justice, The (Japan)
+[T-21001G  V1.003]
+sector_delay = 1000
+
+# Enemy Zero (Europe)
+[MK-81076   V1.001]
+multi_disc = "Disc "
+
+# Enemy Zero (Japan)
+[T-30001G   V1.000]
+multi_disc = "Disc "
+
+# Enemy Zero (Japan)
+[T-30001G   V1.000]
+multi_disc = "Disc "
+
+# Enemy Zero (Japan))
+[T-30004G   V1.000]
+multi_disc = "Disc "
+
+# Enemy Zero (USA)
+[MK-81076   V1.001]
+multi_disc = "Disc "
+
+# Eve - Burst Error (Japan)
+[T-15022G   V1.000]
+multi_disc = "Disc "
+
+# Eve - The Lost One (Japan)
+[T-15035G   V1.000]
+multi_disc = "Disc "
 
 ## ------------------------------------------------------------- ##
 
@@ -230,11 +399,25 @@ sector_delay = 1000
 # Falcom Classics II (Japan)
 [T-31505G  V1.004]
 play_delay = 50000
+multi_disc = "Disc "
 
 # Optional. Uncomment if shows a black screen in-game.
 # Fantastep (Japan)
 # [T-5710G   V1.002]
 # play_delay = 1000
+
+# Fixed on 231111 firmware. Uncomment if your firmware is older than 231111 or if you still have issues
+# Final Fight Revenge
+# [T-1248G   V1.004]
+# sector_delay = 2000
+
+# Find Love 2 - Rhapsody (Japan)
+[T-34605G   V1.008]
+multi_disc = "Disc "
+
+# Firestorm: Thunderhawk 2 (Europe)
+[T-11501H00V1.000]
+sector_delay = 8000
 
 # Be aware that 610616699 is a generic product number and can conflict with others homebrews/protos/demos!
 # Flash Sega Saturn: Ochikadzuki-hen (Japan)
@@ -268,19 +451,14 @@ sector_delay = 08000
 play_delay = 30000
 sector_delay = 08000
 
-# Fixed on 231111 firmware. Uncomment if your firmware is older than 231111 or if you still have issues
-# Final Fight Revenge
-# [T-1248G   V1.004]
-# sector_delay = 2000
-
-# Firestorm: Thunderhawk 2 (Europe)
-[T-11501H00V1.000]
-sector_delay = 8000
-
 # Optional. Uncomment if the loading screen flicks
 # Frank Thomas Big Hurt Baseball (USA)
 # [T-8138H   V1.000]
 # sector_delay = 1000
+
+# Friends - Seishun no Kagayaki (Japan)
+[T-20109G   V1.003]
+multi_disc = "Disc "
 
 ## ------------------------------------------------------------- ##
 
@@ -334,6 +512,10 @@ sector_delay = 5000
 # [T-14411G  V1.001]
 # sector_delay = 2000
 
+# Grandia (Japan)
+[T-4507G   V1.002]
+multi_disc = "Disc "
+
 # Gunbird (Japan)
 [T-14402G  V1.01J]
 play_delay = 65000
@@ -349,6 +531,10 @@ play_delay = 1000
 
 ## ----------------------------- H ----------------------------- ##
 
+# Harukaze Sentai V-Force (Japan)
+[T-19904G   V1.001]
+multi_disc = "Disc "
+
 # Heartbeat Scramble (Japan)
 [T-15014G  V1.000]
 sector_delay = 1000
@@ -358,10 +544,34 @@ sector_delay = 1000
 play_delay = 5000
 pend_delay = 5000
 
+# Horde, The (USA)
+[T-15909H50V1.000]
+sector_delay = 1000
+
+# Houkago Ren’ai Club - Koi no Etude (Japan)
+[T-19714G   V1.003]
+multi_disc = "Disc "
+
+# Houma Hunter Lime Perfect Collection (Japan)
+[T-2001G   V1.300]
+multi_disc = "Disc "
+
 ## ------------------------------------------------------------- ##
 
 
 ## ----------------------------- I ----------------------------- ##
+
+# Idol Janshi Suchie-Pai II (Japan)
+[T-5705G   V1.001]
+multi_disc = "Disc "
+
+# Idol Janshi Suchie-Pai Mecha Genteiban - Hatsubai 5 Shuunen Toku Package (Japan)
+[T-5716G   V1.000]
+multi_disc = "Disc "
+
+# Incredible Hulk: The Pantheon Saga, The (USA)
+[T-7905H   V1.003]
+sector_delay = 1000
 
 # Iron Man & X-O Manowar in Heavy Metal (Europe)
 [T-8119H-50V1.000]
@@ -372,10 +582,18 @@ sector_delay = 1000
 
 ## ----------------------------- J ----------------------------- ##
 
+# J. B. Harold - Blue Chicago Blues (Japan)
+[T-5302G   V0.600]
+multi_disc = "Disc "
+
 # Fixed on 231111 firmware. Uncomment if your firmware is older than 231111 or if you still have issues
 # J.League Go Go Goal! (Japan)
 # [T-3602G   V1.004]
 # sector_delay = 4000
+
+# Jantei Battle Cos-Player (Japan)
+[T-34601G   V1.004]
+multi_disc = "Disc "
 
 ## ------------------------------------------------------------- ##
 
@@ -390,6 +608,10 @@ play_delay = 1000
 [T-28201G  V1.010]
 play_delay = 1000
 
+# Kakyuusei (Japan)
+[T-28002G   V1.002]
+multi_disc = "Disc "
+
 # Kekkon: Marriage (Japan)
 [T-10501G  V1.200]
 sector_delay = 1000
@@ -398,9 +620,10 @@ sector_delay = 1000
 [T-30306G  V1.003]
 sector_delay = 1000
 
-# Kidou Senkan Nadesico: The Blank of 3 Years (Japan) (Disc 1)
+# Kidou Senkan Nadesico: The Blank of 3 Years (Japan)
 [GS-9195   V1.003]
 sector_delay = 1000
+multi_disc = "Disc "
 
 # Kidou Senshi Gundam: Gihren no Yabou (Japan)
 [T-13327G  V1.003]
@@ -412,10 +635,22 @@ play_delay = 1000
 sector_delay = 5000
 play_delay = 5000
 
+# Koden Koureijutsu - Hyaku Monogatari - Honto ni Atta Kowai Hanashi (Japan)
+[T-14312G   V1.000]
+multi_disc = "Disc "
+
+# Kuusou Kagaku Sekai Gulliver Boy (Japan)
+[T-14303G   V1.000]
+multi_disc = "Disc "
+
 ## ------------------------------------------------------------- ##
 
 
 ## ----------------------------- L ----------------------------- ##
+
+# Last Bronx (Japan)
+[GS-9152   V1.112]
+multi_disc = "Disc "
 
 # Last Bronx (Japan) (Disc 2) (Special Disc)
 [GS-9152   V1.113]
@@ -424,6 +659,22 @@ play_delay = 50000
 # Last Gladiators: Digital Pinball (USA)
 [T-4804H   V1.000]
 sector_delay = 1000
+
+# LifeScape - Seimei 40 Okunen Haruka na Tabi (Japan)
+[T-26405G   V1.004]
+multi_disc = "Disc "
+
+# Lunacy (USA)
+[T-14403H   V1.002]
+multi_disc = "Disc "
+
+# Lunar 2 - Eternal Blue (Japan)
+[T-27906G   V1.002]
+multi_disc = "Disc "
+
+# Lupin the 3rd Chronicles (Japan)
+[T-18804G   V1.400]
+multi_disc = "Disc "
 
 ## ------------------------------------------------------------- ##
 
@@ -434,26 +685,83 @@ sector_delay = 1000
 [T-1313G   V1.005]
 play_delay = 8000
 
+# Mahjong Doukyuusei Special (Japan)
+[T-25302G1   V1.004]
+multi_disc = "Disc "
+
+# Mahjong Gakuensai (Japan)
+[T-25305G1   V1.000]
+multi_disc = "Disc "
+
 # Mahjong Hyper Reaction R (Japan)
 [T-2402G   V1.000]
 sector_delay = 4000
 
+# Mahjong-kyou Jidai Cebu Island ‘96 (Japan)
+[T-2204G   V1.000]
+multi_disc = "Disc "
+
+-tachi ga Umareta Wake (Japan)
+[T-36302G   V1.000]
+multi_disc = "Disc "
+
+# MeltyLancer - Re-inforce (Japan)
+[T-15038G   V1.001]
+multi_disc = "Disc "
+
+# Minakata Hakudou Toujou (Japan)
+[T-14414G   V1.000]
+multi_disc = "Disc "
+
 # Monster Slider (Japan)
 [T-27302G  V1.002]
 play_delay = 10000
+
+# Moon Cradle (Japan)
+[T-9109G   V1.001]
+multi_disc = "Disc "
+
+# Mr. Bones (Europe)
+[MK-81016   V1.000]
+multi_disc = "Disc "
+
+# Mr. Bones (Japan)
+[GS-9127   V1.001]
+multi_disc = "Disc "
+
+# Mr. Bones (USA)
+[MK-81016   V1.000]
+multi_disc = "Disc "
+
+# My Dream - On Air ga Matenakute (Japan)
+[T-21303G   V1.004]
+multi_disc = "Disc "
 
 ## ------------------------------------------------------------- ##
 
 
 ## ----------------------------- N ----------------------------- ##
 
+# Nanatsu Kaze no Shima Monogatari (Japan)
+[T-35501G   V1.001]
+multi_disc = "Disc "
+
+# Nanatsu no Hikan (Japan)
+[T-7616G   V1.001]
+multi_disc = "Disc "
+
+# Nanatsu no Hikan (Japan)
+[T-7616G   V1.001]
+multi_disc = "Disc "
+
 # NBA Action (USA)
 [MK-81103  V1.026]
 play_delay = 1000
 
-# Neon Genesis: Evangelion: Koutetsu no Girlfriend (Japan) (Disc 1)
+# Neon Genesis: Evangelion: Koutetsu no Girlfriend (Japan)
 [GS-9194   V1.005]
 sector_delay = 1000
+multi_disc = "Disc "
 
 # Ninkū: Tsuyokina Yatsura no Daigekitotsu! (Japan)
 [GS-9036   V1.000]
@@ -473,6 +781,10 @@ sector_delay = 1000
 [T-7643G   V1.001]
 sector_delay = 2000
 
+# NOeL 3 - Not Digital (Japan)
+[T-22205G   V1.003]
+multi_disc = "Disc "
+
 # Nonomura Byouin no Hitobito
 [T-28001G  V1.000]
 sector_delay = 8000
@@ -482,12 +794,26 @@ sector_delay = 8000
 
 ## ----------------------------- O ----------------------------- ##
 
+# Ojousama Express (Japan)
+[T-27803G   V1.005]
+multi_disc = "Disc "
 
+# Ousama Game (Japan)
+[T-21904G   V1.001]
+multi_disc = "Disc "
 
 ## ------------------------------------------------------------- ##
 
 
 ## ----------------------------- P ----------------------------- ##
+
+# Panzer Dragoon Saga (Europe)
+[MK-81307   V1.000]
+multi_disc = "Disc "
+
+# Panzer Dragoon Saga (USA)
+[MK-81307   V1.000]
+multi_disc = "Disc "
 
 # Parodius (Europe)
 [T-9501H-50V2.000]
@@ -502,10 +828,15 @@ sector_delay = 1000
 [T-19708G  V1.002]
 sector_delay = 1000
 
-# Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (2M)
+# Pia Carrot e Youkoso!! 2 (Japan)
 [T-20114G  V1.002]
 sector_delay = 1000
 play_delay = 1000
+multi_disc = "Disc "
+
+# Policenauts (Japan)
+[T-9510G   V1.000]
+multi_disc = "Disc "
 
 # Primal Rage (USA)
 [T-4802H   V1.000]
@@ -593,22 +924,80 @@ sector_delay = 4000
 
 ## ----------------------------- Q ----------------------------- ##
 
-
+# QuoVadis 2 - Wakusei Kyoushuu Ovan Rei (Japan)
+[T-17402G   V1.003]
+multi_disc = "Disc "
 
 ## ------------------------------------------------------------- ##
 
 
 ## ----------------------------- R ----------------------------- ##
 
+# Rampo (Japan)
+[GS-9011   V1.000]
+multi_disc = "Disc "
+
+# Real Sound - Kaze no Regret (Japan)
+[T-30002G   V1.000]
+multi_disc = "Disc "
+
+# Refrain Love - Anata ni Aitai (Japan)
+[T-5308G   V1.000]
+multi_disc = "Disc "
+
 # Riglordsaga 2
 [GS-9084   V1.100]
 play_delay = 50000
 sector_delay = 5000
 
+# Riven - A Sequencia de Myst (Brazil)
+[MK-8180145   V1.000]
+multi_disc = "Disc "
+
+# Riven - The Sequel to Myst (Europe)
+[MK-81801   V1.003]
+multi_disc = "Disc "
+
+# Riven - The Sequel to Myst (Japan)
+[T-35503G   V1.002]
+multi_disc = "Disc "
+
+# Ronde (Japan)
+[T-14415G   V1.001]
+multi_disc = "Disc "
+
+# Roommate W - Futari (Japan)
+[T-19508G   V1.002]
+multi_disc = "Disc "
+
 ## ------------------------------------------------------------- ##
 
 
 ## ----------------------------- S ----------------------------- ##
+
+# Sakura Taisen - Jouki Radio Show (Japan)
+[GS-9160   V1.004]
+multi_disc = "Disc "
+
+# Sakura Taisen - Teigeki Graph - Teigeki Graph in Sakura Wars (Japan)
+[T-32602G   V1.003]
+multi_disc = "Disc "
+
+# Sakura Taisen (Japan)
+[GS-9037   V1.005]
+multi_disc = "Disc "
+
+# Sakura Taisen (Japan) (8M, 13M)
+[GS-9037   V1.005]
+multi_disc = "Disc "
+
+# Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Rev A)
+[GS-9169   V1.004]
+multi_disc = "Disc "
+
+# Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan)
+[GS-9169   V1.002]
+multi_disc = "Disc "
 
 # Salamander Deluxe Pack Plus (Japan)  
 [T-9520G   V1.010]
@@ -623,14 +1012,78 @@ sector_delay = 6000
 [GS-9043   V1.002]
 sector_delay = 4000
 
+# Sengoku Blade - Sengoku Ace Episode II (Japan)
+[T-14410G   V1.002]
+multi_disc = "Disc "
+
+# Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Rev A)
+[T-30902G   V1.005]
+multi_disc = "Disc "
+
+# Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Rev B)
+[T-30902G   V2.000]
+multi_disc = "Disc "
+
+# Sentimental Graffiti (Japan)
+[T-20106G   V1.003]
+multi_disc = "Disc "
+
 # Fixed on 231125 firmware. Uncomment if your firmware is older than 231125 or if you still have issues
 # Shinrei Jusatsushi Taroumaru (Japan)
 # [T-4804G   V1.004]
 # sector_delay = 1000
 
+# Shiroki Majo - Mou Hitotsu no Eiyuu Densetsu (Japan)
+[T-14322G   V1.001]
+multi_disc = "Disc "
+
+# Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan)
+[GS-9182   V1.001]
+multi_disc = "Disc "
+
+# Soukuu no Tsubasa - Gotha World (Japan)
+[T-2205G   V1.000]
+multi_disc = "Disc "
+
+# Sound Novel Machi (Japan)
+[T-34001G   V1.001]
+multi_disc = "Disc "
+
+# Star Bowling Vol. 2, The (Japan)
+[T-21805G   V1.000]
+multi_disc = "Disc "
+
+# Star Bowling, The (Japan)
+[T-21804G   V1.001]
+multi_disc = "Disc "
+
+# Street Fighter Collection (Europe)
+[T-7033H-50   V1.000]
+multi_disc = "Disc "
+
+# Street Fighter Collection (Japan)
+[T-1223G   V1.001]
+multi_disc = "Disc "
+
+# Street Fighter Collection (USA)
+[T-1222H   V1.000]
+multi_disc = "Disc "
+
+# Street Fighter II Movie (Japan)
+[T-1204G   V1.003]
+multi_disc = "Disc "
+
 # Street Fighter Zero 3 (Japan)
 [T-1246G   V1.002]
 sector_delay = 1000
+
+# Suchie-Pai Adventure - Doki Doki Nightmare (Japan)
+[T-5713G   V1.003]
+multi_disc = "Disc "
+
+# Super Adventure Rockman (Japan)
+[T-1225G   V1.000]
+multi_disc = "Disc "
 
 ## ------------------------------------------------------------- ##
 
@@ -642,21 +1095,25 @@ sector_delay = 1000
 sector_delay = 4000
 play_delay = 4000
 
-# The Emblem of Justice (Japan)
-[T-21001G  V1.003]
-sector_delay = 1000
+# Tenchi Muyou! Mimiri Onsen - Yukemuri no Tabi (Japan)
+[T-21802G   V1.600]
+multi_disc = "Disc "
 
-# The Horde (USA)
-[T-15909H50V1.000]
-sector_delay = 1000
+# Tenchi Muyou! Toukou Muyou - Aniraji Collection (Japan)
+[T-26103G   V1.004]
+multi_disc = "Disc "
 
-# The Incredible Hulk: The Pantheon Saga (USA)
-[T-7905H   V1.003]
-sector_delay = 1000
+# Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (Japan)
+[T-14301G   V1.011]
+multi_disc = "Disc "
 
 # Thunderhawk II (Japan)
 [T-6006G   V1.001]
 sector_delay = 8000
+
+# Thunder Storm & Road Blaster (Japan)
+[T-20701G   V1.000]
+multi_disc = "Disc "
 
 # Thunderstrike 2 (USA)
 [T-7902H   V3.000]
@@ -666,17 +1123,45 @@ sector_delay = 8000
 [T-20607G  V1.003]
 play_delay = 4000
 
+# Time Gal & Ninja Hayate (Japan) (En,Ja)
+[T-20702G   V1.003]
+multi_disc = "Disc "
+
 # Titan Wars (Europe)
 [T-15911H50V1.000]
 sector_delay = 1000
+
+# Tokimeki Memorial Drama Series Vol. 2 - Irodori no Love Song (Japan)
+[T-9529G   V1.005]
+multi_disc = "Disc "
+
+# Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta (Japan)
+[T-9532G   V1.001]
+multi_disc = "Disc "
 
 # Tokuso Kidoutai J-SWAT (Japan)
 [T-20602G  V1.003]
 play_delay = 2000
 
+# Tokyo Shadow (Japan)
+[T-1110G   V1.002]
+multi_disc = "Disc "
+
+# Torico (Europe)
+[MK-81053   V1.002]
+multi_disc = "Disc "
+
 # True Pinball (USA)
 [T-16406H  V1.000]
 play_delay = 1000
+
+# Tutankhamen no Nazo - A.N.K.H (Japan)
+[T-35601G   V1.001]
+multi_disc = "Disc "
+
+# Twinkle Star Sprites (Japan)
+[T-37301G   V1.003]
+multi_disc = "Disc "
 
 ## ------------------------------------------------------------- ##
 
@@ -687,15 +1172,20 @@ play_delay = 1000
 [T-26414G  V1.001]
 sector_delay = 4000
 
+# Unsolved, The (Japan)
+[T-7017G   V1.002]
+multi_disc = "Disc "
+
 ## ------------------------------------------------------------- ##
 
 
 ## ----------------------------- V ----------------------------- ##
 
-# Virtuacall S (Japan) (Disc 1) (Game Honpen)
+# Virtuacall S (Japan)
 [T-19718G  V1.003]
 sector_delay = 4000
 play_delay = 4000
+multi_disc = "Disc "
 
 # Virtua Fighter (Europe)
 [MK_8100550V1.000]
@@ -717,11 +1207,26 @@ sector_delay = 1000
 [GS-9064   V1.000]
 sector_delay = 1000
 
+# Virus (Japan)
+[T-14304G   V1.001]
+multi_disc = "Disc "
+
+# Voice Fantasia S - Ushinawareta Voice Power (Japan)
+[T-16706G   V1.002]
+multi_disc = "Disc "
+
+# Voice Idol Maniacs - Pool Bar Story (Japan)
+[T-1312G   V1.001]
+multi_disc = "Disc "
 
 ## ------------------------------------------------------------- ##
 
 
 ## ----------------------------- W ----------------------------- ##
+
+# Wangan Dead Heat + Real Arrange (Japan)
+[T-9103G   V1.000]
+multi_disc = "Disc "
 
 # Waku² Monster (Japan)
 [T-16608G  V1.001]
@@ -732,9 +1237,17 @@ play_delay = 1000
 sector_delay = 4000
 play_delay = 4000
 
+# With You - Mitsumeteitai (Japan)
+[T-20117G   V1.000]
+multi_disc = "Disc "
+
 # Wizardry: Llylgamyn Saga (Japan)
 [T-38601G  V1.002]
 sector_delay = 1000
+
+# Wizardry Nemesis - The Wizardry Adventure (Japan)
+[T-37001G   V1.000]
+multi_disc = "Disc "
 
 ## ------------------------------------------------------------- ##
 
@@ -758,5 +1271,9 @@ sector_delay = 1000
 # Zero Divide: The Final Conflict (Japan)
 [T-31601G  V1.003]
 play_delay = 2000
+
+# Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan)
+[T-33005G   V1.002]
+multi_disc = "Disc "
 
 ## ------------------------------------------------------------- ##
