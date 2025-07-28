@@ -244,7 +244,7 @@ play_delay = 50000
 # sector_delay = 8000
 
 # Flash SegaSaturn Vol. 1 (Japan) (2M)
-# [610616601 V1.000]
+[610616601 V1.000]
 play_delay = 30000
 sector_delay = 08000
 
