@@ -1,4 +1,4 @@
-# Private Idol Disc: Data-hen: Race Queen F (Japan)
+# Private Idol Disc Vol. 10: Mai Masaki (Japan)
 
 SAROO's attributes configuration for this game.
 
